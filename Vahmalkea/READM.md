@@ -21,49 +21,49 @@
 ### Monoceros
 ![Monoceros](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Monoceros.png)
 
-Amener le à proximité de fissure au sol. Lors de son explosion, cela réduira considérablement les DP de l'animal.
+Amener-le à proximité de fissure au sol. Lors de son explosion, cela réduira considérablement les DP de l'animal.
 
 ---
 
 ### Situs
 ![Situs](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Situs.png)
 
-Lorsque celui-ci s'arrète pour charger une attaque, utiliser des attaques à CC afin de le stoper et ainsi reduire considérablement ses DP.
+Lorsque celui-ci s'arrète pour charger une attaque, utiliser des attaques à CC afin de le stopper et ainsi reduire considérablement ses DP.
 
 ---
 
 ### Kreomar
 ![Kreomar](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Kreomar.png)
 
-Lorque celui-ci attaque, se placer dans son dos et attaquer afin de le stoper et ainsi réduire considérablement des DP. Attention cependant, les attaques à répétition de ce monstre peuvent faire beaucoup de dégât.
+Lorque celui-ci attaque, se placer dans son dos et attaquer afin de le stopper et ainsi réduire considérablement ses DP. Attention cependant, les attaques à répétition de ce monstre peuvent faire beaucoup de dégâts.
 
 ---
 
 ### Lacerta
 ![Lacerta](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Lacerta.png)
 
-Attendre qu'il invoque des monstres supplémentaire et ne surtout pas les taper. Le Lacerta va ensuite tenter de charger une attaque, à ce moment là il est possible de le burst. Une fois stopé, ses DP seront considérablement réduits.
+Attendre qu'il invoque des monstres supplémentaires et ne surtout pas les tapper. Le Lacerta va ensuite tenter de charger une attaque, à ce moment là il est possible de le burst. Une fois stoppé, ses DP seront considérablement réduits.
 
 ---
 
 ### Putorakuim
 ![Putorakium](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Putorakium.png)
 
-Utiliser un fusil disponible aux PNJ pour 2 épine de Vaha.
+Utiliser un fusil disponible aux PNJ pour 2 épines de Vaha.
 
 ---
 
 ### Kratenn
 ![Kratenn](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Kratenn.png)
 
-Lorsque Kratenn se charge (des éclairs et de la poussière apparaissent autour de lui), utiliser des fusil afin de détruire son armure, ce qui diminuera considérablement ses DP. Une fois stopé, chaque membre du groupe doit le toucher avant qu'il ne meurt afin dobtenir le Coeur Brulant.
+Lorsque Kratenn se charge (des éclairs et de la poussière apparaissent autour de lui), utiliser des fusils afin de détruire son armure, ce qui diminuera considérablement ses DP. Une fois stoppé, chaque membre du groupe doit le toucher avant qu'il ne meurt afin d'obtenir le Coeur Brulant.
 
 ---
 
 ### Atenn
 ![Atenn](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Atenn.png)
 
-Lors du combat, il est nécessaire d'avoir 1 joueur devant chacun des pilers de couleur (Rouge, Bleu et Jaune) et de les garder bas en PV. Pendant le combat, Atenn va indiquer la couleur du pilier à détruire afin de pouvoir le CC. L'opération est à répéter autant de fois jusqu'à sa mort.  
+Lors du combat, il est nécessaire d'avoir 1 joueur devant chacun des pilers de couleur (Rouge, Bleu et Jaune) et de les garder bas en PV. Pendant le combat, Atenn va indiquer la couleur du pilier à détruire afin de pouvoir le CC. L'opération est à répéter autant de fois qu'il le faut jusqu'à sa mort.  
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
 ## Enigmes
@@ -86,7 +86,7 @@ Placer les 6 boîtes de sorte à ce que la balance soit équilibrée (elles ne f
 - Mouvement 2 : Bouclier (balance le bras droit)
 - Mouvement 3 : Sol (frappe le sol avec le bouclier)
 
-Le but ici est de reproduire les mouvements effectués par l'arme ancestrale. Les 3 derniers mouvements (avec illumination des plateforme) ne comptent pas dans la combinaison.
+Le but ici est de reproduire les mouvements effectués par l'arme ancestrale. Les 3 derniers mouvements (avec illumination des plateformes) ne comptent pas dans la combinaison.
 
 ---
 
@@ -104,12 +104,12 @@ Lorsque la bobine est activée, les piliers vont s'éclairer succéssivement en 
 
 ![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle4.png)
 
-1 joueur doit se trouver sur chacune des plateformes indiquées. Le joueur devant valider la quête est placé proche de la sphere et intéragie avec lorsque tous les autres joueurs sont bien placés. Effectuer une rotation pour les autre participant n'ayant pas validé la quête.
+1 joueur doit se trouver sur chacune des plateformes indiquées. Le joueur devant valider la quête est placé proche de la sphere et intéragit avec lorsque tous les autres joueurs sont bien placés. Effectuer une rotation pour les autres participants n'ayant pas validé la quête.
 ### Cachées
 #### Plateformes et sauts
 **Localisation :** *proche de la rivière de la Tempête de Vaha*  
 **Requiert au moins 4 joueurs**
-- Faire descendre la première plateforme en plaçant 1 joueur sur la platefore me gauche et intéragir avec la shpère
+- Faire descendre la première plateforme en plaçant 1 joueur sur la platefore de gauche et intéragir avec la shpère
 - 1 joueur se place sur la plateforme
 - Le but est de faire monter le joueur jusqu'au cube présent en haut du parcours. Les combinaisons possibles sont les suivantes :
     - Plateforme de gauche
@@ -147,26 +147,26 @@ Activer la bobine puis effectuer le chemin présenté ici :
 ## Boss Final
 ![Urkyos](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Urkyos.png)
 ### Phase 1
-2 boss sont présent dans la pièce. Le but est de les éloignés l'un de l'autre et de baisser leur PV. Pour ce faire 1 joueur s'occupe de Lucretia en le positionant en haut à droite, 1 autre s'occupe de Urkyos en le positionnant en bas à gauche (sens d'orientation basée sur l'entrée).  
+2 boss sont présents dans la pièce. Le but est de les éloignés l'un de l'autre et de baisser leur PV. Pour se faire, 1 joueur s'occupe de Lucretia en le positionant en haut à droite, 1 autre s'occupe de Urkyos en le positionnant en bas à gauche (sens d'orientation basée sur l'entrée).  
 Les PV des 2 boss doivent arriver en même temps (5 secondes d'intervalle) à 50%.  
 Pendant ce temps, le reste du groupe va pouvoir utiliser les piliers situés en bas de la salle pour positionner des zones dans lesquelles ils devront tuer les add (1 add = 1 zone = 1 debuff pour chacun des boss).  
 **⚠️ Attention à ne pas amener les add trop près des boss, cela leur permet de récupérer de la vie. ⚠️**
 
-Lorsque les boss se figent, cela veut dire qu'ils sont passés à 50% de PV. Assurez vous que les 2 soient bien dans le même cas.
+Lorsque les boss se figent, cela veut dire qu'ils sont passés à 50% de PV. Assurez vous que les 2 soient bien dans la même situation.
 
 ---
 
 ### Phase 2
 **⚠️ Attention : seul 3 essais sont disponibles lors de cette phase. Si à la 3ème tentative vous n'avez pas réussit à valider l'étape des couleurs, vous serrez ejectés du donjon. ⚠️**  
 
-Pendant cette phase, pour plus de simplicité de mouvement, 1 joueur peut s'occuper de garder le boss en bas de la salle. Des piliers de couleur vont apparaîtres dans chacun des coins de la salle, ainsi que des petites sphere des couleurs correspondantes. Le but ? Amener 3 sphères de la couleur du pilier pour le désactiver (à répéter pour chaque pilier). Attention cependant, quand vous passer à proximiter de quelqu'un, il est possible de lui prendre les spheres qui le suivent. Faites donc bien attention à vos déplacement et n'allez pas trop vite.  
+Pendant cette phase, pour plus de simplicité de mouvement, 1 joueur peut s'occuper de garder le boss en bas de la salle. Des piliers de couleur vont apparaîtres dans chacun des coins de la salle, ainsi que des petites spheres des couleurs correspondantes. Le but ? Amener 3 sphères de la couleur du pilier pour le désactiver (à répéter pour chaque pilier). Attention cependant, quand vous passer à proximiter de quelqu'un, il est possible de lui prendre les spheres qui le suivent. Faites donc bien attention à vos déplacements et n'allez pas trop vite.  
 Une fois tous les pilier désactivés, il est possible de DPS le boss sans qu'il puisse se défendre. Si vous arrivez à descendre ses PV à 30%, alors la phase 3 démarrera, sinon, recommancez la phase 2.
 
 ---
 
 ### Phase 3
-Il est maintenant temps de DPS le boss à fond. Placez vous dans un coin et attendez que le boss indique qu'il va poser de la lave au sol. A ce moment précis, utilisez vos CC pour le mettre au sol. Si c'est le cas, vous allez pouvoir le DPS tranquilement, sinon reculer vous et placer vous un peu plus loin dans la salle pour recommencer.  
-**⚠️ Attention à ne pas vous déplacer trop dans la salle : si le boss place de la lave partout, vous n'aurez plus la possibiliter de vous déplacer. Essayez de faire le tour en finissant par le haut de la salle sans vous presser. ⚠️**
+Il est maintenant temps de DPS le boss à fond. Placez vous dans un coin, bourriner le comme vous pouvez et lorsqu'il indique qu'il va poser de la lave au sol, utilisez vos CC pour le mettre au sol. Si c'est le cas, vous allez pouvoir le DPS tranquilement, sinon reculez vous et placez vous un peu plus loin dans la salle pour recommencer.  
+**⚠️ Attention à ne pas vous déplacer trop dans la salle : si le boss place de la lave partout, vous n'aurez plus la possibilité de vous déplacer. Essayez de faire le tour en finissant par le haut de la salle sans vous presser. ⚠️**
 
 Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer votre butin !
 
