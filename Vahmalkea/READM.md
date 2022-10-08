@@ -18,8 +18,10 @@
 | Zone | Clé | Obtention |
 |:---------------:|:---------------:|:-----:|
 | Coeur de Vaha  | ![Croc sec](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocSec.png) | Alchimie simple : ![Epine de Vaha](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Epine.png)x10 |
-| Coeur de Vaha |  |  |
+| Coeur de Vaha | Battre Kratenn | ![Coeur brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CoeurBrulant.png) |
 | Tête de Vaha  | ![Croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocBrulant.png) | ![Association croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeCrocBrulant.png) |
+| Tête de Vaha | Battre Atenn | ![Coquille de raison gelée](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Coquille.png) |
+| Tête de Vaha | Battre Atenn | ![Cloche murmurante de Vaha](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Cloche.png) |
 | Jardin de Vaha  | ![Croc tordu](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocTordu.png) | ![Association croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeCrocTordu.png) |
 | Berceau de Vaha  | ![Dague de Lucretia](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Dague.png) | ![Association croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeDague.png) |
 
