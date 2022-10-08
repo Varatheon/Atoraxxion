@@ -267,6 +267,7 @@ Des chiffres vont apparaitre de chaque côté du gros bloc. Chacun des joueurs s
 ### Gestion de la puissance du boss
 Le terrain possède un dispositif permettant de réglé la difficulté (représentés par les symboles I, II, III et ⬛) du boss. En fonction du niveau choisi, la défense de Sentirutos diminue mais son attaque augmente.  
 *Exemple: I: attaque faible, défense élevée | ⬛: attaque élevée, défense faible*  
+Pendant les phases DPS, placer la difficulté en **II** ou **III** en fonction de la résistance du groupe
 
 ![Power stone](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LastBossPowerStone.png)
 
@@ -289,6 +290,7 @@ Plusieurs fois pendant le combats, votre personnage sera 'aspiré' par une éner
 ---
 
 ### Poissons brillants
+**Difficulté : III ou ⬛**  
 Lorsque le boss arrive à environ **90%** de PV, la phase des poissons est déclanchée.  
 - 1 poisson apprait par cadrant ( = 6)
 - 5 poissons vont alors se mettre à briller : ce sont ceux qu'il faut détruire avant qu'ils attaignent le boss.
@@ -297,6 +299,7 @@ Lorsque le boss arrive à environ **90%** de PV, la phase des poissons est décl
 ---
 
 ### Calamars et pierre de puissance
+**Difficulté : I**  
 Lorsque le boss arrive à environ **80%** de PV, la phase des calamars est déclanchée.  
 - 6 faisseaux de lumière sont tirés depuis des pyramides flotantes. 1 d'entre elle dégage une petite fumée blanche. Notez sa position
 - Pendant que vous cherchez la bonne pyramide, attaquer le calamar brillant en jaune. Celui ci, une fois battu, laisse tomber un pierre de puissance. Utilisez là au niveau de la pyramide trouvée préalablement en effectuant un clique droit sur l'item dans votre inventaire.  
@@ -305,6 +308,7 @@ Lorsque le boss arrive à environ **80%** de PV, la phase des calamars est décl
 ---
 
 ### Couleurs
+**Difficulté : I**  
 Lorsque le boss arrive à environ **70%** de PV, la phase des couleurs est déclanchée (et est déclanchée plus tard autour de 30-40% PV).  
 - 5 couleurs sont possibles : Jaune, Bleu, Rouge, Blan et Vert.
 - 1 Joueur énonce les couleurs qui arrivent vers le boss afin qu'un autre puisse en noté le nombre d'occurence. Pendant ce temps, les autres joueurs localisent les portes de couleurs localisées sur le mur au fond de chacun des cadrants.
@@ -313,6 +317,7 @@ Lorsque le boss arrive à environ **70%** de PV, la phase des couleurs est décl
 ---
 
 ### Stelles et symboles
+**Difficulté : I ou II**  
 Lorsque le boss arrive à environ **50%** de PV, la phase des symboles est déclanchée.  
 Les 2 stelles protectrices vont présentés chacune un symbole ( ◭, △ ou 8), et chacun des cadrants en face des stelles (3 et 3) vont également afficher des symboles. Vous devez alors pour chaque **moitié de salle**, placez un joueur sur le symbole au sol correspondant à celui de la stelle.  
 **⚠️ Attention: si vous échouez lors de cette phase, vous devrez recommancer le combat ! ⚠️**
@@ -320,12 +325,14 @@ Les 2 stelles protectrices vont présentés chacune un symbole ( ◭, △ ou 8),
 ---
 
 ### Scorpions
+**Difficulté : III**  
 Lorsque le boss arrive à environ **20%** de PV, la phase des scorpions est déclanchée (et peut revenir plus tard lors du combat).  
 3 scorpions vont appraitre dans la salle, l'objectif est de tous les battre (ils meurent en arrivant à 50% de PV).
 
 ---
 
 ### Rayons de lumière
+**Difficulté : II ou III**  
 Lorsque le boss arrive à environ **20%** de PV ou moins.  
 Ici, le but est de détruire toute les sources de rayon de lumières (provenant de d'artefacts depuis les murs de la salles) en faisant attention à toutes les AoE du boss.
 
