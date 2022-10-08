@@ -25,7 +25,7 @@
 ### Cartios
 ![Cartios](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Cartios.png)
 
-Lorsque le scorpion commence à se charger, attaquer en priorité le dard planté au sol. Le monstre se retournera lorsque les dégâts reçu seront suffisant.  
+Lorsque le scorpion commence à se charger, attaquer en priorité le dard planté au sol. Le monstre se retournera lorsque les dégâts reçus seront suffisant.  
 **⚠️Lorsque le dard est vert (flux du sol vers le scorpion), les dégâts reçus le soignent.⚠️**
 
 ---
@@ -54,7 +54,7 @@ Utiliser les poissons (Pisces) et les mobs bleu pour le refroidir en les tuant �
 ### Serphenn
 ![Serphenn](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Serphenn.png)
 
-- Lorsqu'une notification indiquant que Serphenn va activer l'appareil, il faut que tout les piliers **SAUF 1** soient détruit.
+- Lorsqu'une notification indiquant que Serphenn va activer l'appareil, il faut que tout les piliers **SAUF 1** soient détruits.
 - Lorsqu'une notification indiquant que Serphenn va utiliser une attaque de souffle, il faut qu'un des membre du groupe se saisisse d'une sphère et se positionne devant lui. Lors de l'attaque, le boss sera alors pétrifié et il sera possible de lui donné le coup fatal.
 
 ---
@@ -239,47 +239,63 @@ Le terrain possède un dispositif permettant de réglé la difficulté (représe
 
 ---
 
+### Répartition des joueurs
+Le terrain est partagé en 6 cadrants. 1 joueur se positionne sur le cadrant où se situe la gestion de la difficulté, les autres essayent de se positionner de sorte à couvrir tout le terrain de vue (utile lors de la phase des poissons brillants).
+
+---
+
 ### Cubes volants et prisons
 - Pendant le combat, des cubes volant apparaitront sur le terrain et des spheres jaunes chercherons à les rejoindres. Pour faire disparaitre les cubes, vous devez intercepter les sphères jaunes en vous plaçant sur leur trajectoire.
 - Aléatoirement pendant le combats, des 'prisons' vont apparaitres sur le terrain. Si un joueur est piégé dedans (le joueur en question est incapable de bouger ou d'attaquer), un autre joueur peut l'aider en la détruisant à distance (attention cependant à ne pas être piégé egalement lors du sauvetage). Si des prisons apparaissent sur le terrain, essayez de les faire disparaitre rapidement avant que quelqu'un soit piégé.
 
 ---
 
-### Poissons brillants
-2 boss sont présents dans la pièce. Le but est de les éloignés l'un de l'autre et de baisser leur PV. Pour se faire, 1 joueur s'occupe de Lucretia en le positionant en haut à droite, 1 autre s'occupe de Urkyos en le positionnant en bas à gauche (sens d'orientation basée sur l'entrée).  
-Les PV des 2 boss doivent arriver en même temps (5 secondes d'intervalle) à 50%.  
-Pendant ce temps, le reste du groupe va pouvoir utiliser les piliers situés en bas de la salle pour positionner des zones dans lesquelles ils devront tuer les add (1 add = 1 zone = 1 debuff pour chacun des boss).  
-**⚠️ Attention à ne pas amener les add trop près des boss, cela leur permet de récupérer de la vie. ⚠️**
-
-Lorsque les boss se figent, cela veut dire qu'ils sont passés à 50% de PV. Assurez vous que les 2 soient bien dans la même situation.
+### Attaque de zone et protection
+Plusieurs fois pendant le combats, votre personnage sera 'aspiré' par un énergie. Il vous faudra alors vous rendre rapidement derière une des stelles afin d'être protégé de l'attaque de zone qui suivra (OS si pas protégé).
 
 ---
 
-### Calamards et pierre de puissance
-**⚠️ Attention : seul 3 essais sont disponibles lors de cette phase. Si à la 3ème tentative vous n'avez pas réussit à valider l'étape des couleurs, vous serrez ejectés du donjon. ⚠️**  
+### Poissons brillants
+Lorsque le boss arrive à environ 90% de PV, la phase des poissons est déclanchée.  
+- 1 poisson apprait par cadrant ( = 6)
+- 5 poissons vont alors se mettre à briller : ce sont ceux qu'il faut détruire avant qu'ils attaignent le boss.
+- Si 1 des poissons brillant touche le boss, il est possible de survivre à la prochaine attaque en cliquant sur 'V' au moment ou le message d'echec apparait.
 
-Pendant cette phase, pour plus de simplicité de mouvement, 1 joueur peut s'occuper de garder le boss en bas de la salle. Des piliers de couleur vont apparaîtres dans chacun des coins de la salle, ainsi que des petites spheres des couleurs correspondantes. Le but ? Amener 3 sphères de la couleur du pilier pour le désactiver (à répéter pour chaque pilier). Attention cependant, quand vous passer à proximiter de quelqu'un, il est possible de lui prendre les spheres qui le suivent. Faites donc bien attention à vos déplacements et n'allez pas trop vite.  
-Une fois tous les pilier désactivés, il est possible de DPS le boss sans qu'il puisse se défendre. Si vous arrivez à descendre ses PV à 30%, alors la phase 3 démarrera, sinon, recommancez la phase 2.
+---
+
+### Calamars et pierre de puissance
+Lorsque le boss arrive à environ 80% de PV, la phase des calamars est déclanchée.  
+- 6 faisseaux de lumière sont tirés depuis des pyramides flotantes. 1 d'entre elle dégage une petite fumée blanche. Notez sa position
+- Pendant que vous cherchez la bonne pyramide, attaquer le calamar brillant en jaune. Celui ci, une fois battu, laisse tomber un pierre de puissance. Utilisez là au niveau de la pyramide trouvée préalablement en effectuant un clique droit sur l'item dans votre inventaire.  
+**⚠️ Attention a bien vous mettre face au boss lors de l'utilisation de l'objet, vous ne pourrez pas bouger (et donc vous soigner) pendant un certain temps ⚠️**
 
 ---
 
 ### Couleurs
-Il est maintenant temps de DPS le boss à fond. Placez vous dans un coin, bourriner le comme vous pouvez et lorsqu'il indique qu'il va poser de la lave au sol, utilisez vos CC pour le mettre au sol. Si c'est le cas, vous allez pouvoir le DPS tranquilement, sinon reculez vous et placez vous un peu plus loin dans la salle pour recommencer.  
-**⚠️ Attention à ne pas vous déplacer trop dans la salle : si le boss place de la lave partout, vous n'aurez plus la possibilité de vous déplacer. Essayez de faire le tour en finissant par le haut de la salle sans vous presser. ⚠️**
-
-Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer votre butin !
+Lorsque le boss arrive à environ 70% de PV, la phase des couleurs est déclanchée (et est déclanchée plus tard autour de 30-40% PV).  
+- 5 couleurs sont possibles : Jaune, Bleu, Rouge, Blan et Vert.
+- 1 Joueur énonce les couleurs qui arrivent vers le boss afin qu'un autre puisse en noté le nombre d'occurence. Pendant ce temps, les autres joueurs localisent les portes de couleurs localisées sur le mur au fond de chacun des cadrants.
+- Une fois les couleurs terminées, le joueurs ayant compter le nombre d'occurence de chacune indique celle qui est apparue le **PLUS** de fois, et chaque joueur doit se déplacer en direction de la porte de la couleur correspondante afin d'obtenir une sphère protectirece. (lorsque vous avez obtenue la sphère, vous pouvez vous déplacer plus loin et laisser la place à d'autre joueur, la zone permettant de l'obtenir etant assez restrainte).
 
 ---
 
 ### Stelles et symboles
+Lorsque le boss arrive à environ 50% de PV, la phase des symboles est déclanchée.  
+Les 2 stelles protectrices vont présentés chacune un symbole ( ◭, △ ou 8), et chacun des cadrants en face des stelles (3 et 3) vont également afficher des symboles. Vous devez alors pour chaque **moitié de salle**, placez un joueur sur le symbole au sol correspondant à celui de la stelle.
 
 ---
 
 ### Scorpions
+Lorsque le boss arrive à environ 20% de PV, la phase des scorpions est déclanchée (et peut revenir plus tard lors du combat).  
+3 scorpions vont appraitre dans la salle, l'objectif est de tous les battre (ils meurent en arrivant à 50% de PV).
 
 ---
 
 ### Rayons de lumière
+Lorsque le boss arrive à environ 20% de PV ou moins.  
+Ici, le but est de détruire toute les sources de rayon de lumières (provenant de d'artefacts depuis les murs de la salles) en faisant attention à toutes les AoE du boss.
+
+Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer votre butin !
 
 ---
 
