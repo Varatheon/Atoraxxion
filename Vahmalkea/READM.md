@@ -1,9 +1,9 @@
 # Vahmalkea
 ## Sommaire
-### [Recommandations](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#recommandations)
-### [Organisation du donjon](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#organisation-du-donjon)
-### [Monstres](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#monstres)
-### [Enigmes](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#enigmes)
+### [Recommandations](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#recommandations-1)
+### [Organisation du donjon](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#organisation-du-donjon-1)
+### [Monstres](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#monstres-1)
+### [Enigmes](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#enigmes-1)
 ## Recommandations
 - **Serveur saisonnier** : Equipement Tuvala DUO minimum
 - **Serveur normal** : 250 AP Kutum | 300 DP (pas de pénalités de mort)
