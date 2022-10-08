@@ -19,6 +19,18 @@
 ## Organisation du donjon
 ![Vahmalkea map complète](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/VahmalkeaMap.png)
 
+| Zone | Item | Obtention |
+|:---:|:---:|:---:|
+| Tempête de Vaha | ![Epine](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Epine.png) | Tuer les monstres de la zone |
+| Coeur de Vaha | ![Croc sec](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocSec.png) | Alchimie Simple sur ![Epine](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Epine.png) x10 |
+| Coeur de Vaha | ![Coeur brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CoeurBrulant.png) | Battre Kratenn |
+| Tête de Vaha | ![Croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocBrulant.png) | ![Fabrication croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeCrocBrulant.png) |
+| Tête de Vaha | ![Coquille](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Coquille.png) | Battre Atenn |
+| Tête de Vaha | ![Cloche](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Cloche.png) | Battre Atenn |
+| Jardin de Vaha | ![Croc tordu](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocTordu.png) | ![Fabrication croc tordu](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeCrocTordu.png) |
+| Berceau de Vaha | ![Dague](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Dague.png) | ![Fabrication dague](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeDague.png) |
+
+
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
 
 ## Monstres
