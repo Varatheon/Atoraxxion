@@ -1,4 +1,8 @@
 # Vahmalkea
+<p align="center">
+  <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Vaha.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 ## Sommaire
 ### [Recommandations](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#recommandations-1)
 ### [Organisation du donjon](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#organisation-du-donjon-1)
