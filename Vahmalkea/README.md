@@ -140,7 +140,7 @@ Chaque combinaison entraine différents mouvements de plateforme.
 
 #### Tetris
 **Localisation :** *Monter la falaise dans la salle de la Tête de Vaha*   
-En fonction de la forme affichée (visible en regardant au dessus du damier depuis la bobine), effectuer les combinaisons présentées ici :
+En fonction de la forme affichée (visible en regardant au dessus du damier depuis la bobine), effectuer les combinaisons présentées ici en intéragissant avec chacun des cubes :
 > Memo : 
 > - Message 1 : rien
 > - Message 2 : |
