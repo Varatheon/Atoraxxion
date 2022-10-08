@@ -3,6 +3,7 @@
 ### [Recommandations](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#recommandations)
 ### [Organisation du donjon](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#organisation-du-donjon)
 ### [Monstres](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#monstres)
+### [Enigmes](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#enigmes)
 ## Recommandations
 - **Serveur saisonnier** : Equipement Tuvala DUO minimum
 - **Serveur normal** : 250 AP Kutum | 300 DP (pas de pénalités de mort)
@@ -31,3 +32,21 @@ Lorsque Krahtenn se charge (des éclairs et de la poussière apparaissent autour
 ### Ahtenn
 ![image](url)
 Lors du combat, il est nécessaire d'avoir 1 joueur devant chacun des pilers de couleur (Rouge, Bleu et Jaune) et de les garder bas en PV. Pendant le combat, Ahtenn va indiquer la couleur du pilier à détruire afin de pouvoir le CC. L'opération est à répéter autant de fois jusqu'à sa mort.
+## Enigmes
+### Quêtes
+#### Balance
+![Enigme 1](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle1.png)
+#### Arme ancestrale
+![Enigme 2](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle2.png)
+#### Piliers de couleur
+![Enigme 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle3.png)
+#### Plateformes
+![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle4.png)
+### Cachées
+#### Plateformes et sauts
+#### Tetris
+![Enigme cachée 2.1](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-1.png)
+![Enigme cachée 2.2](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-2.png)
+![Enigme cachée 2.3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-3.png)
+#### Bon chemin
+![Enigme cachée 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle4.png)
