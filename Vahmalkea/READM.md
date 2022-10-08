@@ -1,31 +1,21 @@
 # Vahmalkea
 ## Sommaire
-### [Recommandations](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#recommandations-1)
-### [Organisation du donjon](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#organisation-du-donjon-1)
-### [Monstres](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#monstres-1)
-### [Enigmes](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#enigmes-1)
-### [Boss Final](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#boss-final-1)
-### [Connaissances](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#connaisances)
+### [Recommandations](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#recommandations-1)
+### [Organisation du donjon](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#organisation-du-donjon-1)
+### [Monstres](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#monstres-1)
+### [Enigmes](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#enigmes-1)
+### [Boss Final](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#boss-final-1)
+### [Connaissances](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#connaisances)
 ## Recommandations
 - **Serveur saisonnier** : Equipement Tuvala DUO minimum
 - **Serveur normal** : 250 AP Kutum | 300 DP (pas de pénalités de mort)
 - **Serveur Elvia** : 280 AP Kutum | 340 DP (pénalités de mort sur tout le donjon excepté pour le boss final)  
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
+[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
 ## Organisation du donjon
 ![Vahmalkea map complète](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/VahmalkeaMap.png)
 
-| Zone | Clé | Obtention |
-|:---------------:|:---------------:|:-----:|
-| Coeur de Vaha  | ![Croc sec](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocSec.png) | Alchimie simple : ![Epine de Vaha](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Epine.png)x10 |
-| Coeur de Vaha | Battre Kratenn | ![Coeur brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CoeurBrulant.png) |
-| Tête de Vaha  | ![Croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocBrulant.png) | ![Association croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeCrocBrulant.png) |
-| Tête de Vaha | Battre Atenn | ![Coquille de raison gelée](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Coquille.png) |
-| Tête de Vaha | Battre Atenn | ![Cloche murmurante de Vaha](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Cloche.png) |
-| Jardin de Vaha  | ![Croc tordu](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocTordu.png) | ![Association croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeCrocTordu.png) |
-| Berceau de Vaha  | ![Dague de Lucretia](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Dague.png) | ![Association croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeDague.png) |
-
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
+[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
 
 ## Monstres
 ### Monoceros
@@ -75,7 +65,7 @@ Lorsque Kratenn se charge (des éclairs et de la poussière apparaissent autour 
 
 Lors du combat, il est nécessaire d'avoir 1 joueur devant chacun des pilers de couleur (Rouge, Bleu et Jaune) et de les garder bas en PV. Pendant le combat, Atenn va indiquer la couleur du pilier à détruire afin de pouvoir le CC. L'opération est à répéter autant de fois qu'il le faut jusqu'à sa mort.  
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
+[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
 ## Enigmes
 ### Quêtes
 #### Balance
@@ -153,7 +143,7 @@ Activer la bobine puis effectuer le chemin présenté ici :
 
 ![Enigme cachée 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret3.png)
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
+[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
 ## Boss Final
 ![Urkyos](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Urkyos.png)
 ### Phase 1
@@ -180,11 +170,13 @@ Il est maintenant temps de DPS le boss à fond. Placez vous dans un coin, bourri
 
 Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer votre butin !
 
+---
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
+
+[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
 ## Connaisances
 **⚠️ Finalisez bien toutes les énigmes avant de vous lancer dans les connaissances. En effet, vous aurez besoin du livre d'Atoraxxion pour obtenir les connaissances cachées !⚠️**  
 
-[![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/S_OsvOI5Bq8/0.jpg)](https://youtu.be/S_OsvOI5Bq8)  
+[![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/zuORHMQM0xQ/0.jpg)](https://www.youtube.com/watch?v=zuORHMQM0xQ&ab_channel=Rosendo)  
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
+[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
