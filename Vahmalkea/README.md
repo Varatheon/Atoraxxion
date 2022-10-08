@@ -203,7 +203,7 @@ Une fois tous les pilier désactivés, il est possible de DPS le boss sans qu'il
 ---
 
 ### Phase 3
-Il est maintenant temps de DPS le boss à fond. Placez vous dans un coin, bourriner le comme vous pouvez et lorsqu'il indique qu'il va poser de la lave au sol, utilisez vos CC pour le mettre au sol. Si c'est le cas, vous allez pouvoir le DPS tranquilement, sinon reculez vous et placez vous un peu plus loin dans la salle pour recommencer.  
+Il est maintenant temps de DPS le boss à fond. Placez vous dans un coin, bourrinez le comme vous pouvez et lorsqu'il indique qu'il va poser de la lave au sol, utilisez vos CC pour le mettre au sol. Si c'est le cas, vous allez pouvoir le DPS tranquilement, sinon reculez vous et placez vous un peu plus loin dans la salle pour recommencer.  
 **⚠️ Attention à ne pas vous déplacer trop dans la salle : si le boss place de la lave partout, vous n'aurez plus la possibilité de vous déplacer. Essayez de faire le tour en finissant par le haut de la salle sans vous presser. ⚠️**
 
 Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer votre butin !
