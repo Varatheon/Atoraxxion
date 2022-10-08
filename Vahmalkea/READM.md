@@ -5,6 +5,7 @@
 ### [Monstres](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#monstres-1)
 ### [Enigmes](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#enigmes-1)
 ### [Boss Final](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#boss-final-1)
+### [Connaissances](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#connaissances-1)
 ## Recommandations
 - **Serveur saisonnier** : Equipement Tuvala DUO minimum
 - **Serveur normal** : 250 AP Kutum | 300 DP (pas de pénalités de mort)
