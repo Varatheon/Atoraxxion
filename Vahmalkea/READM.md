@@ -43,20 +43,61 @@ Lors du combat, il est nécessaire d'avoir 1 joueur devant chacun des pilers de 
 ## Enigmes
 ### Quêtes
 #### Balance
+**Quête :** *to complete*
+
 ![Enigme 1](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle1.png)
+
+Placer les 6 boîtes de sorte à ce que la balance soit équilibrée (elle ne font pas toutes la même masse).
 #### Arme ancestrale
+**Quête :** *to complete*
+
 ![Enigme 2](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle2.png)
+
+- Mouvement 1 : Epée (balance le bras gauche)
+- Mouvement 2 : Bouclier (balance le bras droit)
+- Mouvement 3 : Sol (frappe le sol avec le bouclier)
+
+Le but ici est de reproduire les mouvements effectués par l'arme ancestrale. Les 3 derniers mouvements (avec illumination des plateforme) ne comptent pas dans la combinaison.
 #### Piliers de couleur
+**Quête :** *to complete*
+
 ![Enigme 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle3.png)
+
+Lorsque la bobine est activée, les piliers vont s'éclairer succéssivement en Rouge et en Bleu. 1 joueur va alors suivre les piliers rouge et un autre les piliers bleu et noter respectivement leur combinaison. A la fin de la séquence, les piliers s'éclairent d'une couleur (qui correspond à la couleur dont il faut entrer la combinaison). Reproduire ensuite la combinaison indiquée par le joueur.
 #### Plateformes
+**Quête :** *to complete*
+
 ![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle4.png)
+
+1 joueur doit se trouver sur chacune des plateformes indiquées. Le joueur devant valider la quête est placé proche de la sphere et intéragie avec lorsque tous les autres joueurs sont bien placés. Effectuer une rotation pour les autre participant n'ayant pas validé la quête.
 ### Cachées
 #### Plateformes et sauts
+**Localisation :** *proche de la rivière de la Tempête de Vaha*  
+**Requiert au moins 4 joueurs**
+- Faire descendre la première plateforme en plaçant 1 joueur sur la platefore me gauche et intéragir avec la shpère
+- 1 joueur se place sur la plateforme
+- Le but est de faire monter le joueur jusqu'au cube présent en haut du parcours. Les combinaisons possibles sont les suivantes :
+    - Plateforme de gauche
+    - Plateforme de droite
+    - Les 2 plateformes
+    - Aucune plateforme  
+
+Chaque combinaison entraine différents mouvements de plateforme.
+- Une fois le joueur arrivé en haut, il peut intéragir avec le cube afin de le faire apparaitre aux joueurs restés en bas.
 #### Tetris
+En fonction de la forme affichée (visible en regardant au dessus du damier depuis la bobine), effectuer les combinaisons présentées ici :
+> Memo : 
+> - Message 1 : rien
+> - Message 2 : |
+> - Message 3 : ||
+> - Message 4 : □
+
 ![Enigme cachée 2.1](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-1.png)
 ![Enigme cachée 2.2](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-2.png)
 ![Enigme cachée 2.3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-3.png)
 #### Bon chemin
+Activer la bobine puis effectuer le chemin présenté ici :
+
 ![Enigme cachée 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret3.png)
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
