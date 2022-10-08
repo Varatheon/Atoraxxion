@@ -177,6 +177,6 @@ Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer 
 ## Connaisances
 **⚠️ Finalisez bien toutes les énigmes avant de vous lancer dans les connaissances. En effet, vous aurez besoin du livre d'Atoraxxion pour obtenir les connaissances cachées !⚠️**  
 
-[![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/zuORHMQM0xQ/0.jpg)](https://www.youtube.com/watch?v=zuORHMQM0xQ&ab_channel=Rosendo)  
+[![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/S_OsvOI5Bq8/0.jpg)](https://youtu.be/S_OsvOI5Bq8)  
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
