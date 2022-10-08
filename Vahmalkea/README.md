@@ -186,10 +186,8 @@ Il est maintenant temps de DPS le boss à fond. Placez vous dans un coin, bourri
 
 Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer votre butin !
 
----
-
-
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
+
 ## Connaisances
 **⚠️ Finalisez bien toutes les énigmes avant de vous lancer dans les connaissances. En effet, vous aurez besoin du livre d'Atoraxxion pour obtenir les connaissances cachées !⚠️**  
 
