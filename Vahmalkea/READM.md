@@ -23,18 +23,18 @@ Amener le à proximité de fissure au sol. Lors de son explosion, cela réduira 
 ### Cetus
 ![image](url)
 Lorsque celui-ci s'arrète pour charger une attaque, utiliser des attaques à CC afin de le stoper et ainsi reduire considérablement ses DP.
-### Creomar
+### Kreomar
 ![image](url)
 Lorque celui-ci attaque, se placer dans son dos et attaquer afin de le stoper et ainsi réduire considérablement des DP. Attention cependant, les attaques à répétition de ce monstre peuvent faire beaucoup de dégât.
 ### Lacerta
 ![image](url)
 Attendre qu'il invoque des monstres supplémentaire et ne surtout pas les taper. Le Lacerta va ensuite tenter de charger une attaque, à ce moment là il est possible de le burst. Une fois stopé, ses DP seront considérablement réduits.
-### Putrakuim
+### Putorakuim
 ![image](url)
 Utiliser un fusil disponible aux PNJ pour 2 épine de Vaha.
-### Krahtenn
+### Kratenn
 ![image](url)
-Lorsque Krahtenn se charge (des éclairs et de la poussière apparaissent autour de lui), utiliser des fusil afin de détruire son armure, ce qui diminuera considérablement ses DP. Une fois stopé, chaque membre du groupe doit le toucher avant qu'il ne meurt afin dobtenir le Coeur Brulant.
+Lorsque Kratenn se charge (des éclairs et de la poussière apparaissent autour de lui), utiliser des fusil afin de détruire son armure, ce qui diminuera considérablement ses DP. Une fois stopé, chaque membre du groupe doit le toucher avant qu'il ne meurt afin dobtenir le Coeur Brulant.
 ### Ahtenn
 ![image](url)
 Lors du combat, il est nécessaire d'avoir 1 joueur devant chacun des pilers de couleur (Rouge, Bleu et Jaune) et de les garder bas en PV. Pendant le combat, Ahtenn va indiquer la couleur du pilier à détruire afin de pouvoir le CC. L'opération est à répéter autant de fois jusqu'à sa mort.  
