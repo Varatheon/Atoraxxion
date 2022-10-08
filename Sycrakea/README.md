@@ -110,10 +110,12 @@ Le but ici est d'activé l'ensemble des tours. Le paterne est le suivant :
 1. Les symboles (I, II, ¬, ㅁ, ou vide) des 4 cubes de chacunes des zones doivents être identiques. Pour se faire, les joueurs positionners dans la zones 2 doivent monter sur les plateformes afin de les faire correspondres.
 2. Il faut à présent allumer les 3 piliers de la zones 2. Les joueurs dans la zone 1 vont devoir se positionner sur les plateformes à leur disposition en suivant les indications des joueurs de la zones 2. Chacune des plateformes va avoir une action différente sur la lumière des pilier. A vous de trouver la bonne combinaison !  
 
-*1ère zone du puzzle : *
+*1ère zone du puzzle :*  
+
 ![Enigme 2-1](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme2-1.png)
 
 *2ème zone du puzzle :*  
+
 ![Enigme 2-2](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme2-2.png)
 ![Enigme 2-3](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme2-3.png)
 
@@ -121,7 +123,7 @@ Le but ici est d'activé l'ensemble des tours. Le paterne est le suivant :
 
 #### Mastermind
 **Quête :** *to complete*
-**⚠️ Attention : rangez vos pets pour effectuer cette enigme ! ⚠️**
+**⚠️ Attention : rangez vos pets pour effectuer cette enigme ! ⚠️**  
 
 ![Enigme 3](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme3.png)
 
@@ -136,56 +138,114 @@ Vous devez réaliser la bonne combinaison de cubes pour pousuivre. En attaquant 
 ---
 
 #### Cheminées ordonnées
-**Quête :** *to complete*
+**Quête :** *to complete*  
+**⚠️ Attention : rangez vos pets pour effectuer cette enigme ! ⚠️**  
 
 ![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme4.png)
 
-1 joueur doit se trouver sur chacune des plateformes indiquées. Le joueur devant valider la quête est placé proche de la sphere et intéragit avec lorsque tous les autres joueurs sont bien placés. Effectuer une rotation pour les autres participants n'ayant pas validé la quête.
+Lorsqu'un joueur activera la bobine, les cheminées s'activeront une à une. Il faut alors retenir la séquence des cheminées pour l'effectuer à nouveau une fois la séquence terminée.
 
 ---
 
 #### Rayons lumineux
 **Quête :** *to complete*
 
-![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme5.png)
+![Enigme 5](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme5.png)
 
-1 joueur doit se trouver sur chacune des plateformes indiquées. Le joueur devant valider la quête est placé proche de la sphere et intéragit avec lorsque tous les autres joueurs sont bien placés. Effectuer une rotation pour les autres participants n'ayant pas validé la quête.
+1. Pour cette énigme, activez la bobine.
+2. Faire tourner le bas en parlant à la bobine.
+![Enigme 5-1](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme5-1.png)  
+3. Trouvez le carré bleu de fin et positionnez le en bas en intéragissant avec la colonne.
+![Enigme 5-2](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme5-2.png)  
+4. Echangez les positions de la colonne de gauche (par rapport à la précédente) en intéragissant avec.
+![Enigme 5-3](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme5-3.png)  
+5. Valider la position en activant le rayon
+![Enigme 5-4](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme5-4.png)  
+
+Source: https://imgur.com/a/NA2Py42
 
 ### Cachées
 #### Saut de l'ange
-**Localisation :** *proche de la rivière de la Tempête de Vaha*  
-**Requiert au moins 4 joueurs**
-- Faire descendre la première plateforme en plaçant 1 joueur sur la platefore de gauche et intéragir avec la shpère
-- 1 joueur se place sur la plateforme
-- Le but est de faire monter le joueur jusqu'au cube présent en haut du parcours. Les combinaisons possibles sont les suivantes :
-    - Plateforme de gauche
-    - Plateforme de droite
-    - Les 2 plateformes
-    - Aucune plateforme  
+**Localisation :** *Ecaille de Syca*  
 
-Chaque combinaison entraine différents mouvements de plateforme.
-- Une fois le joueur arrivé en haut, il peut intéragir avec le cube afin de le faire apparaitre aux joueurs restés en bas.
-- 
 ![Enigme cachée 1](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Secret1.png)
+
+Activez la bobine puis sautez dans les anneaux flottants. Une fois en bas (si vous avez validé l'énigme), vous trouverez le cube permettant d'obtenir la connaissance au fond de l'eau.
 
 ---
 
 #### Séquence de nombre
-**Localisation :** *Monter la falaise dans la salle de la Tête de Vaha*   
-En fonction de la forme affichée (visible en regardant au dessus du damier depuis la bobine), effectuer les combinaisons présentées ici :
-> Memo : 
-> - Message 1 : rien
-> - Message 2 : |
-> - Message 3 : ||
-> - Message 4 : □
+**Localisation :** *Ecaille de Syca*   
+**Requiert au moins 2 joueurs**  
 
-![Enigme cachée 2.1](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Secret2-1.png)
-![Enigme cachée 2.2](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Secret2-2.png)
-![Enigme cachée 2.3](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Secret2-3.png)
+![Enigme cachée 2.1](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Secret2-1.png)  
+
+Des chiffres vont apparaitre de chaque côté du gros bloc. Chacun des joueurs se positionne alors en face d'une face disposant au sol d'un carré qui indiquera un symbole (I, II, ¬, ㅁ). Vous trouverez également 4 cubes flotants au dessus de carré présentant des symboles différents (I, II, ¬, ㅁ). Déroulement de l'énigme :
+1. Activation de la bobine
+2. Chacun des joueurs note la séquence de chiffre correspondant au symbole au sol.  
+
+![Enigme cachée 2.2](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Secret2-2.png)  
+
+*Exemple :*  
+**Joueur 1**  
+| Symbole | Chiffre |
+|:---:|:---:|
+| ㅁ | 0 |
+| I | 1 |
+| ¬ | 4 |
+| II | 1 |  
+    
+**Joueur 2**  
+| Symbole | Chiffre |
+|:---:|:---:|
+| I | 5 |
+| II | 0 |
+| ¬ | 3 |
+| ㅁ | 2 |
+
+3. Les 2 joueurs additionnent les chiffres d'un même symbole.  
+
+*Exemple :*  
+| Symbole | Joueur 1 | Joueur 2 | Total |
+|:---:|:---:|:---:|:---:|
+| I | 1 | 5 | 6 |
+| II | 1 | 0 | 1 |
+| ¬ | 4 | 3 | 7 |
+| ㅁ | 0 | 2 | 2 |
+    
+4. Positionner sur chaque cube (en les tapant) le numéro correspondant au total
+> **Mémo**  
+> Vide = 0  
+> I = 1  
+> II = 2  
+> ¬ = 3  
+> ㅁ = 4  
+> X = 5  
+> X + . = 6  
+> X + . + . = 7  
+> X + . + . + . = 8  
+> X + . + . + . + . = 9  
+
+[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 
 ## Boss Final
-![Urkyos](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Urkyos.png)
-### Phase 1
+![Sentirutos Rancunier](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Sentirutos.png)
+
+### Gestion de la puissance du boss
+Le terrain possède un dispositif permettant de réglé la difficulté (représentés par les symboles I, II, III et ⬛) du boss. En fonction du niveau choisi, la défense de Sentirutos mais son attaque augmente.  
+*Exemple: I: attaque faible, défense élevée | ⬛: attaque élevée, défense faible*  
+
+![Sentirutos Rancunier](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Sentirutos.png)
+
+---
+
+### Cubes volants et prisons
+- Pendant le combat, des cubes volant apparaitront sur le terrain et des spheres jaunes chercherons à les rejoindres. Pour faire disparaitre les cubes, vous devez intercepter les sphères jaunes en vous plaçant sur leur trajectoire.
+- Aléatoirement pendant le combats, des 'prisons' vont apparaitres sur le terrain. Si un joueur est piégé dedans (le joueur en question est incapable de bouger ou d'attaquer), un autre joueur peut l'aider en la détruisant à distance (attention cependant à ne pas être piégé egalement lors du sauvetage). Si des prisons apparaissent sur le terrain, essayez de les faire disparaitre rapidement avant que quelqu'un soit piégé.
+
+---
+
+### Poissons brillants
 2 boss sont présents dans la pièce. Le but est de les éloignés l'un de l'autre et de baisser leur PV. Pour se faire, 1 joueur s'occupe de Lucretia en le positionant en haut à droite, 1 autre s'occupe de Urkyos en le positionnant en bas à gauche (sens d'orientation basée sur l'entrée).  
 Les PV des 2 boss doivent arriver en même temps (5 secondes d'intervalle) à 50%.  
 Pendant ce temps, le reste du groupe va pouvoir utiliser les piliers situés en bas de la salle pour positionner des zones dans lesquelles ils devront tuer les add (1 add = 1 zone = 1 debuff pour chacun des boss).  
@@ -195,7 +255,7 @@ Lorsque les boss se figent, cela veut dire qu'ils sont passés à 50% de PV. Ass
 
 ---
 
-### Phase 2
+### Calamards et pierre de puissance
 **⚠️ Attention : seul 3 essais sont disponibles lors de cette phase. Si à la 3ème tentative vous n'avez pas réussit à valider l'étape des couleurs, vous serrez ejectés du donjon. ⚠️**  
 
 Pendant cette phase, pour plus de simplicité de mouvement, 1 joueur peut s'occuper de garder le boss en bas de la salle. Des piliers de couleur vont apparaîtres dans chacun des coins de la salle, ainsi que des petites spheres des couleurs correspondantes. Le but ? Amener 3 sphères de la couleur du pilier pour le désactiver (à répéter pour chaque pilier). Attention cependant, quand vous passer à proximiter de quelqu'un, il est possible de lui prendre les spheres qui le suivent. Faites donc bien attention à vos déplacements et n'allez pas trop vite.  
@@ -203,7 +263,7 @@ Une fois tous les pilier désactivés, il est possible de DPS le boss sans qu'il
 
 ---
 
-### Phase 3
+### Couleurs
 Il est maintenant temps de DPS le boss à fond. Placez vous dans un coin, bourriner le comme vous pouvez et lorsqu'il indique qu'il va poser de la lave au sol, utilisez vos CC pour le mettre au sol. Si c'est le cas, vous allez pouvoir le DPS tranquilement, sinon reculez vous et placez vous un peu plus loin dans la salle pour recommencer.  
 **⚠️ Attention à ne pas vous déplacer trop dans la salle : si le boss place de la lave partout, vous n'aurez plus la possibilité de vous déplacer. Essayez de faire le tour en finissant par le haut de la salle sans vous presser. ⚠️**
 
@@ -211,6 +271,17 @@ Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer 
 
 ---
 
+### Symboles
+
+---
+
+### Scorpions
+
+---
+
+### Rayons de lumière
+
+---
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 ## Connaisances
@@ -219,3 +290,5 @@ Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer 
 [![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/zuORHMQM0xQ/0.jpg)](https://www.youtube.com/watch?v=zuORHMQM0xQ&ab_channel=Rosendo)  
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
+
+Source : https://www.blackdesertfoundry.com/atoraxxion-dungeon-guide-sycrakea/
