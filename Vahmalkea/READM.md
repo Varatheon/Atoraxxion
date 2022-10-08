@@ -85,6 +85,7 @@ Lorsque la bobine est activée, les piliers vont s'éclairer succéssivement en 
 Chaque combinaison entraine différents mouvements de plateforme.
 - Une fois le joueur arrivé en haut, il peut intéragir avec le cube afin de le faire apparaitre aux joueurs restés en bas.
 #### Tetris
+**Localisation :** *Monter la falaise dans la salle de la Tête de Vaha*   
 En fonction de la forme affichée (visible en regardant au dessus du damier depuis la bobine), effectuer les combinaisons présentées ici :
 > Memo : 
 > - Message 1 : rien
@@ -96,6 +97,7 @@ En fonction de la forme affichée (visible en regardant au dessus du damier depu
 ![Enigme cachée 2.2](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-2.png)
 ![Enigme cachée 2.3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-3.png)
 #### Bon chemin
+**Localisation :** *Monter la falaise dans la salle de la Tête de Vaha*  
 Activer la bobine puis effectuer le chemin présenté ici :
 
 ![Enigme cachée 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret3.png)
