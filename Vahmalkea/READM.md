@@ -149,15 +149,15 @@ Activer la bobine puis effectuer le chemin présenté ici :
 ### Phase 1
 2 boss sont présent dans la pièce. Le but est de les éloignés l'un de l'autre et de baisser leur PV. Pour ce faire 1 joueur s'occupe de Lucretia en le positionant en haut à droite, 1 autre s'occupe de Urkyos en le positionnant en bas à gauche (sens d'orientation basée sur l'entrée).  
 Les PV des 2 boss doivent arriver en même temps (5 secondes d'intervalle) à 50%.  
-Pendant ce temps, le reste du groupe va pouvoir utiliser les piliers situés en bas de la salle pour positionner des zones dans lesquelles ils devront tuer les add (1 add = 1 zone = 1 debuff pour chacun des boss)  
-**Attention à ne pas amener les add trop près des boss, cela leur permet de récupérer de la vie.**
+Pendant ce temps, le reste du groupe va pouvoir utiliser les piliers situés en bas de la salle pour positionner des zones dans lesquelles ils devront tuer les add (1 add = 1 zone = 1 debuff pour chacun des boss).  
+**⚠️ Attention à ne pas amener les add trop près des boss, cela leur permet de récupérer de la vie. ⚠️**
 
 Lorsque les boss se figent, cela veut dire qu'ils sont passés à 50% de PV. Assurez vous que les 2 soient bien dans le même cas.
 
 ---
 
 ### Phase 2
-**Attention : seul 3 essais sont disponibles lors de cette phase. Si à la 3ème tentative vous n'avez pas réussit à valider l'étape des couleurs, vous serrez ejectés du donjon**  
+**⚠️ Attention : seul 3 essais sont disponibles lors de cette phase. Si à la 3ème tentative vous n'avez pas réussit à valider l'étape des couleurs, vous serrez ejectés du donjon. ⚠️**  
 
 Pendant cette phase, pour plus de simplicité de mouvement, 1 joueur peut s'occuper de garder le boss en bas de la salle. Des piliers de couleur vont apparaîtres dans chacun des coins de la salle, ainsi que des petites sphere des couleurs correspondantes. Le but ? Amener 3 sphères de la couleur du pilier pour le désactiver (à répéter pour chaque pilier). Attention cependant, quand vous passer à proximiter de quelqu'un, il est possible de lui prendre les spheres qui le suivent. Faites donc bien attention à vos déplacement et n'allez pas trop vite.  
 Une fois tous les pilier désactivés, il est possible de DPS le boss sans qu'il puisse se défendre. Si vous arrivez à descendre ses PV à 30%, alors la phase 3 démarrera, sinon, recommancez la phase 2.
@@ -165,8 +165,8 @@ Une fois tous les pilier désactivés, il est possible de DPS le boss sans qu'il
 ---
 
 ### Phase 3
-Il est maintenant temps de DPS le boss à fond. Placez vous dans un coin et attendez que le boss indique qu'il va poser de la lave au sol. A ce moment précis, utilisez vos CC pour le mettre au sol. Si c'est le cas, vous allez pouvoir le DPS tranquilement, sinon reculer vous et placer vous un peu plus loin dans la salle pour recommencer.
-**Attention à ne pas vous déplacer trop dans la salle : si le boss place de la lave partout, vous n'aurez plus la possibiliter de vous déplacer. Essayez de faire le tour en finissant par le haut de la salle sans vous presser.**
+Il est maintenant temps de DPS le boss à fond. Placez vous dans un coin et attendez que le boss indique qu'il va poser de la lave au sol. A ce moment précis, utilisez vos CC pour le mettre au sol. Si c'est le cas, vous allez pouvoir le DPS tranquilement, sinon reculer vous et placer vous un peu plus loin dans la salle pour recommencer.  
+**⚠️ Attention à ne pas vous déplacer trop dans la salle : si le boss place de la lave partout, vous n'aurez plus la possibiliter de vous déplacer. Essayez de faire le tour en finissant par le haut de la salle sans vous presser. ⚠️**
 
 ---
 
