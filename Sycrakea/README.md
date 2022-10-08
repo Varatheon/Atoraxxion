@@ -148,7 +148,7 @@ Le but ici est d'activé l'ensemble des tours. Le paterne est le suivant :
 
 #### Mastermind
 **Quête :** *to complete*  
-**⚠️ Attention : rangez vos pets pour effectuer cette enigme ! ⚠️**  
+**⚠️ Attention : rangez vos pets AGGRO pour effectuer cette enigme ! ⚠️**  
 
 ![Enigme 3](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme3.png)
 
@@ -164,7 +164,7 @@ Vous devez réaliser la bonne combinaison de cubes pour pousuivre. En attaquant 
 
 #### Cheminées ordonnées
 **Quête :** *to complete*  
-**⚠️ Attention : rangez vos pets pour effectuer cette enigme ! ⚠️**  
+**⚠️ Attention : rangez vos pets AGGRO pour effectuer cette enigme ! ⚠️**  
 
 ![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme4.png)
 
