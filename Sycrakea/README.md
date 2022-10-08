@@ -1,6 +1,6 @@
 # Sycrakea
 <p align="center">
-  <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Syca.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Syca.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 ## Sommaire
