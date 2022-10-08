@@ -16,6 +16,7 @@
 ![Vahmalkea map complète](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/VahmalkeaMap.png)
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
+
 ## Monstres
 ### Monoceros
 ![Monoceros](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Monoceros.png)
@@ -25,22 +26,37 @@ Amener le à proximité de fissure au sol. Lors de son explosion, cela réduira 
 ![Situs](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Situs.png)
 
 Lorsque celui-ci s'arrète pour charger une attaque, utiliser des attaques à CC afin de le stoper et ainsi reduire considérablement ses DP.
+
+---
+
 ### Kreomar
 ![Kreomar](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Kreomar.png)
 
 Lorque celui-ci attaque, se placer dans son dos et attaquer afin de le stoper et ainsi réduire considérablement des DP. Attention cependant, les attaques à répétition de ce monstre peuvent faire beaucoup de dégât.
+
+---
+
 ### Lacerta
 ![Lacerta](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Lacerta.png)
 
 Attendre qu'il invoque des monstres supplémentaire et ne surtout pas les taper. Le Lacerta va ensuite tenter de charger une attaque, à ce moment là il est possible de le burst. Une fois stopé, ses DP seront considérablement réduits.
+
+---
+
 ### Putorakuim
 ![Putorakium](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Putorakium.png)
 
 Utiliser un fusil disponible aux PNJ pour 2 épine de Vaha.
+
+---
+
 ### Kratenn
 ![Kratenn](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Kratenn.png)
 
 Lorsque Kratenn se charge (des éclairs et de la poussière apparaissent autour de lui), utiliser des fusil afin de détruire son armure, ce qui diminuera considérablement ses DP. Une fois stopé, chaque membre du groupe doit le toucher avant qu'il ne meurt afin dobtenir le Coeur Brulant.
+
+---
+
 ### Atenn
 ![Atenn](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Atenn.png)
 
@@ -55,6 +71,9 @@ Lors du combat, il est nécessaire d'avoir 1 joueur devant chacun des pilers de 
 ![Enigme 1](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle1.png)
 
 Placer les 6 boîtes de sorte à ce que la balance soit équilibrée (elles ne font pas toutes la même masse).
+
+---
+
 #### Arme ancestrale
 **Quête :** *to complete*
 
@@ -65,12 +84,18 @@ Placer les 6 boîtes de sorte à ce que la balance soit équilibrée (elles ne f
 - Mouvement 3 : Sol (frappe le sol avec le bouclier)
 
 Le but ici est de reproduire les mouvements effectués par l'arme ancestrale. Les 3 derniers mouvements (avec illumination des plateforme) ne comptent pas dans la combinaison.
+
+---
+
 #### Piliers de couleur
 **Quête :** *to complete*
 
 ![Enigme 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle3.png)
 
 Lorsque la bobine est activée, les piliers vont s'éclairer succéssivement en Rouge et en Bleu. 1 joueur va alors suivre les piliers rouge et un autre les piliers bleu et noter respectivement leur combinaison. A la fin de la séquence, les piliers s'éclairent d'une couleur (qui correspond à la couleur dont il faut entrer la combinaison). Reproduire ensuite la combinaison indiquée par le joueur.
+
+---
+
 #### Plateformes
 **Quête :** *to complete*
 
@@ -91,6 +116,9 @@ Lorsque la bobine est activée, les piliers vont s'éclairer succéssivement en 
 
 Chaque combinaison entraine différents mouvements de plateforme.
 - Une fois le joueur arrivé en haut, il peut intéragir avec le cube afin de le faire apparaitre aux joueurs restés en bas.
+
+---
+
 #### Tetris
 **Localisation :** *Monter la falaise dans la salle de la Tête de Vaha*   
 En fonction de la forme affichée (visible en regardant au dessus du damier depuis la bobine), effectuer les combinaisons présentées ici :
@@ -103,6 +131,9 @@ En fonction de la forme affichée (visible en regardant au dessus du damier depu
 ![Enigme cachée 2.1](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-1.png)
 ![Enigme cachée 2.2](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-2.png)
 ![Enigme cachée 2.3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-3.png)
+
+---
+
 #### Bon chemin
 **Localisation :** *Monter la falaise dans la salle de la Tête de Vaha*  
 Activer la bobine puis effectuer le chemin présenté ici :
@@ -112,8 +143,17 @@ Activer la bobine puis effectuer le chemin présenté ici :
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
 ## Boss Final
 ### Phase 1
+
+---
+
 ### Phase 2
+
+---
+
 ### Phase 3
+
+---
+
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
 ## Connaisances
