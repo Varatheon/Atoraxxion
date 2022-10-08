@@ -17,100 +17,142 @@
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 ## Organisation du donjon
-![Vahmalkea map complète](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/VahmalkeaMap.png)
+![Sycrakea map complète](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/SycaMap.png)
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 
 ## Monstres
-### Monoceros
-![Monoceros](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Monoceros.png)
+### Cartios
+![Cartios](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Cartios.png)
 
-Amener-le à proximité de fissure au sol. Lors de son explosion, cela réduira considérablement les DP de l'animal.
-
----
-
-### Situs
-![Situs](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Situs.png)
-
-Lorsque celui-ci s'arrète pour charger une attaque, utiliser des attaques à CC afin de le stopper et ainsi reduire considérablement ses DP.
+Lorsque le scorpion commence à se charger, attaquer en priorité le dard planté au sol. Le monstre se retournera lorsque les dégâts reçu seront suffisant.  
+**⚠️Lorsque le dard est vert (flux du sol vers le scorpion), les dégâts reçus le soignent.⚠️**
 
 ---
 
-### Kreomar
-![Kreomar](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Kreomar.png)
+### Lahtron
+![Lahtron](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Lahtron.png)
 
-Lorque celui-ci attaque, se placer dans son dos et attaquer afin de le stopper et ainsi réduire considérablement ses DP. Attention cependant, les attaques à répétition de ce monstre peuvent faire beaucoup de dégâts.
-
----
-
-### Lacerta
-![Lacerta](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Lacerta.png)
-
-Attendre qu'il invoque des monstres supplémentaires et ne surtout pas les tapper. Le Lacerta va ensuite tenter de charger une attaque, à ce moment là il est possible de le burst. Une fois stoppé, ses DP seront considérablement réduits.
+Ce monstre absorbera votre mana si vous vous trouvez dans la zone d'action (jaune).
 
 ---
 
-### Putorakuim
-![Putorakium](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Putorakium.png)
+### Laikina
+![Laikina](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Laikina.png)
 
-Utiliser un fusil disponible aux PNJ pour 2 épines de Vaha.
-
----
-
-### Kratenn
-![Kratenn](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Kratenn.png)
-
-Lorsque Kratenn se charge (des éclairs et de la poussière apparaissent autour de lui), utiliser des fusils afin de détruire son armure, ce qui diminuera considérablement ses DP. Une fois stoppé, chaque membre du groupe doit le toucher avant qu'il ne meurt afin d'obtenir le Coeur Brulant.
+Lorsque ce monstre tente d'absorber son pouvoir, 3 bulles d'eau vont apparaitres. Il faut alors les détruire toutes et le Laikina sera alors à votre merci.
 
 ---
 
-### Atenn
-![Atenn](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Atenn.png)
+### Bellora
+![Bellora](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Bellora.png)
 
-Lors du combat, il est nécessaire d'avoir 1 joueur devant chacun des pilers de couleur (Rouge, Bleu et Jaune) et de les garder bas en PV. Pendant le combat, Atenn va indiquer la couleur du pilier à détruire afin de pouvoir le CC. L'opération est à répéter autant de fois qu'il le faut jusqu'à sa mort.  
+Utiliser les poissons (Pisces) et les mobs bleu pour le refroidir en les tuant à proximiter des piliers rouge.
+
+---
+
+### Serphenn
+![Serphenn](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Serphenn.png)
+
+- Lorsqu'une notification indiquant que Serphenn va activer l'appareil, il faut que tout les piliers **SAUF 1** soient détruit.
+- Lorsqu'une notification indiquant que Serphenn va utiliser une attaque de souffle, il faut qu'un des membre du groupe se saisisse d'une sphère et se positionne devant lui. Lors de l'attaque, le boss sera alors pétrifié et il sera possible de lui donné le coup fatal.
+
+---
+
+### Apocros
+![Apocros](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Apocros.png)
+
+- **Phase 1** : Désactivez les piliers. Pour se faire, déplacez chacun des Lahtron en les attaquant sur un pilier. Une fois cela fait, le mini boss descendra et vous pourrez le tapper tranquillement jusqu'à atteindre 50% de ses PV (viser la queue).
+- **Phase 2** : Si les Lahtron se sont déplacés, repositionnez les sur les piliers, puis attaquez le petit balaineau. Une fois ce dernier battu, Apocros descendra une nouvelle fois et vous pourrez de nouveau le tapper (viser la tête).
+- **Phase 3** : Détruisez les piliers en tapant dessus. Une fois tous les piliers détruis, finissez tranquillement le mini-boss et poursuivez.
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 ## Enigmes
 ### Quêtes
-#### Balance
+#### Activation des tours
 **Quête :** *to complete*
 
-![Enigme 1](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle1.png)
+![Enigme 1](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme1.png)
 
-Placer les 6 boîtes de sorte à ce que la balance soit équilibrée (elles ne font pas toutes la même masse).
+Le but ici est d'activé l'ensemble des tours. Le paterne est le suivant :
+> **Légende :**  
+> Alumée : ⬤  
+> Eteinte : ◯
+
+**Cas 1 :**  
+1. 
+| ⬤ | ◯ | ◯ |
+|:---:|:---:|:---:|
+| ◯ | ◯ | ◯ |
+| ◯ | ◯ | ◯ |
+2.
+| ◯ | ⬤ | ◯ |
+|:---:|:---:|:---:|
+| ⬤ | ⬤ | ◯ |
+| ◯ | ◯ | ◯ |
+
+**Cas 2 :**  
+1.
+| ◯ | ◯ | ◯ |
+|:---:|:---:|:---:|
+| ⬤ | ◯ | ◯ |
+| ◯ | ◯ | ◯ |
+2.
+| ⬤ | ⬤ | ◯ |
+|:---:|:---:|:---:|
+| ◯ | ⬤ | ◯ |
+| ⬤ | ⬤ | ◯ |
 
 ---
 
-#### Arme ancestrale
-**Quête :** *to complete*
+#### Plateformes et lumières
+**Quête :** *to complete*  
+1. Les symboles (I, II, ¬, ㅁ, ou vide) des 4 cubes de chacunes des zones doivents être identiques. Pour se faire, les joueurs positionners dans la zones 2 doivent monter sur les plateformes afin de les faire correspondres.
+2. Il faut à présent allumer les 3 piliers de la zones 2. Les joueurs dans la zone 1 vont devoir se positionner sur les plateformes à leur disposition en suivant les indications des joueurs de la zones 2. Chacune des plateformes va avoir une action différente sur la lumière des pilier. A vous de trouver la bonne combinaison !  
 
-![Enigme 2](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle2.png)
+*1ère zone du puzzle : *
+![Enigme 2-1](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme2-1.png)
 
-- Mouvement 1 : Epée (balance le bras gauche)
-- Mouvement 2 : Bouclier (balance le bras droit)
-- Mouvement 3 : Sol (frappe le sol avec le bouclier)
-
-Le but ici est de reproduire les mouvements effectués par l'arme ancestrale. Les 3 derniers mouvements (avec illumination des plateformes) ne comptent pas dans la combinaison.
-
----
-
-#### Piliers de couleur
-**Quête :** *to complete*
-
-![Enigme 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle3.png)
-
-Lorsque la bobine est activée, les piliers vont s'éclairer succéssivement en Rouge et en Bleu. 1 joueur va alors suivre les piliers rouge et un autre les piliers bleu et noter respectivement leur combinaison. A la fin de la séquence, les piliers s'éclairent d'une couleur (qui correspond à la couleur dont il faut entrer la combinaison). Reproduire ensuite la combinaison indiquée par le joueur.
+*2ème zone du puzzle :*  
+![Enigme 2-2](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme2-2.png)
+![Enigme 2-3](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme2-3.png)
 
 ---
 
-#### Plateformes
+#### Mastermind
+**Quête :** *to complete*
+**⚠️ Attention : rangez vos pets pour effectuer cette enigme ! ⚠️**
+
+![Enigme 3](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme3.png)
+
+Vous devez réaliser la bonne combinaison de cubes pour pousuivre. En attaquant un cube, vous pouvez modifier le symbole (I, II, ¬, ㅁ, ou vide) qui est affiché. Une fois que vous avez valider une configuration, demandez à la bobine si celle ci convient. Le nombre de cube dont le symbole correspont est affiché sur le cube à l'entrée de la salle. Poursuivez l'oppération jusqu'à valider l'énigme.
+> **Mémo**  
+> Vide = 0  
+> I = 1  
+> || = 2  
+> ¬ = 3  
+> ㅁ = 4  
+
+---
+
+#### Cheminées ordonnées
 **Quête :** *to complete*
 
-![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle4.png)
+![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme4.png)
 
 1 joueur doit se trouver sur chacune des plateformes indiquées. Le joueur devant valider la quête est placé proche de la sphere et intéragit avec lorsque tous les autres joueurs sont bien placés. Effectuer une rotation pour les autres participants n'ayant pas validé la quête.
+
+---
+
+#### Rayons lumineux
+**Quête :** *to complete*
+
+![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme5.png)
+
+1 joueur doit se trouver sur chacune des plateformes indiquées. Le joueur devant valider la quête est placé proche de la sphere et intéragit avec lorsque tous les autres joueurs sont bien placés. Effectuer une rotation pour les autres participants n'ayant pas validé la quête.
+
 ### Cachées
-#### Plateformes et sauts
+#### Saut de l'ange
 **Localisation :** *proche de la rivière de la Tempête de Vaha*  
 **Requiert au moins 4 joueurs**
 - Faire descendre la première plateforme en plaçant 1 joueur sur la platefore de gauche et intéragir avec la shpère
@@ -123,10 +165,12 @@ Lorsque la bobine est activée, les piliers vont s'éclairer succéssivement en 
 
 Chaque combinaison entraine différents mouvements de plateforme.
 - Une fois le joueur arrivé en haut, il peut intéragir avec le cube afin de le faire apparaitre aux joueurs restés en bas.
+- 
+![Enigme cachée 1](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Secret1.png)
 
 ---
 
-#### Tetris
+#### Séquence de nombre
 **Localisation :** *Monter la falaise dans la salle de la Tête de Vaha*   
 En fonction de la forme affichée (visible en regardant au dessus du damier depuis la bobine), effectuer les combinaisons présentées ici :
 > Memo : 
@@ -135,19 +179,10 @@ En fonction de la forme affichée (visible en regardant au dessus du damier depu
 > - Message 3 : ||
 > - Message 4 : □
 
-![Enigme cachée 2.1](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-1.png)
-![Enigme cachée 2.2](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-2.png)
-![Enigme cachée 2.3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-3.png)
+![Enigme cachée 2.1](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Secret2-1.png)
+![Enigme cachée 2.2](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Secret2-2.png)
+![Enigme cachée 2.3](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Secret2-3.png)
 
----
-
-#### Bon chemin
-**Localisation :** *Monter la falaise dans la salle de la Tête de Vaha*  
-Activer la bobine puis effectuer le chemin présenté ici :
-
-![Enigme cachée 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret3.png)
-
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 ## Boss Final
 ![Urkyos](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Urkyos.png)
 ### Phase 1
