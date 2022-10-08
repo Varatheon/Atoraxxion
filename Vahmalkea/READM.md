@@ -22,6 +22,9 @@
 ![Monoceros](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Monoceros.png)
 
 Amener le à proximité de fissure au sol. Lors de son explosion, cela réduira considérablement les DP de l'animal.
+
+---
+
 ### Situs
 ![Situs](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Situs.png)
 
