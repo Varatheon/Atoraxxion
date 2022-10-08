@@ -49,4 +49,4 @@ Lors du combat, il est nécessaire d'avoir 1 joueur devant chacun des pilers de 
 ![Enigme cachée 2.2](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-2.png)
 ![Enigme cachée 2.3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-3.png)
 #### Bon chemin
-![Enigme cachée 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle4.png)
+![Enigme cachée 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret3.png)
