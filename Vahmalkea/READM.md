@@ -168,11 +168,14 @@ Une fois tous les pilier désactivés, il est possible de DPS le boss sans qu'il
 Il est maintenant temps de DPS le boss à fond. Placez vous dans un coin et attendez que le boss indique qu'il va poser de la lave au sol. A ce moment précis, utilisez vos CC pour le mettre au sol. Si c'est le cas, vous allez pouvoir le DPS tranquilement, sinon reculer vous et placer vous un peu plus loin dans la salle pour recommencer.  
 **⚠️ Attention à ne pas vous déplacer trop dans la salle : si le boss place de la lave partout, vous n'aurez plus la possibiliter de vous déplacer. Essayez de faire le tour en finissant par le haut de la salle sans vous presser. ⚠️**
 
+Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer votre butin !
+
 ---
 
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
 ## Connaisances
+**⚠️ Finalisez bien toutes les énigmes avant de vous lancer dans les connaissances. En effet, vous aurez besoin du livre d'Atoraxxion pour obtenir les connaissances cachées !⚠️**
 [![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/zuORHMQM0xQ/0.jpg)](https://www.youtube.com/watch?v=zuORHMQM0xQ&ab_channel=Rosendo)  
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
