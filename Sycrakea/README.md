@@ -122,7 +122,7 @@ Le but ici est d'activé l'ensemble des tours. Le paterne est le suivant :
 ---
 
 #### Mastermind
-**Quête :** *to complete*
+**Quête :** *to complete*  
 **⚠️ Attention : rangez vos pets pour effectuer cette enigme ! ⚠️**  
 
 ![Enigme 3](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme3.png)
@@ -163,6 +163,8 @@ Lorsqu'un joueur activera la bobine, les cheminées s'activeront une à une. Il 
 ![Enigme 5-4](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme5-4.png)  
 
 Source: https://imgur.com/a/NA2Py42
+
+---
 
 ### Cachées
 #### Saut de l'ange
