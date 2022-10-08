@@ -25,6 +25,9 @@
     - [Tetris](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#tetris)
     - [Bon chemin](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#bon-chemin)
 ### [Boss Final](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#boss-final-1)
+- [Phase 1](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#phase-1)
+- [Phase 2](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#phase-2)
+- [Phase 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#phase-3)
 ### [Connaissances](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#connaisances)
 ## Recommandations
 - **Serveur saisonnier** : Equipement Tuvala DUO minimum
