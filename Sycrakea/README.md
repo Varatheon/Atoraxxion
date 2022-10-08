@@ -235,7 +235,7 @@ Des chiffres vont apparaitre de chaque côté du gros bloc. Chacun des joueurs s
 Le terrain possède un dispositif permettant de réglé la difficulté (représentés par les symboles I, II, III et ⬛) du boss. En fonction du niveau choisi, la défense de Sentirutos mais son attaque augmente.  
 *Exemple: I: attaque faible, défense élevée | ⬛: attaque élevée, défense faible*  
 
-![Sentirutos Rancunier](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Sentirutos.png)
+![Power stone](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LastBossPowerStone.png)
 
 ---
 
@@ -271,7 +271,7 @@ Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer 
 
 ---
 
-### Symboles
+### Stelles et symboles
 
 ---
 
@@ -285,9 +285,9 @@ Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer 
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 ## Connaisances
-**⚠️ Finalisez bien toutes les énigmes avant de vous lancer dans les connaissances. En effet, vous aurez besoin du livre d'Atoraxxion pour obtenir les connaissances cachées !⚠️**  
+**⚠️ Finalisez bien toutes les énigmes de [Vahmalkea](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#enigmes-1) avant de vous lancer dans les connaissances. En effet, vous aurez besoin du livre d'Atoraxxion pour obtenir les connaissances cachées !⚠️**  
 
-[![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/zuORHMQM0xQ/0.jpg)](https://www.youtube.com/watch?v=zuORHMQM0xQ&ab_channel=Rosendo)  
+[![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/LnEydSr4aqE/0.jpg)](https://www.youtube.com/watch?v=LnEydSr4aqE&ab_channel=NoodleCorp)  
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 
