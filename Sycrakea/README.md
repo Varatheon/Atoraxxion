@@ -105,29 +105,33 @@ Le but ici est d'activé l'ensemble des tours. Lorsque vous intéragissez avec u
 > Eteinte : ◯
 
 **Cas 1 (angle) :**  
-1. 
+- Avant activation de la tour en haut à gauche.  
+
 | ⬤ | ◯ | ◯ |
 |:---:|:---:|:---:|
-| ◯ | ◯ | ◯ |
+| ⬤ | ◯ | ◯ |
 | ◯ | ◯ | ◯ |  
 
-2.
+- Après activation de la tour en haut à gauche.  
+
 | ◯ | ⬤ | ◯ |
 |:---:|:---:|:---:|
-| ⬤ | ⬤ | ◯ |
+| ◯ | ⬤ | ◯ |
 | ◯ | ◯ | ◯ |  
 
 **Cas 2 (centre) :**  
-1.
+- Avant activation de la tour du milieu à gauche.  
+
 | ◯ | ◯ | ◯ |
 |:---:|:---:|:---:|
-| ⬤ | ◯ | ◯ |
+| ⬤ | ⬤ | ◯ |
 | ◯ | ◯ | ◯ |  
 
-2.
+- Après activation de la tour du milieu à gauche.  
+
 | ⬤ | ⬤ | ◯ |
 |:---:|:---:|:---:|
-| ◯ | ⬤ | ◯ |
+| ◯ | ◯  | ◯ |
 | ⬤ | ⬤ | ◯ |
 
 ---
