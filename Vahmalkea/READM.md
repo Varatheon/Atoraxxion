@@ -47,7 +47,7 @@ Lors du combat, il est nécessaire d'avoir 1 joueur devant chacun des pilers de 
 
 ![Enigme 1](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle1.png)
 
-Placer les 6 boîtes de sorte à ce que la balance soit équilibrée (elle ne font pas toutes la même masse).
+Placer les 6 boîtes de sorte à ce que la balance soit équilibrée (elles ne font pas toutes la même masse).
 #### Arme ancestrale
 **Quête :** *to complete*
 
