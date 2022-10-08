@@ -99,29 +99,31 @@ Utilisez les poissons (Pisces) et les mobs bleu pour le refroidir en les tuant �
 
 ![Enigme 1](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme1.png)
 
-Le but ici est d'activé l'ensemble des tours. Le paterne est le suivant :
+Le but ici est d'activé l'ensemble des tours. Lorsque vous intéragissez avec une tour, cela modifie également celles qui sont à côté. Les paternes disponibles sont les suivants :
 > **Légende :**  
 > Alumée : ⬤  
 > Eteinte : ◯
 
-**Cas 1 :**  
+**Cas 1 (angle) :**  
 1. 
 | ⬤ | ◯ | ◯ |
 |:---:|:---:|:---:|
 | ◯ | ◯ | ◯ |
 | ◯ | ◯ | ◯ |
+
 2.
 | ◯ | ⬤ | ◯ |
 |:---:|:---:|:---:|
 | ⬤ | ⬤ | ◯ |
 | ◯ | ◯ | ◯ |
 
-**Cas 2 :**  
+**Cas 2 (centre) :**  
 1.
 | ◯ | ◯ | ◯ |
 |:---:|:---:|:---:|
 | ⬤ | ◯ | ◯ |
 | ◯ | ◯ | ◯ |
+
 2.
 | ⬤ | ⬤ | ◯ |
 |:---:|:---:|:---:|
