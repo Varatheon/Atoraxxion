@@ -65,3 +65,7 @@ Lors du combat, il est nécessaire d'avoir 1 joueur devant chacun des pilers de 
 ### Phase 3
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
+## Connaisances
+[![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/zuORHMQM0xQ/0.jpg)](https://www.youtube.com/watch?v=zuORHMQM0xQ&ab_channel=Rosendo)  
+
+[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
