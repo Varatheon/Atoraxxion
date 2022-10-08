@@ -121,6 +121,9 @@ Lorsque la bobine est activée, les piliers vont s'éclairer succéssivement en 
 ![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle4.png)
 
 1 joueur doit se trouver sur chacune des plateformes indiquées. Le joueur devant valider la quête est placé proche de la sphere et intéragit avec lorsque tous les autres joueurs sont bien placés. Effectuer une rotation pour les autres participants n'ayant pas validé la quête.
+
+---
+
 ### Cachées
 #### Plateformes et sauts
 **Localisation :** *proche de la rivière de la Tempête de Vaha*  
