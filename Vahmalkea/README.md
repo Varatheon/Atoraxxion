@@ -196,3 +196,5 @@ Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer 
 [![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/zuORHMQM0xQ/0.jpg)](https://www.youtube.com/watch?v=zuORHMQM0xQ&ab_channel=Rosendo)  
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
+
+Source : https://www.blackdesertfoundry.com/atoraxxion-dungeon-guide/
