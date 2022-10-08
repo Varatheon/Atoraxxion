@@ -15,6 +15,14 @@
 ## Organisation du donjon
 ![Vahmalkea map complète](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/VahmalkeaMap.png)
 
+| Zone | Clé | Obtention |
+|:---------------:|:---------------:|:-----:|
+| Coeur de Vaha  | ![Croc sec](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocSec.png) | Alchimie simple : ![Epine de Vaha](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Epine.png)x10 |
+| Coeur de Vaha |  |  |
+| Tête de Vaha  | ![Croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocBrulant.png) | ![Association croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeCrocBrulant.png) |
+| Jardin de Vaha  | ![Croc tordu](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocTordu.png) | ![Association croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeCrocTordu.png) |
+| Berceau de Vaha  | ![Dague de Lucretia](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Dague.png) | ![Association croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeDague.png) |
+
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/READM.md#sommaire)
 
 ## Monstres
