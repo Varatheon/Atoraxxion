@@ -174,7 +174,7 @@ Vous devez réaliser la bonne combinaison de cubes pour pousuivre. En attaquant 
 
 ![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme4.png)
 
-Lorsqu'un joueur activera la bobine, les cheminées s'activeront une à une. Il faut alors retenir la séquence des cheminées pour la reproduire à nouveau une fois la séquence terminée.
+Lorsqu'un joueur activera la bobine, les cheminées s'activeront une à une. Il faut alors retenir la séquence des cheminées pour la reproduire à nouveau une fois la celle-ci terminée.
 
 ---
 
@@ -246,7 +246,7 @@ Des chiffres vont apparaitre de chaque côté du gros bloc. Chacun des joueurs s
 | ¬ | 4 | 3 | 7 |
 | ㅁ | 0 | 2 | 2 |
     
-4. Positionner sur chaque cube (en les tapant) le numéro correspondant au total
+4. Positionnez sur chaque cube (en les tapant) le chiffre correspondant au total
 > **Mémo**  
 > Vide = 0  
 > I = 1  
@@ -344,7 +344,18 @@ Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer v
 ## Connaisances
 **⚠️ Finalisez bien toutes les énigmes de [Vahmalkea](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#enigmes-1) avant de vous lancer dans les connaissances. En effet, vous aurez besoin du livre d'Atoraxxion pour obtenir les connaissances cachées !⚠️**  
 
-[![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/LnEydSr4aqE/0.jpg)](https://www.youtube.com/watch?v=LnEydSr4aqE&ab_channel=NoodleCorp)  
+[![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/LnEydSr4aqE/0.jpg)](https://www.youtube.com/watch?v=LnEydSr4aqE&ab_channel=NoodleCorp) 
+
+| Connaissances | Arborescence | Nombre de connaissance associées | Obtention |
+|:---:|:---:|:---:|:---:|
+| Archive de Syca - Enfance | Personnage > Habitant d'Atoraxion > Architecte de Syca | 8 | Finir le donjon |
+| Archive de Syca - Adolescence | Personnage > Habitant d'Atoraxion > Architecte de Syca | 20 | Finir le donjon |
+| Sycrakea | Ecosystème > Atoraxion | 12 | Tuer les monstres présents dans le donjon ou circuit de données |
+| Journal d'aventure de Sycrakea I | Journal d'aventure > Journal d'Atoraxion | 35 | Intéraction et Elvia |
+| Journal d'aventure de Sycrakea II | Journal d'aventure > Journal d'Atoraxion | 38 | Intéraction |
+| Bobine de Syca | Journal d'aventure > Journal d'Atoraxion | 7 | Résourdre toutes les énigmes |
+| Ingénirie ancestrale II | Erudits | 19 | Intéraction |
+| Architecture ancestrale II | Erudits | 10 | Intéraction |
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 
