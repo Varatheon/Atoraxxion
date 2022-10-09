@@ -7,8 +7,33 @@
 ### [Recommandations](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#recommandations-1)
 ### [Organisation du donjon](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#organisation-du-donjon-1)
 ### [Monstres](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#monstres-1)
+- [Cartios](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#cartios)
+- [Lahtron](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#lahtron)
+- [Laikina](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#laikina)
+- [Bellora](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#bellora)
+- [Serphenn](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#serphenn)
+- [Apocros](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#apocros)
 ### [Enigmes](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#enigmes-1)
+- [Quêtes](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#qu%C3%AAtes)
+    - [Activation des tours](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#activation-des-tours)
+    - [Plateformes et lumières](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#plateformes-et-lumi%C3%A8res)
+    - [Mastermind](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#mastermind)
+    - [Cheminées ordonnées](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#chemin%C3%A9es-ordonn%C3%A9es)
+    - [Rayons lumineux](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#rayons-lumineux)
+- [Cachées](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#cach%C3%A9es)
+    - [Saut de l'ange](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#saut-de-lange)
+    - [Séquence de nombre](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#s%C3%A9quence-de-nombre)
 ### [Boss Final](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#boss-final-1)
+- [Gestion de la puissance du boss](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#gestion-de-la-puissance-du-boss)
+- [Répartition des joueurs](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#r%C3%A9partition-des-joueurs)
+- [Cubes volants et prisons](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#cubes-volants-et-prisons)
+- [Attaque de zone et protection](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#attaque-de-zone-et-protection)
+- [Poissons brillants](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#poissons-brillants)
+- [Calamars et pierre de puissance](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#calamars-et-pierre-de-puissance)
+- [Couleurs](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#couleurs)
+- [Stelles et symboles](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#stelles-et-symboles)
+- [Scorpions](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#scorpions)
+- [Rayons de lumière](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#rayons-de-lumi%C3%A8re)
 ### [Connaissances](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#connaisances)
 ## Recommandations
 - **Serveur saisonnier** : Equipement Tuvala DUO minimum
@@ -74,33 +99,39 @@ Utilisez les poissons (Pisces) et les mobs bleu pour le refroidir en les tuant �
 
 ![Enigme 1](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme1.png)
 
-Le but ici est d'activé l'ensemble des tours. Le paterne est le suivant :
+Le but ici est d'activé l'ensemble des tours. Lorsque vous intéragissez avec une tour, cela modifie également celles qui sont à côté. Les paternes disponibles sont les suivants :
 > **Légende :**  
-> Alumée : ⬤  
-> Eteinte : ◯
+> -  Alumée : ⬤  
+> - Eteinte : ◯
 
-**Cas 1 :**  
-1. 
+**Cas 1 (angle) :**  
+- Avant activation de la tour en haut à gauche.  
+
 | ⬤ | ◯ | ◯ |
 |:---:|:---:|:---:|
-| ◯ | ◯ | ◯ |
-| ◯ | ◯ | ◯ |
-2.
-| ◯ | ⬤ | ◯ |
-|:---:|:---:|:---:|
-| ⬤ | ⬤ | ◯ |
-| ◯ | ◯ | ◯ |
-
-**Cas 2 :**  
-1.
-| ◯ | ◯ | ◯ |
-|:---:|:---:|:---:|
 | ⬤ | ◯ | ◯ |
-| ◯ | ◯ | ◯ |
-2.
-| ⬤ | ⬤ | ◯ |
+| ◯ | ◯ | ◯ |  
+
+- Après activation de la tour en haut à gauche.  
+
+| ◯ | ⬤ | ◯ |
 |:---:|:---:|:---:|
 | ◯ | ⬤ | ◯ |
+| ◯ | ◯ | ◯ |  
+
+**Cas 2 (centre) :**  
+- Avant activation de la tour du milieu à gauche.  
+
+| ◯ | ◯ | ◯ |
+|:---:|:---:|:---:|
+| ⬤ | ⬤ | ◯ |
+| ◯ | ◯ | ◯ |  
+
+- Après activation de la tour du milieu à gauche.  
+
+| ⬤ | ⬤ | ◯ |
+|:---:|:---:|:---:|
+| ◯ | ◯  | ◯ |
 | ⬤ | ⬤ | ◯ |
 
 ---
@@ -123,27 +154,27 @@ Le but ici est d'activé l'ensemble des tours. Le paterne est le suivant :
 
 #### Mastermind
 **Quête :** *to complete*  
-**⚠️ Attention : rangez vos pets pour effectuer cette enigme ! ⚠️**  
+**⚠️ Attention : rangez vos pets AGGRO pour effectuer cette enigme ! ⚠️**  
 
 ![Enigme 3](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme3.png)
 
 Vous devez réaliser la bonne combinaison de cubes pour pousuivre. En attaquant un cube, vous pouvez modifier le symbole (I, II, ¬, ㅁ, ou vide) qui est affiché. Une fois que vous avez validé une configuration, demandez à la bobine si celle-ci convient. Le nombre de cube dont le symbole correspont est affiché sur le cube à l'entrée de la salle. Poursuivez l'oppération jusqu'à valider l'énigme.
 > **Mémo**  
-> Vide = 0  
-> I = 1  
-> || = 2  
-> ¬ = 3  
-> ㅁ = 4  
+> - Vide = 0  
+> - I = 1  
+> - || = 2  
+> - ¬ = 3  
+> - ㅁ = 4  
 
 ---
 
 #### Cheminées ordonnées
 **Quête :** *to complete*  
-**⚠️ Attention : rangez vos pets pour effectuer cette enigme ! ⚠️**  
+**⚠️ Attention : rangez vos pets AGGRO pour effectuer cette enigme ! ⚠️**  
 
 ![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme4.png)
 
-Lorsqu'un joueur activera la bobine, les cheminées s'activeront une à une. Il faut alors retenir la séquence des cheminées pour la reproduire à nouveau une fois la séquence terminée.
+Lorsqu'un joueur activera la bobine, les cheminées s'activeront une à une. Il faut alors retenir la séquence des cheminées pour la reproduire à nouveau une fois la celle-ci terminée.
 
 ---
 
@@ -159,7 +190,7 @@ Lorsqu'un joueur activera la bobine, les cheminées s'activeront une à une. Il 
 ![Enigme 5-2](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme5-2.png)  
 4. Echangez les positions de la colonne de gauche (par rapport à la précédente) en intéragissant avec.
 ![Enigme 5-3](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme5-3.png)  
-5. Valider la position en activant le rayon
+5. Validez la position en activant le rayon
 ![Enigme 5-4](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme5-4.png)  
 
 Source: https://imgur.com/a/NA2Py42
@@ -215,18 +246,18 @@ Des chiffres vont apparaitre de chaque côté du gros bloc. Chacun des joueurs s
 | ¬ | 4 | 3 | 7 |
 | ㅁ | 0 | 2 | 2 |
     
-4. Positionner sur chaque cube (en les tapant) le numéro correspondant au total
+4. Positionnez sur chaque cube (en les tapant) le chiffre correspondant au total
 > **Mémo**  
-> Vide = 0  
-> I = 1  
-> II = 2  
-> ¬ = 3  
-> ㅁ = 4  
-> X = 5  
-> X + . = 6  
-> X + . + . = 7  
-> X + . + . + . = 8  
-> X + . + . + . + . = 9  
+> - Vide = 0  
+> - I = 1  
+> - II = 2  
+> - ¬ = 3  
+> - ㅁ = 4  
+> - X = 5  
+> - X + . = 6  
+> - X + . + . = 7  
+> - X + . + . + . = 8  
+> - X + . + . + . + . = 9  
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 
@@ -236,6 +267,7 @@ Des chiffres vont apparaitre de chaque côté du gros bloc. Chacun des joueurs s
 ### Gestion de la puissance du boss
 Le terrain possède un dispositif permettant de réglé la difficulté (représentés par les symboles I, II, III et ⬛) du boss. En fonction du niveau choisi, la défense de Sentirutos diminue mais son attaque augmente.  
 *Exemple: I: attaque faible, défense élevée | ⬛: attaque élevée, défense faible*  
+Pendant les phases DPS, placer la difficulté en **II** ou **III** en fonction de la résistance du groupe
 
 ![Power stone](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LastBossPowerStone.png)
 
@@ -258,7 +290,8 @@ Plusieurs fois pendant le combats, votre personnage sera 'aspiré' par une éner
 ---
 
 ### Poissons brillants
-Lorsque le boss arrive à environ 90% de PV, la phase des poissons est déclanchée.  
+**Difficulté : III ou ⬛**  
+Lorsque le boss arrive à environ **90%** de PV, la phase des poissons est déclanchée.  
 - 1 poisson apprait par cadrant ( = 6)
 - 5 poissons vont alors se mettre à briller : ce sont ceux qu'il faut détruire avant qu'ils attaignent le boss.
 - Si 1 des poissons brillant touche le boss, il est possible de survivre à la prochaine attaque en cliquant sur 'V' au moment où le message d'echec apparait, sinon, vous devrez recommancer le combat.
@@ -266,7 +299,8 @@ Lorsque le boss arrive à environ 90% de PV, la phase des poissons est déclanch
 ---
 
 ### Calamars et pierre de puissance
-Lorsque le boss arrive à environ 80% de PV, la phase des calamars est déclanchée.  
+**Difficulté : I**  
+Lorsque le boss arrive à environ **80%** de PV, la phase des calamars est déclanchée.  
 - 6 faisseaux de lumière sont tirés depuis des pyramides flotantes. 1 d'entre elle dégage une petite fumée blanche. Notez sa position
 - Pendant que vous cherchez la bonne pyramide, attaquer le calamar brillant en jaune. Celui ci, une fois battu, laisse tomber un pierre de puissance. Utilisez là au niveau de la pyramide trouvée préalablement en effectuant un clique droit sur l'item dans votre inventaire.  
 **⚠️ Attention a bien vous mettre face au boss lors de l'utilisation de l'objet, vous ne pourrez pas bouger (et donc vous soigner) pendant un certain temps ⚠️**
@@ -274,28 +308,32 @@ Lorsque le boss arrive à environ 80% de PV, la phase des calamars est déclanch
 ---
 
 ### Couleurs
-Lorsque le boss arrive à environ 70% de PV, la phase des couleurs est déclanchée (et est déclanchée plus tard autour de 30-40% PV).  
-- 5 couleurs sont possibles : Jaune, Bleu, Rouge, Blan et Vert.
+**Difficulté : I**  
+Lorsque le boss arrive à environ **70%** de PV, la phase des couleurs est déclanchée (et est déclanchée plus tard autour de 30-40% PV).  
+- 5 couleurs sont possibles : Jaune, Bleu, Rouge et Blanc.
 - 1 Joueur énonce les couleurs qui arrivent vers le boss afin qu'un autre puisse en noté le nombre d'occurence. Pendant ce temps, les autres joueurs localisent les portes de couleurs localisées sur le mur au fond de chacun des cadrants.
 - Une fois les couleurs terminées, le joueurs ayant compter le nombre d'occurence de chacune indique celle qui est apparue le **PLUS** de fois, et chaque joueur doit se déplacer en direction de la porte de la couleur correspondante afin d'obtenir une sphère protectirece. (lorsque vous avez obtenue la sphère, vous pouvez vous déplacer plus loin et laisser la place à d'autre joueur, la zone permettant de l'obtenir etant assez restrainte).
 
 ---
 
 ### Stelles et symboles
-Lorsque le boss arrive à environ 50% de PV, la phase des symboles est déclanchée.  
+**Difficulté : I ou II**  
+Lorsque le boss arrive à environ **50%** de PV, la phase des symboles est déclanchée.  
 Les 2 stelles protectrices vont présentés chacune un symbole ( ◭, △ ou 8), et chacun des cadrants en face des stelles (3 et 3) vont également afficher des symboles. Vous devez alors pour chaque **moitié de salle**, placez un joueur sur le symbole au sol correspondant à celui de la stelle.  
 **⚠️ Attention: si vous échouez lors de cette phase, vous devrez recommancer le combat ! ⚠️**
 
 ---
 
 ### Scorpions
-Lorsque le boss arrive à environ 20% de PV, la phase des scorpions est déclanchée (et peut revenir plus tard lors du combat).  
+**Difficulté : III**  
+Lorsque le boss arrive à environ **20%** de PV, la phase des scorpions est déclanchée (et peut revenir plus tard lors du combat).  
 3 scorpions vont appraitre dans la salle, l'objectif est de tous les battre (ils meurent en arrivant à 50% de PV).
 
 ---
 
 ### Rayons de lumière
-Lorsque le boss arrive à environ 20% de PV ou moins.  
+**Difficulté : II ou III**  
+Lorsque le boss arrive à environ **20%** de PV ou moins.  
 Ici, le but est de détruire toute les sources de rayon de lumières (provenant de d'artefacts depuis les murs de la salles) en faisant attention à toutes les AoE du boss.
 
 Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer votre butin !
@@ -306,7 +344,18 @@ Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer v
 ## Connaisances
 **⚠️ Finalisez bien toutes les énigmes de [Vahmalkea](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#enigmes-1) avant de vous lancer dans les connaissances. En effet, vous aurez besoin du livre d'Atoraxxion pour obtenir les connaissances cachées !⚠️**  
 
-[![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/LnEydSr4aqE/0.jpg)](https://www.youtube.com/watch?v=LnEydSr4aqE&ab_channel=NoodleCorp)  
+[![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/LnEydSr4aqE/0.jpg)](https://www.youtube.com/watch?v=LnEydSr4aqE&ab_channel=NoodleCorp) 
+
+| Connaissances | Arborescence | Nombre de connaissance associées | Obtention |
+|:---:|:---:|:---:|:---:|
+| Archive de Syca - Enfance | Personnage > Habitant d'Atoraxion > Architecte de Syca | 8 | Finir le donjon |
+| Archive de Syca - Adolescence | Personnage > Habitant d'Atoraxion > Architecte de Syca | 20 | Finir le donjon |
+| Sycrakea | Ecosystème > Atoraxion | 12 | Tuer les monstres présents dans le donjon ou circuit de données |
+| Journal d'aventure de Sycrakea I | Journal d'aventure > Journal d'Atoraxion | 35 | Intéraction et Elvia |
+| Journal d'aventure de Sycrakea II | Journal d'aventure > Journal d'Atoraxion | 38 | Intéraction |
+| Bobine de Syca | Journal d'aventure > Journal d'Atoraxion | 7 | Résourdre toutes les énigmes |
+| Ingénirie ancestrale II | Erudits | 19 | Intéraction |
+| Architecture ancestrale II | Erudits | 10 | Intéraction |
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 

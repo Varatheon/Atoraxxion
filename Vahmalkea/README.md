@@ -7,8 +7,27 @@
 ### [Recommandations](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#recommandations-1)
 ### [Organisation du donjon](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#organisation-du-donjon-1)
 ### [Monstres](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#monstres-1)
+- [Monoceros](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#monoceros)
+- [Situs](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#situs)
+- [Kreomar](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#kreomar)
+- [Lacerta](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#lacerta)
+- [Putorakuim](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#putorakuim)
+- [Kratenn](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#kratenn)
+- [Atenn](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#atenn)
 ### [Enigmes](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#enigmes-1)
+- [Quêtes](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#qu%C3%AAtes)
+    - [Balance](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#balance)
+    - [Arme ancestrale](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#arme-ancestrale)
+    - [Pilier de couleur](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#piliers-de-couleur)
+    - [Plateformes](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#plateformes)
+- [Cachées](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#cach%C3%A9es)
+    - [Plateformes et sauts](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#plateformes-et-sauts)
+    - [Tetris](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#tetris)
+    - [Bon chemin](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#bon-chemin)
 ### [Boss Final](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#boss-final-1)
+- [Phase 1](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#phase-1)
+- [Phase 2](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#phase-2)
+- [Phase 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#phase-3)
 ### [Connaissances](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#connaisances)
 ## Recommandations
 - **Serveur saisonnier** : Equipement Tuvala DUO minimum
@@ -44,14 +63,14 @@ Amener-le à proximité de fissure au sol. Lors de son explosion, cela réduira 
 ### Situs
 ![Situs](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Situs.png)
 
-Lorsque celui-ci s'arrète pour charger une attaque, utiliser des attaques à CC afin de le stopper et ainsi reduire considérablement ses DP.
+Lorsque celui-ci s'arrète pour charger une attaque, utilisez des attaques à CC afin de le stopper et ainsi reduire considérablement ses DP.
 
 ---
 
 ### Kreomar
 ![Kreomar](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Kreomar.png)
 
-Lorque celui-ci attaque, se placer dans son dos et attaquer afin de le stopper et ainsi réduire considérablement ses DP. Attention cependant, les attaques à répétition de ce monstre peuvent faire beaucoup de dégâts.
+Lorque celui-ci attaque, placez vous dans son dos et attaquer afin de le stopper et ainsi réduire considérablement ses DP. Attention cependant, les attaques à répétition de ce monstre peuvent faire beaucoup de dégâts.
 
 ---
 
@@ -65,14 +84,14 @@ Attendre qu'il invoque des monstres supplémentaires et ne surtout pas les tappe
 ### Putorakuim
 ![Putorakium](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Putorakium.png)
 
-Utiliser un fusil disponible aux PNJ pour 2 épines de Vaha.
+Utilisez un fusil disponible aux PNJ pour 2 épines de Vaha pour les petits oisieaux volants. Pour le gros piaf, il a le même paterne que Puturum, faites simplement attention aux AoE.
 
 ---
 
 ### Kratenn
 ![Kratenn](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Kratenn.png)
 
-Lorsque Kratenn se charge (des éclairs et de la poussière apparaissent autour de lui), utiliser des fusils afin de détruire son armure, ce qui diminuera considérablement ses DP. Une fois stoppé, chaque membre du groupe doit le toucher avant qu'il ne meurt afin d'obtenir le Coeur Brulant.
+Lorsque Kratenn se charge (des éclairs et de la poussière apparaissent autour de lui), utilisez des fusils afin de détruire son armure, ce qui diminuera considérablement ses DP. Une fois stoppé, chaque membre du groupe doit le toucher avant qu'il ne meurt afin d'obtenir le Coeur Brulant.
 
 ---
 
@@ -89,7 +108,7 @@ Lors du combat, il est nécessaire d'avoir 1 joueur devant chacun des pilers de 
 
 ![Enigme 1](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle1.png)
 
-Placer les 6 boîtes de sorte à ce que la balance soit équilibrée (elles ne font pas toutes la même masse).
+Placez les 6 boîtes de sorte à ce que la balance soit équilibrée (elles ne font pas toutes la même masse).
 
 ---
 
@@ -98,9 +117,10 @@ Placer les 6 boîtes de sorte à ce que la balance soit équilibrée (elles ne f
 
 ![Enigme 2](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle2.png)
 
-- Mouvement 1 : Epée (balance le bras gauche)
-- Mouvement 2 : Bouclier (balance le bras droit)
-- Mouvement 3 : Sol (frappe le sol avec le bouclier)
+> **Mémo**
+> - Mouvement 1 : Epée (balance le bras gauche)
+> - Mouvement 2 : Bouclier (balance le bras droit)
+> - Mouvement 3 : Sol (frappe le sol avec le bouclier)
 
 Le but ici est de reproduire les mouvements effectués par l'arme ancestrale. Les 3 derniers mouvements (avec illumination des plateformes) ne comptent pas dans la combinaison.
 
@@ -120,7 +140,7 @@ Lorsque la bobine est activée, les piliers vont s'éclairer succéssivement en 
 
 ![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle4.png)
 
-1 joueur doit se trouver sur chacune des plateformes indiquées. Le joueur devant valider la quête est placé proche de la sphere et intéragit avec lorsque tous les autres joueurs sont bien placés. Effectuer une rotation pour les autres participants n'ayant pas validé la quête.
+1 joueur doit se trouver sur chacune des plateformes indiquées. Le joueur devant valider la quête est placé proche de la sphere et intéragit avec lorsque tous les autres joueurs sont bien positionnés. Effectuez une rotation pour les autres participants n'ayant pas validé la quête.
 
 ---
 
@@ -144,7 +164,7 @@ Chaque combinaison entraine différents mouvements de plateforme.
 #### Tetris
 **Localisation :** *Monter la falaise dans la salle de la Tête de Vaha*   
 En fonction de la forme affichée (visible en regardant au dessus du damier depuis la bobine), effectuer les combinaisons présentées ici en intéragissant avec chacun des cubes :
-> Memo : 
+> **Memo** 
 > - Message 1 : rien
 > - Message 2 : |
 > - Message 3 : ||
@@ -158,7 +178,7 @@ En fonction de la forme affichée (visible en regardant au dessus du damier depu
 
 #### Bon chemin
 **Localisation :** *Monter la falaise dans la salle de la Tête de Vaha*  
-Activer la bobine puis effectuer le chemin présenté ici :
+Activer la bobine puis effectuez le chemin présenté ici :
 
 ![Enigme cachée 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret3.png)
 
@@ -176,15 +196,15 @@ Lorsque les boss se figent, cela veut dire qu'ils sont passés à 50% de PV. Ass
 ---
 
 ### Phase 2
-**⚠️ Attention : seul 3 essais sont disponibles lors de cette phase. Si à la 3ème tentative vous n'avez pas réussit à valider l'étape des couleurs, vous serrez ejectés du donjon. ⚠️**  
+**⚠️ Attention : seul 3 essais sont disponibles lors de cette phase. Si à la 3ème tentative vous n'avez pas réussit à valider l'étape des couleurs, vous serrez éjectés du donjon. ⚠️**  
 
 Pendant cette phase, pour plus de simplicité de mouvement, 1 joueur peut s'occuper de garder le boss en bas de la salle. Des piliers de couleur vont apparaîtres dans chacun des coins de la salle, ainsi que des petites spheres des couleurs correspondantes. Le but ? Amener 3 sphères de la couleur du pilier pour le désactiver (à répéter pour chaque pilier). Attention cependant, quand vous passer à proximiter de quelqu'un, il est possible de lui prendre les spheres qui le suivent. Faites donc bien attention à vos déplacements et n'allez pas trop vite.  
-Une fois tous les pilier désactivés, il est possible de DPS le boss sans qu'il puisse se défendre. Si vous arrivez à descendre ses PV à 30%, alors la phase 3 démarrera, sinon, recommancez la phase 2.
+Une fois tous les pilier désactivés, il est possible de DPS le boss sans qu'il puisse se défendre. Si vous arrivez à descendre ses PV à 30%, alors la phase 3 démarrera, sinon, recommencez la phase 2.
 
 ---
 
 ### Phase 3
-Il est maintenant temps de DPS le boss à fond. Placez vous dans un coin, bourriner le comme vous pouvez et lorsqu'il indique qu'il va poser de la lave au sol, utilisez vos CC pour le mettre au sol. Si c'est le cas, vous allez pouvoir le DPS tranquilement, sinon reculez vous et placez vous un peu plus loin dans la salle pour recommencer.  
+Il est maintenant temps de DPS le boss à fond. Placez vous dans un coin, bourrinez le comme vous pouvez et lorsqu'il indique qu'il va poser de la lave au sol, utilisez vos CC pour le mettre au sol. Si c'est le cas, vous allez pouvoir le DPS tranquilement, sinon reculez vous et placez vous un peu plus loin dans la salle pour recommencer.  
 **⚠️ Attention à ne pas vous déplacer trop dans la salle : si le boss place de la lave partout, vous n'aurez plus la possibilité de vous déplacer. Essayez de faire le tour en finissant par le haut de la salle sans vous presser. ⚠️**
 
 Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer votre butin !
@@ -194,7 +214,18 @@ Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer 
 ## Connaisances
 **⚠️ Finalisez bien toutes les énigmes avant de vous lancer dans les connaissances. En effet, vous aurez besoin du livre d'Atoraxxion pour obtenir les connaissances cachées !⚠️**  
 
-[![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/zuORHMQM0xQ/0.jpg)](https://www.youtube.com/watch?v=zuORHMQM0xQ&ab_channel=Rosendo)  
+[![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/zuORHMQM0xQ/0.jpg)](https://www.youtube.com/watch?v=zuORHMQM0xQ&ab_channel=Rosendo) 
+
+| Connaissances | Arborescence | Nombre de connaissance associées | Obtention |
+|:---:|:---:|:---:|:---:|
+| Archive de Vaha - Enfance | Personnage > Habitant d'Atoraxion > Architecte de Vaha | 11 | Finir le donjon |
+| Archive de Vaha - Adolescence | Personnage > Habitant d'Atoraxion > Architecte de Vaha | 14 | Finir le donjon |
+| Vahmalkea | Ecosystème > Atoraxion | 18 | Tuer les monstres présents dans le donjon ou circuit de données |
+| Journal d'aventure de Vahmalkea I | Journal d'aventure > Journal d'Atoraxion | 23 | Intéraction et Elvia |
+| Journal d'aventure de Vahmalkea II | Journal d'aventure > Journal d'Atoraxion | 33 | Intéraction |
+| Bobine de Vaha | Journal d'aventure > Journal d'Atoraxion | 8 | Résourdre toutes les énigmes |
+| Ingénirie ancestrale I | Erudits | 27 | Intéraction |
+| Architecture ancestrale I | Erudits | 11 | Intéraction |
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
 
