@@ -213,7 +213,18 @@ Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer 
 ## Connaisances
 **⚠️ Finalisez bien toutes les énigmes avant de vous lancer dans les connaissances. En effet, vous aurez besoin du livre d'Atoraxxion pour obtenir les connaissances cachées !⚠️**  
 
-[![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/zuORHMQM0xQ/0.jpg)](https://www.youtube.com/watch?v=zuORHMQM0xQ&ab_channel=Rosendo)  
+[![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/zuORHMQM0xQ/0.jpg)](https://www.youtube.com/watch?v=zuORHMQM0xQ&ab_channel=Rosendo) 
+
+| Connaissances | Arborescence | Nombre de connaissance associées | Obtention |
+|:---:|:---:|:---:|:---:|
+| Archive de Vaha - Enfance | Personnage > Habitant d'Atoraxion > Architecte de Vaha | 11 | Finir le donjon |
+| Archive de Vaha - Adolescence | Personnage > Habitant d'Atoraxion > Architecte de Vaha | 14 | Finir le donjon |
+| Vahmalkea | Ecosystème > Atoraxion | 18 | Tuer les monstres présents dans le donjon ou circuit de données |
+| Journal d'aventure de Vahmalkea I | Journal d'aventure > Journal d'Atoraxion | 23 | Intéraction et Elvia |
+| Journal d'aventure de Vahmalkea II | Journal d'aventure > Journal d'Atoraxion | 33 | Intéraction |
+| Bobine de Vaha | Journal d'aventure > Journal d'Atoraxion | 8 | Résourdre toutes les énigmes |
+| Ingénirie ancestrale I | Erudits | 27 | Intéraction |
+| Architecture ancestrale I | Erudits | 11 | Intéraction |
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
 
