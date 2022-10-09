@@ -196,10 +196,10 @@ Lorsque les boss se figent, cela veut dire qu'ils sont passés à 50% de PV. Ass
 ---
 
 ### Phase 2
-**⚠️ Attention : seul 3 essais sont disponibles lors de cette phase. Si à la 3ème tentative vous n'avez pas réussit à valider l'étape des couleurs, vous serrez ejectés du donjon. ⚠️**  
+**⚠️ Attention : seul 3 essais sont disponibles lors de cette phase. Si à la 3ème tentative vous n'avez pas réussit à valider l'étape des couleurs, vous serrez éjectés du donjon. ⚠️**  
 
 Pendant cette phase, pour plus de simplicité de mouvement, 1 joueur peut s'occuper de garder le boss en bas de la salle. Des piliers de couleur vont apparaîtres dans chacun des coins de la salle, ainsi que des petites spheres des couleurs correspondantes. Le but ? Amener 3 sphères de la couleur du pilier pour le désactiver (à répéter pour chaque pilier). Attention cependant, quand vous passer à proximiter de quelqu'un, il est possible de lui prendre les spheres qui le suivent. Faites donc bien attention à vos déplacements et n'allez pas trop vite.  
-Une fois tous les pilier désactivés, il est possible de DPS le boss sans qu'il puisse se défendre. Si vous arrivez à descendre ses PV à 30%, alors la phase 3 démarrera, sinon, recommancez la phase 2.
+Une fois tous les pilier désactivés, il est possible de DPS le boss sans qu'il puisse se défendre. Si vous arrivez à descendre ses PV à 30%, alors la phase 3 démarrera, sinon, recommencez la phase 2.
 
 ---
 
