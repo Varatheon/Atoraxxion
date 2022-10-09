@@ -63,14 +63,14 @@ Amener-le à proximité de fissure au sol. Lors de son explosion, cela réduira 
 ### Situs
 ![Situs](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Situs.png)
 
-Lorsque celui-ci s'arrète pour charger une attaque, utiliser des attaques à CC afin de le stopper et ainsi reduire considérablement ses DP.
+Lorsque celui-ci s'arrète pour charger une attaque, utilisez des attaques à CC afin de le stopper et ainsi reduire considérablement ses DP.
 
 ---
 
 ### Kreomar
 ![Kreomar](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Kreomar.png)
 
-Lorque celui-ci attaque, se placer dans son dos et attaquer afin de le stopper et ainsi réduire considérablement ses DP. Attention cependant, les attaques à répétition de ce monstre peuvent faire beaucoup de dégâts.
+Lorque celui-ci attaque, placez vous dans son dos et attaquer afin de le stopper et ainsi réduire considérablement ses DP. Attention cependant, les attaques à répétition de ce monstre peuvent faire beaucoup de dégâts.
 
 ---
 
@@ -84,14 +84,14 @@ Attendre qu'il invoque des monstres supplémentaires et ne surtout pas les tappe
 ### Putorakuim
 ![Putorakium](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Putorakium.png)
 
-Utiliser un fusil disponible aux PNJ pour 2 épines de Vaha.
+Utilisez un fusil disponible aux PNJ pour 2 épines de Vaha pour les petits oisieaux volants. Pour le gros piaf, il a le même paterne que Puturum, faites simplement attention aux AoE.
 
 ---
 
 ### Kratenn
 ![Kratenn](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Kratenn.png)
 
-Lorsque Kratenn se charge (des éclairs et de la poussière apparaissent autour de lui), utiliser des fusils afin de détruire son armure, ce qui diminuera considérablement ses DP. Une fois stoppé, chaque membre du groupe doit le toucher avant qu'il ne meurt afin d'obtenir le Coeur Brulant.
+Lorsque Kratenn se charge (des éclairs et de la poussière apparaissent autour de lui), utilisez des fusils afin de détruire son armure, ce qui diminuera considérablement ses DP. Une fois stoppé, chaque membre du groupe doit le toucher avant qu'il ne meurt afin d'obtenir le Coeur Brulant.
 
 ---
 
@@ -108,7 +108,7 @@ Lors du combat, il est nécessaire d'avoir 1 joueur devant chacun des pilers de 
 
 ![Enigme 1](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle1.png)
 
-Placer les 6 boîtes de sorte à ce que la balance soit équilibrée (elles ne font pas toutes la même masse).
+Placez les 6 boîtes de sorte à ce que la balance soit équilibrée (elles ne font pas toutes la même masse).
 
 ---
 
@@ -117,9 +117,10 @@ Placer les 6 boîtes de sorte à ce que la balance soit équilibrée (elles ne f
 
 ![Enigme 2](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle2.png)
 
-- Mouvement 1 : Epée (balance le bras gauche)
-- Mouvement 2 : Bouclier (balance le bras droit)
-- Mouvement 3 : Sol (frappe le sol avec le bouclier)
+> **Mémo**
+> - Mouvement 1 : Epée (balance le bras gauche)
+> - Mouvement 2 : Bouclier (balance le bras droit)
+> - Mouvement 3 : Sol (frappe le sol avec le bouclier)
 
 Le but ici est de reproduire les mouvements effectués par l'arme ancestrale. Les 3 derniers mouvements (avec illumination des plateformes) ne comptent pas dans la combinaison.
 
@@ -139,7 +140,7 @@ Lorsque la bobine est activée, les piliers vont s'éclairer succéssivement en 
 
 ![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle4.png)
 
-1 joueur doit se trouver sur chacune des plateformes indiquées. Le joueur devant valider la quête est placé proche de la sphere et intéragit avec lorsque tous les autres joueurs sont bien placés. Effectuer une rotation pour les autres participants n'ayant pas validé la quête.
+1 joueur doit se trouver sur chacune des plateformes indiquées. Le joueur devant valider la quête est placé proche de la sphere et intéragit avec lorsque tous les autres joueurs sont bien positionnés. Effectuez une rotation pour les autres participants n'ayant pas validé la quête.
 
 ---
 
@@ -163,7 +164,7 @@ Chaque combinaison entraine différents mouvements de plateforme.
 #### Tetris
 **Localisation :** *Monter la falaise dans la salle de la Tête de Vaha*   
 En fonction de la forme affichée (visible en regardant au dessus du damier depuis la bobine), effectuer les combinaisons présentées ici en intéragissant avec chacun des cubes :
-> Memo : 
+> **Memo** 
 > - Message 1 : rien
 > - Message 2 : |
 > - Message 3 : ||
@@ -177,7 +178,7 @@ En fonction de la forme affichée (visible en regardant au dessus du damier depu
 
 #### Bon chemin
 **Localisation :** *Monter la falaise dans la salle de la Tête de Vaha*  
-Activer la bobine puis effectuer le chemin présenté ici :
+Activer la bobine puis effectuez le chemin présenté ici :
 
 ![Enigme cachée 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret3.png)
 
