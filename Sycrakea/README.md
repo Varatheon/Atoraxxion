@@ -101,8 +101,8 @@ Utilisez les poissons (Pisces) et les mobs bleu pour le refroidir en les tuant �
 
 Le but ici est d'activé l'ensemble des tours. Lorsque vous intéragissez avec une tour, cela modifie également celles qui sont à côté. Les paternes disponibles sont les suivants :
 > **Légende :**  
-> Alumée : ⬤  
-> Eteinte : ◯
+> -  Alumée : ⬤  
+> - Eteinte : ◯
 
 **Cas 1 (angle) :**  
 - Avant activation de la tour en haut à gauche.  
@@ -160,11 +160,11 @@ Le but ici est d'activé l'ensemble des tours. Lorsque vous intéragissez avec u
 
 Vous devez réaliser la bonne combinaison de cubes pour pousuivre. En attaquant un cube, vous pouvez modifier le symbole (I, II, ¬, ㅁ, ou vide) qui est affiché. Une fois que vous avez validé une configuration, demandez à la bobine si celle-ci convient. Le nombre de cube dont le symbole correspont est affiché sur le cube à l'entrée de la salle. Poursuivez l'oppération jusqu'à valider l'énigme.
 > **Mémo**  
-> Vide = 0  
-> I = 1  
-> || = 2  
-> ¬ = 3  
-> ㅁ = 4  
+> - Vide = 0  
+> - I = 1  
+> - || = 2  
+> - ¬ = 3  
+> - ㅁ = 4  
 
 ---
 
@@ -248,16 +248,16 @@ Des chiffres vont apparaitre de chaque côté du gros bloc. Chacun des joueurs s
     
 4. Positionnez sur chaque cube (en les tapant) le chiffre correspondant au total
 > **Mémo**  
-> Vide = 0  
-> I = 1  
-> II = 2  
-> ¬ = 3  
-> ㅁ = 4  
-> X = 5  
-> X + . = 6  
-> X + . + . = 7  
-> X + . + . + . = 8  
-> X + . + . + . + . = 9  
+> - Vide = 0  
+> - I = 1  
+> - II = 2  
+> - ¬ = 3  
+> - ㅁ = 4  
+> - X = 5  
+> - X + . = 6  
+> - X + . + . = 7  
+> - X + . + . + . = 8  
+> - X + . + . + . + . = 9  
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 
