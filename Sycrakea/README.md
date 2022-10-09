@@ -190,7 +190,7 @@ Lorsqu'un joueur activera la bobine, les cheminées s'activeront une à une. Il 
 ![Enigme 5-2](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme5-2.png)  
 4. Echangez les positions de la colonne de gauche (par rapport à la précédente) en intéragissant avec.
 ![Enigme 5-3](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme5-3.png)  
-5. Valider la position en activant le rayon
+5. Validez la position en activant le rayon
 ![Enigme 5-4](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme5-4.png)  
 
 Source: https://imgur.com/a/NA2Py42
