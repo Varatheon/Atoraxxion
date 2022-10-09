@@ -51,7 +51,12 @@
 ![Cartios](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Cartios.png)
 
 Lorsque le scorpion commence à se charger, attaquer en priorité le dard planté au sol. Le monstre se retournera lorsque les dégâts reçus seront suffisant.  
-**⚠️Lorsque le dard est vert (flux du sol vers le scorpion), les dégâts reçus le soignent.⚠️**
+
+![CartiosJaune](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/CartiosJaune.PNG)  
+
+**⚠️Lorsque le dard est vert (flux du scorpion vers le sol), les dégâts reçus le soignent.⚠️**  
+
+![CartiosVert](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/CartiosVert.PNG)
 
 ---
 
@@ -79,7 +84,10 @@ Utilisez les poissons (Pisces) et les mobs bleu pour le refroidir en les tuant �
 ### Serphenn
 ![Serphenn](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Serphenn.png)
 
-- Lorsqu'une notification indiquant que Serphenn va activer l'appareil, il faut que tous les piliers **SAUF 1** soient détruits (en générale, nous laissons celui proche de la stelle ayant permis l'activation du boss).
+- Lorsqu'une notification indiquant que Serphenn `controle l'appareil pour absorber le noyau d'alimentation`, il faut que tous les piliers **SAUF 1** soient détruits (en générale, nous laissons celui proche de la stelle ayant permis l'activation du boss).
+
+![Serphenn Noyau](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/SerphenNoyau.PNG)
+
 - Lorsqu'une notification indiquant que Serphenn va utiliser une attaque de souffle, il faut qu'un des membre du groupe se saisisse d'une sphère et se positionne devant lui. Lors de l'attaque, le boss sera alors pétrifié et il sera possible de lui donné le coup fatal.
 
 ---
@@ -88,7 +96,10 @@ Utilisez les poissons (Pisces) et les mobs bleu pour le refroidir en les tuant �
 ![Apocros](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Apocros.png)
 
 - **Phase 1** : Désactivez les piliers. Pour se faire, déplacez chacun des Lahtron en les attaquant sur un pilier. Une fois cela fait, le mini boss descendra et vous pourrez le taper tranquillement jusqu'à atteindre 50% de ses PV (viser la queue).
-- **Phase 2** : Si les Lahtron se sont déplacés, repositionnez les sur les piliers, puis attaquez le petit balaineau. Une fois ce dernier battu, Apocros descendra une nouvelle fois et vous pourrez de nouveau le taper (viser la tête).
+- **Phase 2** : Si les Lahtron se sont déplacés, repositionnez les sur les piliers, puis attaquez le petit baleineau. Une fois ce dernier battu, Apocros descendra une nouvelle fois et vous pourrez de nouveau le taper (viser la tête).
+
+![Baleineau](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Baleineau.PNG)
+
 - **Phase 3** : Détruisez les piliers en tapant dessus. Une fois tous les piliers détruis, finissez tranquillement le mini-boss et poursuivez.
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
@@ -301,7 +312,10 @@ Lorsque le boss arrive à environ **90%** de PV, la phase des poissons est décl
 ### Calamars et pierre de puissance
 **Difficulté : I**  
 Lorsque le boss arrive à environ **80%** de PV, la phase des calamars est déclanchée.  
-- 6 faisseaux de lumière sont tirés depuis des pyramides flotantes. 1 d'entre elle dégage une petite fumée blanche. Notez sa position
+- 6 faisseaux de lumière sont tirés depuis des pyramides flotantes. 1 d'entre elle dégage une petite fumée blanche. Notez sa position.  
+
+![Pyramide](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/PdP.PNG)
+
 - Pendant que vous cherchez la bonne pyramide, attaquer le calamar brillant en jaune. Celui ci, une fois battu, laisse tomber un pierre de puissance. Utilisez là au niveau de la pyramide trouvée préalablement en effectuant un clique droit sur l'item dans votre inventaire.  
 **⚠️ Attention a bien vous mettre face au boss lors de l'utilisation de l'objet, vous ne pourrez pas bouger (et donc vous soigner) pendant un certain temps ⚠️**
 
@@ -312,7 +326,9 @@ Lorsque le boss arrive à environ **80%** de PV, la phase des calamars est décl
 Lorsque le boss arrive à environ **70%** de PV, la phase des couleurs est déclanchée (et est déclanchée plus tard autour de 30-40% PV).  
 - 5 couleurs sont possibles : Jaune, Bleu, Rouge et Blanc.
 - 1 Joueur énonce les couleurs qui arrivent vers le boss afin qu'un autre puisse en noté le nombre d'occurence. Pendant ce temps, les autres joueurs localisent les portes de couleurs localisées sur le mur au fond de chacun des cadrants.
-- Une fois les couleurs terminées, le joueurs ayant compter le nombre d'occurence de chacune indique celle qui est apparue le **PLUS** de fois, et chaque joueur doit se déplacer en direction de la porte de la couleur correspondante afin d'obtenir une sphère protectirece. (lorsque vous avez obtenue la sphère, vous pouvez vous déplacer plus loin et laisser la place à d'autre joueur, la zone permettant de l'obtenir etant assez restrainte).
+- Une fois les couleurs terminées, le joueurs ayant compter le nombre d'occurence de chacune indique celle qui est apparue le **PLUS** de fois, et chaque joueur doit se déplacer en direction de la porte de la couleur correspondante afin d'obtenir une sphère protectirece. (lorsque vous avez obtenue la sphère, vous pouvez vous déplacer plus loin et laisser la place à d'autre joueur, la zone permettant de l'obtenir etant assez restrainte).  
+
+![Porte de Couleur](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/PorteCouleur.PNG)
 
 ---
 
@@ -335,6 +351,8 @@ Lorsque le boss arrive à environ **20%** de PV, la phase des scorpions est déc
 **Difficulté : II ou III**  
 Lorsque le boss arrive à environ **20%** de PV ou moins.  
 Ici, le but est de détruire toute les sources de rayon de lumières (provenant de d'artefacts depuis les murs de la salles) en faisant attention à toutes les AoE du boss.
+
+![Rayon lumineux](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/RayonLumineux.PNG)
 
 Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer votre butin !
 
