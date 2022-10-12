@@ -4,7 +4,7 @@
 </p>
 
 ## Sommaire
-### [Mise à jour](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#mise-%C3%A0-jour)
+### [Mise à jour](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#mise-%C3%A0-jour-1)
 ### [Recommandations](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#recommandations-1)
 ### [Organisation du donjon](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#organisation-du-donjon-1)
 ### [Monstres](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#monstres-1)
