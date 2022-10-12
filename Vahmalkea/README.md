@@ -4,9 +4,9 @@
 </p>
 
 ## Sommaire
+### [Mise à jour](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#mise-%C3%A0-jour-1)
 ### [Recommandations](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#recommandations-1)
 ### [Organisation du donjon](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#organisation-du-donjon-1)
-### [Mise à jour](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#mise-%C3%A0-jour-1)
 ### [Monstres](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#monstres-1)
 - [Monoceros](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#monoceros)
 - [Situs](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#situs)
@@ -30,6 +30,18 @@
 - [Phase 2](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#phase-2)
 - [Phase 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#phase-3)
 ### [Connaissances](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#connaisances)
+
+## Mise à jour
+- **[12/10/2022](https://www.naeu.playblackdesert.com/fr-FR/News/Detail?groupContentNo=4056&countryType=fr-FR#t22)**
+    > - Modification de façon à ce que la Larme de Talibré ne soit plus nécessaire pour entrer dans Atoraxion via Sol Maggia.
+    > - Ajout de butin pour que les [Larmes dorées du désert](https://bdocodex.com/fr/item/8195/) ![Larme du désert](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/LarmeDuDesert.png) puissent être obtenues avec une faible chance depuis les monstres suivants :
+Situs, Monoceros, Lacerta, Kreomar, Putorium, Kratenn, Atenn
+    > - Augmentation de 2,5 fois le taux d'apparition de Krahtenn qui apparaît dans le cœur de Vaha.
+    > - Modification des objets requis lors de l'artisanat du Croc sec de Vaha et du [Elvia] Croc sec de Vaha <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocSec.png" alt="croc sec" width="21"/>. 
+
+
+[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
+
 ## Recommandations
 - **Serveur saisonnier** : Equipement Tuvala DUO minimum
 - **Serveur normal** : 250 AP Kutum | 300 DP (pas de pénalités de mort)
@@ -49,16 +61,6 @@
 | Tête de Vaha | ![Cloche](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Cloche.png) | Battre Atenn |
 | Jardin de Vaha | ![Croc tordu](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocTordu.png) | ![Fabrication croc tordu](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeCrocTordu.png) |
 | Berceau de Vaha | ![Dague](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Dague.png) | ![Fabrication dague](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeDague.png) |
-
-
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
-
-## Mise à jour
-- **[12/10/2022](https://www.naeu.playblackdesert.com/fr-FR/News/Detail?groupContentNo=4056&countryType=fr-FR#t22)**
-    > - Ajout de butin pour que les Larmes dorées du désert ![Larme du désert](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/LarmeDuDesert.png) puissent être obtenues avec une faible chance depuis les monstres suivants :
-Situs, Monoceros, Lacerta, Kreomar, Putorium, Kratenn, Atenn
-    > - Augmentation de 2,5 fois le taux d'apparition de Krahtenn qui apparaît dans le cœur de Vaha.
-    > - Modification des objets requis lors de l'artisanat du Croc sec de Vaha et du [Elvia] Croc sec de Vaha <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocSec.png" alt="croc sec" width="21"/>. 
 
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
