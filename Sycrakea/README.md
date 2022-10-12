@@ -70,9 +70,12 @@ Cartios, Laikina, Bellora, Serphenn, Apocros
 
 Lorsque le scorpion commence à se charger, attaquer en priorité le dard planté au sol. Le monstre se retournera lorsque les dégâts reçus seront suffisant.  
 
-![CartiosJaune](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/CartiosJaune.gif)![CartiosVert](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/CartiosVert.gif)
+<div align="center">
+  <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/CartiosJaune.gif" alt="Cartios jaune" width="450"/>
+  <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/CartiosVert.gif" alt="Cartios vert" width="450"/><br>
+  <strong>⚠️Lorsque le dard est vert (flux du scorpion vers le sol), les dégâts reçus le soignent.⚠️</strong>
+ </div>
 
-**⚠️Lorsque le dard est vert (flux du scorpion vers le sol), les dégâts reçus le soignent.⚠️**  
 
 ---
 
@@ -86,7 +89,11 @@ Ce monstre absorbera votre mana si vous vous trouvez dans la zone d'action (jaun
 ### Laikina
 ![Laikina](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Laikina.png)
 
-Lorsque ce monstre tente d'absorber son pouvoir, 3 bulles d'eau vont apparaitres. Il faut alors les détruire toutes et le Laikina sera alors sans défence.
+Lorsque ce monstre tente d'absorber son pouvoir, 3 bulles d'eau vont apparaitres. Il faut alors les détruire toutes et le Laikina sera alors sans défence.  
+<div align="center">
+  <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LaikinaAdds.gif" alt="Laikina adds"/><br>
+  <strong>⚠️Si les 3 bulles ne sont pas éclatées à temps, le Laikina réalisera une AoE qui infligera beaucoup de dégâts.⚠️</strong>
+ </div>
 
 ---
 
