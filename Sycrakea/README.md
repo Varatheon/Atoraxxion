@@ -4,6 +4,7 @@
 </p>
 
 ## Sommaire
+### [Mise à jour](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#mise-%C3%A0-jour)
 ### [Recommandations](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#recommandations-1)
 ### [Organisation du donjon](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#organisation-du-donjon-1)
 ### [Monstres](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#monstres-1)
@@ -35,6 +36,23 @@
 - [Scorpions](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#scorpions)
 - [Rayons de lumière](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#rayons-de-lumi%C3%A8re)
 ### [Connaissances](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#connaisances)
+
+## Mise à jour
+- **[12/10/2022](https://www.naeu.playblackdesert.com/fr-FR/News/Detail?groupContentNo=4056&countryType=fr-FR#t22)**
+    > - Modification de façon à ce que la Larme de Talibré ne soit plus nécessaire pour entrer dans Atoraxion via Sol Maggia.
+    > - Ajout de butin pour que les [Larmes dorées du désert](https://bdocodex.com/fr/item/8195/) ![Larme du désert](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LarmeDuDesert.png) puissent être obtenues avec une faible chance depuis les monstres suivants :
+Cartios, Laikina, Bellora, Serphenn, Apocros
+    > - Atoraxion : Sycrakea - Modification des objets requis lors de l'artisanat de **Fragment de Yolunn avide** et **[Elvia] Fragment de Yolunn avide**.  
+    > Alchimie simple sur <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Ecaille.png" alt="Ecaille" height="30"/> x2 + <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/TimeEgg.png" alt="Œuf du temps asséché" height="30"/> x2 = ![Yolunn avide](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/YolunnAvide.png).
+    > - Atoraxion : Sycrakea - Modification des objets requis lors de l'artisanat de **Fragment de Yolunn brutal** et **[Elvia] Fragment de Yolunn brutal**.
+    > Alchimie simple sur <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Ecaille.png" alt="Ecaille" height="30"/> x2 + <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/ScareEgg.png" alt="Œuf du temps horrifié " height="30"/> x2 = ![Yolunn avide](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/YolunnBrutal.png).
+    > - Atoraxion : Sycrakea - Lahtron « cassé » montre son apparence dans la Tombe de Syca. Lorsque Lahtron « cassé » touche Stellagia qui se trouve dans la Tombe de Syca, le piège de la Trachée de Syca sera désactivé pour une certaine durée.
+    > <br></br>
+    > <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LahtronEnigme.gif" alt="Lahtron" height="308"/>![Light](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LightDésactivées.gif)
+
+
+[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
+
 ## Recommandations
 - **Serveur saisonnier** : Equipement Tuvala DUO minimum
 - **Serveur normal** : 250 AP Kutum | 300 DP (pas de pénalités de mort)
