@@ -70,11 +70,9 @@ Cartios, Laikina, Bellora, Serphenn, Apocros
 
 Lorsque le scorpion commence à se charger, attaquer en priorité le dard planté au sol. Le monstre se retournera lorsque les dégâts reçus seront suffisant.  
 
-![CartiosJaune](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/CartiosJaune.PNG)  
+![CartiosJaune](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/CartiosJaune.gif)![CartiosVert](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/CartiosVert.gif)
 
 **⚠️Lorsque le dard est vert (flux du scorpion vers le sol), les dégâts reçus le soignent.⚠️**  
-
-![CartiosVert](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/CartiosVert.PNG)
 
 ---
 
