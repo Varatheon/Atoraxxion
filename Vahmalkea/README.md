@@ -6,7 +6,7 @@
 ## Sommaire
 ### [Recommandations](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#recommandations-1)
 ### [Organisation du donjon](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#organisation-du-donjon-1)
-### [Mise à jour](https://github.com/Varatheon/Atoraxxion/edit/main/Vahmalkea/README.md#mise-%C3%A0-jour-1)
+### [Mise à jour](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#mise-%C3%A0-jour-1)
 ### [Monstres](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#monstres-1)
 - [Monoceros](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#monoceros)
 - [Situs](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#situs)
