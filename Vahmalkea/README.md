@@ -37,7 +37,8 @@
     > - Ajout de butin pour que les [Larmes dorées du désert](https://bdocodex.com/fr/item/8195/) ![Larme du désert](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/LarmeDuDesert.png) puissent être obtenues avec une faible chance depuis les monstres suivants :
 Situs, Monoceros, Lacerta, Kreomar, Putorium, Kratenn, Atenn
     > - Augmentation de 2,5 fois le taux d'apparition de Krahtenn qui apparaît dans le cœur de Vaha.
-    > - Modification des objets requis lors de l'artisanat du Croc sec de Vaha et du [Elvia] Croc sec de Vaha <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocSec.png" alt="croc sec" width="21"/>. 
+    > - Modification des objets requis lors de l'artisanat du **Croc sec de Vaha** et du **[Elvia] Croc sec de Vaha**.  
+    > *Alchimie simple sur* <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Epine.png" alt="Epine froide" width="21"/> **x5** ⟶ <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocSec.png" alt="croc sec" width="21"/>. 
 
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
