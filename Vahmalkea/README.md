@@ -6,6 +6,7 @@
 ## Sommaire
 ### [Recommandations](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#recommandations-1)
 ### [Organisation du donjon](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#organisation-du-donjon-1)
+### [Mise à jour](https://github.com/Varatheon/Atoraxxion/edit/main/Vahmalkea/README.md#mise-%C3%A0-jour-1)
 ### [Monstres](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#monstres-1)
 - [Monoceros](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#monoceros)
 - [Situs](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#situs)
@@ -41,13 +42,23 @@
 | Zone | Item | Obtention |
 |:---:|:---:|:---:|
 | Tempête de Vaha | ![Epine](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Epine.png) | Tuer les monstres de la zone |
-| Coeur de Vaha | ![Croc sec](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocSec.png) | Alchimie Simple sur ![Epine](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Epine.png) x5 |
+| Coeur de Vaha | ![Croc sec](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocSec.png) | Alchimie Simple sur <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Epine.png" alt="Epine froide" width="21"/> x5 |
 | Coeur de Vaha | ![Coeur brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CoeurBrulant.png) | Battre Kratenn |
 | Tête de Vaha | ![Croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocBrulant.png) | ![Fabrication croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeCrocBrulant.png) |
 | Tête de Vaha | ![Coquille](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Coquille.png) | Battre Atenn |
 | Tête de Vaha | ![Cloche](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Cloche.png) | Battre Atenn |
 | Jardin de Vaha | ![Croc tordu](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocTordu.png) | ![Fabrication croc tordu](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeCrocTordu.png) |
 | Berceau de Vaha | ![Dague](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Dague.png) | ![Fabrication dague](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeDague.png) |
+
+
+[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
+
+## Mise à jour
+- **[12/10/2022](https://www.naeu.playblackdesert.com/fr-FR/News/Detail?groupContentNo=4056&countryType=fr-FR#t22)**
+    > - Ajout de butin pour que les Larmes dorées du désert ![Larme du désert](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/LarmeDuDesert.png) puissent être obtenues avec une faible chance depuis les monstres suivants :
+Situs, Monoceros, Lacerta, Kreomar, Putorium, Kratenn, Atenn
+    > - Augmentation de 2,5 fois le taux d'apparition de Krahtenn qui apparaît dans le cœur de Vaha.
+    > - Modification des objets requis lors de l'artisanat du Croc sec de Vaha et du [Elvia] Croc sec de Vaha <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocSec.png" alt="croc sec" width="21"/>. 
 
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
