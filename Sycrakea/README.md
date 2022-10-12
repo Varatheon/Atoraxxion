@@ -48,7 +48,7 @@ Cartios, Laikina, Bellora, Serphenn, Apocros
     > *Alchimie simple sur* <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Ecaille.png" alt="Ecaille" height="30"/> **x2** + <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/ScareEgg.png" alt="Œuf du temps horrifié " height="30"/> **x2** **⟶** ![Yolunn avide](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/YolunnBrutal.png).
     > - Atoraxion : Sycrakea - Lahtron « cassé » montre son apparence dans la Tombe de Syca. Lorsque Lahtron « cassé » touche Stellagia qui se trouve dans la Tombe de Syca, le piège de la Trachée de Syca sera désactivé pour une certaine durée.
     > <br></br>
-    > <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LahtronEnigme.gif" alt="Lahtron" height="308"/>![Light](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LightDésactivées.gif)
+    > <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LahtronEnigme.gif" alt="Lahtron" height="308"/><img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LightDésactivées.gif" alt="Light" height="308"/>
 
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
