@@ -387,6 +387,7 @@ Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer v
 
 [![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/LnEydSr4aqE/0.jpg)](https://www.youtube.com/watch?v=LnEydSr4aqE&ab_channel=NoodleCorp) 
 
+
 | Connaissances | Arborescence | Nombre de connaissance associées | Obtention |
 |:---:|:---:|:---:|:---:|
 | Archive de Syca - Enfance | Personnage > Habitant d'Atoraxion > Architecte de Syca | 8 | Finir le donjon |
