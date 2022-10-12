@@ -300,8 +300,8 @@ Des chiffres vont apparaitre de chaque côté du gros bloc. Chacun des joueurs s
 
 ### Gestion de la puissance du boss
 Le terrain possède un dispositif permettant de réglé la difficulté (représentés par les symboles I, II, III et IV) du boss. En fonction du niveau choisi, la défense de Sentirutos diminue mais son attaque augmente.  
-*Exemple: I: attaque faible, défense élevée | IV: attaque élevée, défense faible*  
-Pendant les phases DPS, placer la difficulté en **II** ou **III** en fonction de la résistance du groupe
+*Exemples: I: attaque faible, défense élevée | IV: attaque élevée, défense faible*  
+Pendant les phases DPS, placez la difficulté en **II** ou **III** en fonction de la résistance du groupe
 
 ![Power stone](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LastBossPowerStone.png)
 
