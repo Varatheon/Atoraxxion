@@ -41,7 +41,7 @@
 | Zone | Item | Obtention |
 |:---:|:---:|:---:|
 | Tempête de Vaha | ![Epine](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Epine.png) | Tuer les monstres de la zone |
-| Coeur de Vaha | ![Croc sec](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocSec.png) | Alchimie Simple sur ![Epine](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Epine.png) x10 |
+| Coeur de Vaha | ![Croc sec](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocSec.png) | Alchimie Simple sur ![Epine](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Epine.png) x5 |
 | Coeur de Vaha | ![Coeur brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CoeurBrulant.png) | Battre Kratenn |
 | Tête de Vaha | ![Croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocBrulant.png) | ![Fabrication croc brulant](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeCrocBrulant.png) |
 | Tête de Vaha | ![Coquille](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Coquille.png) | Battre Atenn |
