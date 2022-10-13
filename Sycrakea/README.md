@@ -42,10 +42,17 @@
     > - Modification de façon à ce que la Larme de Talibré ne soit plus nécessaire pour entrer dans Atoraxion via Sol Maggia.
     > - Ajout de butin pour que les [Larmes dorées du désert](https://bdocodex.com/fr/item/8195/) ![Larme du désert](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LarmeDuDesert.png) puissent être obtenues avec une faible chance depuis les monstres suivants :
 Cartios, Laikina, Bellora, Serphenn, Apocros
-    > - Modification des objets requis lors de l'artisanat de **Fragment de Yolunn avide** et **[Elvia] Fragment de Yolunn avide**.  
-    > *Alchimie simple sur* <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Ecaille.png" alt="Ecaille" height="30"/> **x2** + <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/TimeEgg.png" alt="Œuf du temps asséché" height="30"/> **x2** **⟶** ![Yolunn avide](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/YolunnAvide.png).
-    > - Modification des objets requis lors de l'artisanat de **Fragment de Yolunn brutal** et **[Elvia] Fragment de Yolunn brutal**.  
-    > *Alchimie simple sur* <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Ecaille.png" alt="Ecaille" height="30"/> **x2** + <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/ScareEgg.png" alt="Œuf du temps horrifié " height="30"/> **x2** **⟶** ![Yolunn avide](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/YolunnBrutal.png).
+    > - Modification des objets requis lors de l'artisanat de **Fragment de Yolunn avide** et **[Elvia] Fragment de Yolunn avide**.<br></br>
+    > 
+    > | Fragment de Yolunn avide | Obtention | Écaille froide de Syca | Quantité  | Œuf du temps asséché | Quantité |
+    > |:-----:|:---------:|:-------:|:----------:|:-------:|:----------:|
+    > | ![Yolunn avide](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/YolunnAvide.png) | Alchimie simple | <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Ecaille.png" alt="Ecaille" height="30"/> | 2 | <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/TimeEgg.png" alt="Œuf du temps asséché" height="30"/> | 2 |
+    > 
+    > - Modification des objets requis lors de l'artisanat de **Fragment de Yolunn brutal** et **[Elvia] Fragment de Yolunn brutal**.<br></br>
+    > 
+    > | Fragment de Yolunn brutal | Obtention | Écaille froide de Syca | Quantité  | Œuf du temps horrifié | Quantité |
+    > |:-----:|:---------:|:-------:|:----------:|:-------:|:----------:|
+    > | ![Yolunn avide](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/YolunnBrutal.png) | Alchimie simple | <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Ecaille.png" alt="Ecaille" height="30"/> | 2 | <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/ScareEgg.png" alt="Œuf du temps horrifié" height="30"/> | 2 |
     > - Lahtron « cassé » montre son apparence dans la Tombe de Syca. Lorsque Lahtron « cassé » touche Stellagia qui se trouve dans la Tombe de Syca, le piège de la Trachée de Syca sera désactivé pour une certaine durée.
     > <br></br>
     > <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LahtronEnigme.gif" alt="Lahtron" height="308"/><img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LightDésactivées.gif" alt="Light" height="308"/>
