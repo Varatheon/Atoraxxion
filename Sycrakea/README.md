@@ -358,7 +358,7 @@ Lorsque le boss arrive à environ **70%** de PV, la phase des couleurs est décl
 ### Stelles et symboles
 **Difficulté : I ou II**  
 Lorsque le boss arrive à environ **50%** de PV, la phase des symboles est déclanchée.  
-Les 2 stelles protectrices vont présentés chacune un symbole ( ◭, △ ou 8), et chacun des cadrants en face des stelles (3 et 3) vont également afficher des symboles. Vous devez alors pour chaque **moitié de salle**, placez un joueur sur le symbole au sol correspondant à celui de la stelle.  
+Les 2 stelles protectrices vont présenter chacune un symbole ( ◭, △ ou 8), et chacun des cadrants en face des stelles (3 et 3) vont également afficher des symboles. Vous devez alors pour chaque **moitié de salle**, placez un joueur sur le symbole au sol correspondant à celui de la stelle.  
 **⚠️ Attention: si vous échouez lors de cette phase, vous devrez recommancer le combat ! ⚠️**
 
 ---
