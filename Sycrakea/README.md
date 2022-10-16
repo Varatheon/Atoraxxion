@@ -29,11 +29,11 @@
 - [Répartition des joueurs](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#r%C3%A9partition-des-joueurs)
 - [Cubes volants et prisons](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#cubes-volants-et-prisons)
 - [Attaque de zone et protection](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#attaque-de-zone-et-protection)
-- [Poissons brillants](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#poissons-brillants)
-- [Calamars et pierre de puissance](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#calamars-et-pierre-de-puissance)
+- [Lahtrons brillants](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#lahtrons-brillants)
+- [Belloras et pierre de puissance](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#belloras-et-pierre-de-puissance)
 - [Couleurs](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#couleurs)
 - [Stèles et symboles](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#st%C3%A8les-et-symboles)
-- [Scorpions](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#scorpions)
+- [Cartios](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#cartios-1)
 - [Rayons de lumière](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#rayons-de-lumi%C3%A8re)
 ### [Connaissances](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#connaisances)
 
@@ -375,7 +375,7 @@ Plusieurs fois pendant le combats, votre personnage sera 'aspiré' par une éner
 
 ---
 
-### Poissons brillants
+### Lahtrons brillants
 **Difficulté : III ou IV**  
 Lorsque le boss arrive à environ **90%** de PV, la phase des poissons est déclanchée.  
 - 1 poisson apprait par cadrant ( = 6)
@@ -384,7 +384,7 @@ Lorsque le boss arrive à environ **90%** de PV, la phase des poissons est décl
 
 ---
 
-### Calamars et pierre de puissance
+### Belloras et pierre de puissance
 **Difficulté : I**  
 Lorsque le boss arrive à environ **80%** de PV, la phase des calamars est déclanchée.  
 - 6 faisseaux de lumière sont tirés depuis des pyramides flotantes. 1 d'entre elle dégage une petite fumée blanche. Notez sa position.    
@@ -393,7 +393,7 @@ Lorsque le boss arrive à environ **80%** de PV, la phase des calamars est décl
   <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/PdP.gif" alt="Pyramide adds"/><br></br>
 </div>
 
-- Pendant que vous cherchez la bonne pyramide, attaquer le calamar brillant en jaune. Celui ci, une fois battu, laisse tomber un pierre de puissance. Utilisez là au niveau de la pyramide trouvée préalablement en effectuant un clique droit sur l'item dans votre inventaire.  
+- Pendant que vous cherchez la bonne pyramide, attaquez le calamar brillant en jaune. Celui-ci, une fois battu, laisse tomber une pierre de puissance. Utilisez là au niveau de la pyramide trouvée préalablement en effectuant un clique droit sur l'item dans votre inventaire.<br></br>
 **⚠️ Attention a bien vous mettre face au boss lors de l'utilisation de l'objet, vous ne pourrez pas bouger (et donc vous soigner) pendant un certain temps ⚠️**
 
 ---
@@ -417,7 +417,7 @@ Les 2 stèles protectrices vont présenter chacune un symbole ( ◭, △ ou 8), 
 
 ---
 
-### Scorpions
+### Cartios
 **Difficulté : III**  
 Lorsque le boss arrive à environ **20%** de PV, la phase des scorpions est déclanchée (et peut revenir plus tard lors du combat).  
 3 scorpions vont appraitre dans la salle, l'objectif est de tous les battre (ils meurent en arrivant à 50% de PV).
