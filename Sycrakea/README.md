@@ -396,7 +396,7 @@ Lorsque le boss arrive à environ **80%** de PV, la phase des calamars est décl
   <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/PdP.gif" alt="Pyramide adds"/><br></br>
 </div>
 
-- Pendant que vous cherchez la bonne pyramide, attaquez le calamar brillant en jaune. Celui-ci, une fois battu, laisse tomber une pierre de puissance. Utilisez là au niveau de la pyramide trouvée préalablement en effectuant un clique droit sur l'item dans votre inventaire.<br></br>
+- Pendant que vous cherchez la bonne pyramide, attaquez le Bellora brillant en jaune. Celui-ci, une fois battu, laisse tomber une pierre de puissance. Utilisez là au niveau de la pyramide trouvée préalablement en effectuant un clique droit sur l'item dans votre inventaire.<br></br>
 **⚠️ Attention a bien vous mettre face au boss lors de l'utilisation de l'objet, vous ne pourrez pas bouger (et donc vous soigner) pendant un certain temps ⚠️**
 
 ---
@@ -422,8 +422,8 @@ Les 2 stèles protectrices vont présenter chacune un symbole ( ◭, △ ou 8), 
 
 ### Cartios
 **⚔️ Difficulté : III ⚔️**  
-Lorsque le boss arrive à environ **20%** de PV, la phase des scorpions est déclanchée (et peut revenir plus tard lors du combat).  
-3 scorpions vont appraitre dans la salle, l'objectif est de tous les battre (ils meurent en arrivant à 50% de PV). Attaquez les dans le dos pour plus d'efficacité !
+Lorsque le boss arrive à environ **20%** de PV, la phase des Cartios est déclanchée (et peut revenir plus tard lors du combat).  
+3 Cartios vont appraitre dans la salle, l'objectif est de tous les battre (ils meurent en arrivant à 50% de PV). Attaquez les dans le dos pour plus d'efficacité !
 
 ---
 
