@@ -119,7 +119,7 @@ Utilisez les poissons (Piscesis) pour le refroidir en les tuant à proximité de
 ### Serphenn
 ![Serphenn](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Serphenn.png)
 
-- Lorsqu'une notification indiquant que Serphenn `controle l'appareil pour absorber le noyau d'alimentation`, il faut que tous les piliers **SAUF 1** soient détruits (en générale, nous laissons celui proche de la stèle ayant permis l'activation du boss).
+- Lorsqu'une notification indiquant que `Serphenn controle l'appareil pour absorber le noyau d'alimentation`, il faut que tous les piliers **SAUF 1** soient détruits (en général, nous laissons celui proche de la stèle ayant permis l'activation du boss).
 
 ![Serphenn Noyau](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/SerphenNoyau.PNG)
 
@@ -194,7 +194,7 @@ Le but ici est d'activé l'ensemble des tours. Lorsque vous intéragissez avec u
 1. Les symboles (I, II, ¬, ㅁ, ou vide) des 4 cubes de chacunes des zones doivents être identiques. Pour se faire, les joueurs positionnés dans la zone 2 doivent monter sur les plateformes afin de les faire correspondres à celles de la zone 1.
 
 > *Exemple :*  
->     La partie haute de l'image ci après représente la l'ordre et la combinaison à reproduire. Chaque cubes présente une plateforme qui permettra de modifier l'affichage des autres cubes situés plus bas. Dans notre exemple, la plateforme de gauche agit sur le cube (en bas) à droite. Si l'on part de la position de départ (vide), il faudra monter 2 fois sur cette plateforme pour obtenir le bon signe sur ce cube. Cette opération est à répéter pour chaque cube, en repérant la plateforme qui lui est associée.<br></br> 
+> La partie haute de l'image ci-après représente l'ordre et la combinaison à reproduire. Chaque cube présente une plateforme qui permettra de modifier l'affichage des autres cubes situés plus bas. Dans notre exemple, la plateforme de gauche (2ème partie de l'énigme) agit sur le cube (1ère partie de l'énigme) de droite. Si l'on part de la position de départ (vide), il faudra monter 2 fois sur cette plateforme pour obtenir le bon signe sur ce cube. Cette opération est à répéter pour chaque cube, en repérant la plateforme qui lui est associée.<br></br> 
 > ![Enigme 2 1ere partie](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme2Tip.png)  
 > **Mémo**  
 > - Aucune intéraction = Vide  
