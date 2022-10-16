@@ -90,8 +90,7 @@ Lorsque le scorpion commence à se charger, attaquer en priorité le dard plant�
   <strong>⚠️Lorsque le dard est vert (flux du scorpion vers le sol), les dégâts reçus le soignent.⚠️</strong>
  </div><br></br>
 
->**Vidéo Explicative :**  
->[![Cartios](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=84s)
+> <strong><a href="https://www.youtube.com/watch?v=D-IFjy1BV9g&t=84s" target="_blank">❗ Vidéo explicative ❗</a></strong>
 
 ---
 
@@ -104,8 +103,7 @@ Lorsque ce monstre tente d'absorber son pouvoir, 3 bulles d'eau vont apparaitres
   <strong>⚠️Si les 3 bulles ne sont pas éclatées à temps, le Laikina réalisera une AoE qui infligera beaucoup de dégâts.⚠️</strong>
  </div><br></br>
  
->**Vidéo Explicative :**  
->[![Laikina](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=45s)
+> <strong><a href="https://www.youtube.com/watch?v=D-IFjy1BV9g&t=45s" target="_blank">❗ Vidéo explicative ❗</a></strong>
 
 ---
 
@@ -114,8 +112,7 @@ Lorsque ce monstre tente d'absorber son pouvoir, 3 bulles d'eau vont apparaitres
 
 Utilisez les poissons (Piscesis) pour le refroidir en les tuant à proximité des piliers rouge.
 
->**Vidéo Explicative :**  
->[![Bellora](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=210s)
+> <strong><a href="https://www.youtube.com/watch?v=D-IFjy1BV9g&t=210s" target="_blank">❗ Vidéo explicative ❗</a></strong>
 
 ---
 
@@ -128,8 +125,7 @@ Utilisez les poissons (Piscesis) pour le refroidir en les tuant à proximité de
 
 - Lorsqu'une notification indiquant que Serphenn va utiliser une attaque de souffle, il faut qu'un des membre du groupe se saisisse d'une sphère et se positionne devant lui. Lors de l'attaque, le boss sera alors pétrifié et il sera possible de lui donné le coup fatal.
 
->**Vidéo Explicative :**  
->[![Serphenn](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=401)
+> <strong><a href="https://www.youtube.com/watch?v=D-IFjy1BV9g&t=401s" target="_blank">❗ Vidéo explicative ❗</a></strong>
 
 ---
 
@@ -143,8 +139,7 @@ Utilisez les poissons (Piscesis) pour le refroidir en les tuant à proximité de
 
 - **Phase 3** : Détruisez les piliers en tapant dessus. Une fois tous les piliers détruis, finissez tranquillement le mini-boss et poursuivez.  
 
->**Vidéo Explicative :**  
->[![Apocros](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=687)
+> <strong><a href="https://www.youtube.com/watch?v=D-IFjy1BV9g&t=687s" target="_blank">❗ Vidéo explicative ❗</a></strong>
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 ## Enigmes
@@ -190,8 +185,7 @@ Le but ici est d'activé l'ensemble des tours. Lorsque vous intéragissez avec u
 | ⬤ | ⬤ | ◯ |
 
 
->**Vidéo Explicative :**  
->[![Enigme 1](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=120)
+> <strong><a href="https://www.youtube.com/watch?v=D-IFjy1BV9g&t=120s" target="_blank">❗ Vidéo explicative ❗</a></strong>
 
 ---
 
@@ -226,8 +220,7 @@ Le but ici est d'activé l'ensemble des tours. Lorsque vous intéragissez avec u
 ![Enigme 2-2](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme2-2.png)
 ![Enigme 2-3](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme2-3.png)
 
->**Vidéo Explicative :**  
->[![Enigme 2](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=142)
+> <strong><a href="https://www.youtube.com/watch?v=D-IFjy1BV9g&t=142s" target="_blank">❗ Vidéo explicative ❗</a></strong>
 
 ---
 
@@ -245,8 +238,7 @@ Vous devez réaliser la bonne combinaison de cubes pour pousuivre. En attaquant 
 > - ¬ = 3  
 > - ㅁ = 4  
 
->**Vidéo Explicative :**  
->[![Enigme 3](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=308)
+> <strong><a href="https://www.youtube.com/watch?v=D-IFjy1BV9g&t=308s" target="_blank">❗ Vidéo explicative ❗</a></strong>
 
 ---
 
@@ -280,8 +272,7 @@ Lorsqu'un joueur activera la bobine, les cheminées s'activeront une à une. Il 
 
 Source: https://imgur.com/a/NA2Py42
 
->**Vidéo Explicative :**  
->[![Enigme 5](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=565)
+> <strong><a href="https://www.youtube.com/watch?v=D-IFjy1BV9g&t=565s" target="_blank">❗ Vidéo explicative ❗</a></strong>
 
 ---
 
@@ -351,6 +342,8 @@ Des chiffres vont apparaitre de chaque côté du gros bloc. Chacun des joueurs s
 
 ## Boss Final
 ![Sentirutos Rancunier](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Sentirutos.png)
+
+> <strong><a href="https://www.youtube.com/watch?v=D-IFjy1BV9g&t=759s" target="_blank">❗ Vidéo explicative ❗</a></strong>
 
 ### Gestion de la puissance du boss
 Le terrain possède un dispositif permettant de réglé la difficulté (représentés par les symboles I, II, III et IV) du boss. En fonction du niveau choisi, la défense de Sentirutos diminue mais son attaque augmente.  
