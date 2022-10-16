@@ -345,7 +345,9 @@ Le terrain est partagé en 6 cadrants. 1 joueur se positionne sur le cadrant où
 ### Attaque de zone et protection
 Plusieurs fois pendant le combats, votre personnage sera 'aspiré' par une énergie. Il vous faudra alors vous rendre rapidement derrière une des stelles afin d'être protégé de l'attaque de zone qui suivra (OS si non protégé).
 
-![Stelle protectrice](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Stelle.PNG)
+<div align="center">
+  <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Stelle.PNG" alt="Stelle protectrice"/><br></br>
+</div>
 
 ---
 
