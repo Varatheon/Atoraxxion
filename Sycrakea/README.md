@@ -8,8 +8,8 @@
 ### [Recommandations](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#recommandations-1)
 ### [Organisation du donjon](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#organisation-du-donjon-1)
 ### [Monstres](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#monstres-1)
-- [Cartios](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#cartios)
 - [Lahtron](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#lahtron)
+- [Cartios](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#cartios)
 - [Laikina](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#laikina)
 - [Bellora](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#bellora)
 - [Serphenn](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#serphenn)
@@ -72,6 +72,13 @@ Cartios, Laikina, Bellora, Serphenn, Apocros
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 
 ## Monstres
+### Lahtron
+![Lahtron](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Lahtron.png)
+
+Ce monstre absorbera votre mana si vous vous trouvez dans la zone d'action (jaune).
+
+---
+
 ### Cartios
 ![Cartios](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Cartios.png)
 
@@ -81,15 +88,10 @@ Lorsque le scorpion commence à se charger, attaquer en priorité le dard plant�
   <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/CartiosJaune.gif" alt="Cartios jaune" width="450"/>
   <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/CartiosVert.gif" alt="Cartios vert" width="450"/><br>
   <strong>⚠️Lorsque le dard est vert (flux du scorpion vers le sol), les dégâts reçus le soignent.⚠️</strong>
- </div>
+ </div><br></br>
 
-
----
-
-### Lahtron
-![Lahtron](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Lahtron.png)
-
-Ce monstre absorbera votre mana si vous vous trouvez dans la zone d'action (jaune).
+>**Vidéo Explicative :**  
+>[![Cartios](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=84s)
 
 ---
 
@@ -100,7 +102,10 @@ Lorsque ce monstre tente d'absorber son pouvoir, 3 bulles d'eau vont apparaitres
 <div align="center">
   <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LaikinaAdds.gif" alt="Laikina adds"/><br>
   <strong>⚠️Si les 3 bulles ne sont pas éclatées à temps, le Laikina réalisera une AoE qui infligera beaucoup de dégâts.⚠️</strong>
- </div>
+ </div><br></br>
+ 
+>**Vidéo Explicative :**  
+>[![Laikina](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=45s)
 
 ---
 
@@ -108,6 +113,9 @@ Lorsque ce monstre tente d'absorber son pouvoir, 3 bulles d'eau vont apparaitres
 ![Bellora](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Bellora.png)
 
 Utilisez les poissons (Piscesis) pour le refroidir en les tuant à proximité des piliers rouge.
+
+>**Vidéo Explicative :**  
+>[![Bellora](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=210s)
 
 ---
 
@@ -120,6 +128,9 @@ Utilisez les poissons (Piscesis) pour le refroidir en les tuant à proximité de
 
 - Lorsqu'une notification indiquant que Serphenn va utiliser une attaque de souffle, il faut qu'un des membre du groupe se saisisse d'une sphère et se positionne devant lui. Lors de l'attaque, le boss sera alors pétrifié et il sera possible de lui donné le coup fatal.
 
+>**Vidéo Explicative :**  
+>[![Serphenn](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=401)
+
 ---
 
 ### Apocros
@@ -130,7 +141,10 @@ Utilisez les poissons (Piscesis) pour le refroidir en les tuant à proximité de
 
 ![Baleineau](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Baleineau.PNG)
 
-- **Phase 3** : Détruisez les piliers en tapant dessus. Une fois tous les piliers détruis, finissez tranquillement le mini-boss et poursuivez.
+- **Phase 3** : Détruisez les piliers en tapant dessus. Une fois tous les piliers détruis, finissez tranquillement le mini-boss et poursuivez.  
+
+>**Vidéo Explicative :**  
+>[![Apocros](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=687)
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 ## Enigmes
@@ -175,6 +189,10 @@ Le but ici est d'activé l'ensemble des tours. Lorsque vous intéragissez avec u
 | ◯ | ◯  | ◯ |
 | ⬤ | ⬤ | ◯ |
 
+
+>**Vidéo Explicative :**  
+>[![Enigme 1](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=120)
+
 ---
 
 #### Plateformes et lumières
@@ -208,6 +226,9 @@ Le but ici est d'activé l'ensemble des tours. Lorsque vous intéragissez avec u
 ![Enigme 2-2](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme2-2.png)
 ![Enigme 2-3](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme2-3.png)
 
+>**Vidéo Explicative :**  
+>[![Enigme 2](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=142)
+
 ---
 
 #### Mastermind
@@ -224,6 +245,9 @@ Vous devez réaliser la bonne combinaison de cubes pour pousuivre. En attaquant 
 > - ¬ = 3  
 > - ㅁ = 4  
 
+>**Vidéo Explicative :**  
+>[![Enigme 3](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=308)
+
 ---
 
 #### Cheminées ordonnées
@@ -233,6 +257,9 @@ Vous devez réaliser la bonne combinaison de cubes pour pousuivre. En attaquant 
 ![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme4.png)
 
 Lorsqu'un joueur activera la bobine, les cheminées s'activeront une à une. Il faut alors retenir la séquence des cheminées pour la reproduire à nouveau une fois la celle-ci terminée.
+
+>**Vidéo Explicative :**  
+>[![Enigme 4](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=514)
 
 ---
 
@@ -252,6 +279,9 @@ Lorsqu'un joueur activera la bobine, les cheminées s'activeront une à une. Il 
 ![Enigme 5-4](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme5-4.png)  
 
 Source: https://imgur.com/a/NA2Py42
+
+>**Vidéo Explicative :**  
+>[![Enigme 5](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=565)
 
 ---
 
