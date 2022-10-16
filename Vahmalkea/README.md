@@ -205,7 +205,7 @@ Activer la bobine puis effectuez le chemin présenté ici :
 ### Phase 1
 2 boss sont présents dans la pièce. Le but est de les éloignés l'un de l'autre et de baisser leur PV. Pour se faire, 1 joueur s'occupe de Lucretia en le positionant en haut à droite, 1 autre s'occupe de Urkyos en le positionnant en bas à gauche (sens d'orientation basée sur l'entrée).  
 
-![Derniers boss](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/LastBoss.PNG)
+![Derniers boss](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/LastBoss.png)
 
 Les PV des 2 boss doivent arriver en même temps (5 secondes d'intervalle) à 50%.  
 Pendant ce temps, le reste du groupe va pouvoir utiliser les piliers situés en bas de la salle pour positionner des zones dans lesquelles ils devront tuer les add (1 add = 1 zone = 1 debuff pour chacun des boss).  
