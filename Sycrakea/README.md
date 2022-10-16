@@ -356,7 +356,7 @@ Lorsque le boss arrive à environ **80%** de PV, la phase des calamars est décl
 ### Couleurs
 **Difficulté : I**  
 Lorsque le boss arrive à environ **70%** de PV, la phase des couleurs est déclanchée (et est déclanchée plus tard autour de 30-40% PV).  
-- 5 couleurs sont possibles : Jaune, Bleu, Rouge et Blanc.
+- 4 couleurs sont possibles : Jaune, Bleu, Rouge et Blanc.
 - 1 Joueur énonce les couleurs qui arrivent vers le boss afin qu'un autre puisse en noté le nombre d'occurence. Pendant ce temps, les autres joueurs localisent les portes de couleurs localisées sur le mur au fond de chacun des cadrants.
 - Une fois les couleurs terminées, le joueurs ayant compter le nombre d'occurence de chacune indique celle qui est apparue le **PLUS** de fois, et chaque joueur doit se déplacer en direction de la porte de la couleur correspondante afin d'obtenir une sphère protectirece. (lorsque vous avez obtenue la sphère, vous pouvez vous déplacer plus loin et laisser la place à d'autre joueur, la zone permettant de l'obtenir etant assez restrainte).  
 
