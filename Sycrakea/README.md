@@ -420,7 +420,7 @@ Les 2 stèles protectrices vont présenter chacune un symbole ( ◭, △ ou 8), 
 ### Cartios
 **Difficulté : III**  
 Lorsque le boss arrive à environ **20%** de PV, la phase des scorpions est déclanchée (et peut revenir plus tard lors du combat).  
-3 scorpions vont appraitre dans la salle, l'objectif est de tous les battre (ils meurent en arrivant à 50% de PV).
+3 scorpions vont appraitre dans la salle, l'objectif est de tous les battre (ils meurent en arrivant à 50% de PV). Attaquez les dans le dos pour plus d'efficacité !
 
 ---
 
