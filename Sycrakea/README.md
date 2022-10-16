@@ -55,7 +55,7 @@ Cartios, Laikina, Bellora, Serphenn, Apocros
     > | ![Yolunn avide](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/YolunnBrutal.png) | Alchimie simple | <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Ecaille.png" alt="Ecaille" height="30"/> | 2 | <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/ScareEgg.png" alt="Œuf du temps horrifié" height="30"/> | 2 |
     > - Lahtron « cassé » montre son apparence dans la Tombe de Syca. Lorsque Lahtron « cassé » touche Stellagia qui se trouve dans la Tombe de Syca, le piège de la Trachée de Syca sera désactivé pour une certaine durée.
     > <br></br>
-    > <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LahtronEnigme.gif" alt="Lahtron" height="308"/><img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LightDésactivées.gif" alt="Light" height="308"/>
+    > <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LahtronEnigme.gif" alt="Lahtron"/><img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LightDésactivées.gif" alt="Light"/>
 
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
@@ -107,7 +107,7 @@ Lorsque ce monstre tente d'absorber son pouvoir, 3 bulles d'eau vont apparaitres
 ### Bellora
 ![Bellora](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Bellora.png)
 
-Utilisez les poissons (Pisces) et les mobs bleu pour le refroidir en les tuant à proximité des piliers rouge.
+Utilisez les poissons (Piscesis) pour le refroidir en les tuant à proximité des piliers rouge.
 
 ---
 
