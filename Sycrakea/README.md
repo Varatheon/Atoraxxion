@@ -344,7 +344,7 @@ Lorsque le boss arrive à environ **90%** de PV, la phase des poissons est décl
 Lorsque le boss arrive à environ **80%** de PV, la phase des calamars est déclanchée.  
 - 6 faisseaux de lumière sont tirés depuis des pyramides flotantes. 1 d'entre elle dégage une petite fumée blanche. Notez sa position.  
 
-![Pyramide](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/PdP.PNG)
+![Pyramide](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/PdP.gif)
 
 - Pendant que vous cherchez la bonne pyramide, attaquer le calamar brillant en jaune. Celui ci, une fois battu, laisse tomber un pierre de puissance. Utilisez là au niveau de la pyramide trouvée préalablement en effectuant un clique droit sur l'item dans votre inventaire.  
 **⚠️ Attention a bien vous mettre face au boss lors de l'utilisation de l'objet, vous ne pourrez pas bouger (et donc vous soigner) pendant un certain temps ⚠️**
