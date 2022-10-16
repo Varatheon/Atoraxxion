@@ -32,7 +32,7 @@
 - [Poissons brillants](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#poissons-brillants)
 - [Calamars et pierre de puissance](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#calamars-et-pierre-de-puissance)
 - [Couleurs](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#couleurs)
-- [Stèles et symboles](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#stelles-et-symboles)
+- [Stèles et symboles](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#st%C3%A8les-et-symboles)
 - [Scorpions](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#scorpions)
 - [Rayons de lumière](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#rayons-de-lumi%C3%A8re)
 ### [Connaissances](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#connaisances)
