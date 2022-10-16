@@ -32,7 +32,7 @@
 - [Poissons brillants](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#poissons-brillants)
 - [Calamars et pierre de puissance](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#calamars-et-pierre-de-puissance)
 - [Couleurs](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#couleurs)
-- [Stelles et symboles](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#stelles-et-symboles)
+- [Stèles et symboles](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#stelles-et-symboles)
 - [Scorpions](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#scorpions)
 - [Rayons de lumière](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#rayons-de-lumi%C3%A8re)
 ### [Connaissances](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#connaisances)
@@ -119,7 +119,7 @@ Utilisez les poissons (Piscesis) pour le refroidir en les tuant à proximité de
 ### Serphenn
 ![Serphenn](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Serphenn.png)
 
-- Lorsqu'une notification indiquant que Serphenn `controle l'appareil pour absorber le noyau d'alimentation`, il faut que tous les piliers **SAUF 1** soient détruits (en générale, nous laissons celui proche de la stelle ayant permis l'activation du boss).
+- Lorsqu'une notification indiquant que Serphenn `controle l'appareil pour absorber le noyau d'alimentation`, il faut que tous les piliers **SAUF 1** soient détruits (en générale, nous laissons celui proche de la stèle ayant permis l'activation du boss).
 
 ![Serphenn Noyau](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/SerphenNoyau.PNG)
 
@@ -356,6 +356,8 @@ Pendant les phases DPS, placez la difficulté en **II** ou **III** en fonction d
 ### Répartition des joueurs
 Le terrain est partagé en 6 cadrants. 1 joueur se positionne sur le cadrant où se situe la gestion de la difficulté, les autres essayent de se positionner de sorte à couvrir tout le terrain de vue (utile lors de la phase des poissons brillants).
 
+![Salle du boss](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/BossFight.png)
+
 ---
 
 ### Cubes volants et prisons
@@ -365,10 +367,10 @@ Le terrain est partagé en 6 cadrants. 1 joueur se positionne sur le cadrant où
 ---
 
 ### Attaque de zone et protection
-Plusieurs fois pendant le combats, votre personnage sera 'aspiré' par une énergie. Il vous faudra alors vous rendre rapidement derrière une des stelles afin d'être protégé de l'attaque de zone qui suivra (OS si non protégé).
+Plusieurs fois pendant le combats, votre personnage sera 'aspiré' par une énergie. Il vous faudra alors vous rendre rapidement derrière une des stèles afin d'être protégé de l'attaque de zone qui suivra (OS si non protégé).
 
 <div align="center">
-  <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Stelle.PNG" alt="Stelle protectrice"/><br></br>
+  <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Stelle.PNG" alt="Stèle protectrice"/><br></br>
 </div>
 
 ---
@@ -407,10 +409,10 @@ Lorsque le boss arrive à environ **70%** de PV, la phase des couleurs est décl
 
 ---
 
-### Stelles et symboles
+### Stèles et symboles
 **Difficulté : I ou II**  
 Lorsque le boss arrive à environ **50%** de PV, la phase des symboles est déclanchée.  
-Les 2 stelles protectrices vont présenter chacune un symbole ( ◭, △ ou 8), et chacun des cadrants en face des stelles (3 et 3) vont également afficher des symboles. Vous devez alors pour chaque **moitié de salle**, placez un joueur sur le symbole au sol correspondant à celui de la stelle.  
+Les 2 stèles protectrices vont présenter chacune un symbole ( ◭, △ ou 8), et chacun des cadrants en face des stèles (3 et 3) vont également afficher des symboles. Vous devez alors pour chaque **moitié de salle**, placez un joueur sur le symbole au sol correspondant à celui de la stèle.  
 **⚠️ Attention: si vous échouez lors de cette phase, vous devrez recommancer le combat ! ⚠️**
 
 ---
