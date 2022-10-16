@@ -224,7 +224,7 @@ Activer la bobine puis effectuez le chemin présenté ici :
 ## Boss Final
 ![Urkyos](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Urkyos.png)
 ### Phase 1
-2 boss sont présents dans la pièce. Le but est de les éloignés l'un de l'autre et de baisser leur PV. Pour se faire, 1 joueur s'occupe de Lucretia en le positionant en haut à droite, 1 autre s'occupe de Urkyos en le positionnant en bas à gauche (sens d'orientation basée sur l'entrée).  
+2 boss sont présents dans la pièce. Le but est de les éloignés l'un de l'autre et de baisser leur PV. Pour se faire, 1 joueur s'occupe de Lucretia en le positionant en haut à gauche, 1 autre s'occupe de Urkyos en le positionnant en bas à droite (sens d'orientation basée sur l'entrée).  
 
 ![Derniers boss](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/LastBoss.PNG)
 
