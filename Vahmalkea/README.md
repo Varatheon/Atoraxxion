@@ -232,7 +232,10 @@ Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
 
 ## Connaisances
-**⚠️ Finalisez bien toutes les énigmes avant de vous lancer dans les connaissances. En effet, vous aurez besoin du livre d'Atoraxxion pour obtenir les connaissances cachées !⚠️**  
+**⚠️ Finalisez bien toutes les énigmes avant de vous lancer dans les connaissances. En effet, vous aurez besoin du livre d'Atoraxxion pour obtenir les connaissances cachées ! ⚠️**   
+> **Récuparation du livre :**  
+> Une fois toutes les bobines démélées, intéragissez avec votre Esprit Occulte, sélectionnez *Quêtes* puis *Événement*, acceptez la quête [[Atoraxion] Le dernier livre ancestral](https://bdocodex.com/fr/quest/9031/1/) puis parlez à votre Esprit occulte afin de récupérer le livre [Atoraxion - Le dernier livre ancestral](https://bdocodex.com/fr/item/12819/)   
+
 
 [![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/zuORHMQM0xQ/0.jpg)](https://www.youtube.com/watch?v=zuORHMQM0xQ&ab_channel=Rosendo) 
 
