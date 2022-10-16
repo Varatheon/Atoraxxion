@@ -127,6 +127,9 @@ Lors du combat, il est nécessaire d'avoir 1 joueur devant chacun des pilers de 
 
 Placez les 6 boîtes de sorte à ce que la balance soit équilibrée (elles ne font pas toutes la même masse).
 
+**Vidéo Explicative :**  
+[![Enigme 1](https://img.youtube.com/vi/IQScjgLkOuE/0.jpg)](https://www.youtube.com/embed/IQScjgLkOuE?start=89)
+
 ---
 
 #### Arme ancestrale
@@ -141,6 +144,9 @@ Placez les 6 boîtes de sorte à ce que la balance soit équilibrée (elles ne f
 
 Le but ici est de reproduire les mouvements effectués par l'arme ancestrale. Les 3 derniers mouvements (avec illumination des plateformes) ne comptent pas dans la combinaison.
 
+**Vidéo Explicative :**  
+[![Enigme 2](https://img.youtube.com/vi/IQScjgLkOuE/0.jpg)](https://www.youtube.com/embed/IQScjgLkOuE?start=144)
+
 ---
 
 #### Piliers de couleur
@@ -150,6 +156,9 @@ Le but ici est de reproduire les mouvements effectués par l'arme ancestrale. Le
 
 Lorsque la bobine est activée, les piliers vont s'éclairer succéssivement en Rouge et en Bleu. 1 joueur va alors suivre les piliers rouge et un autre les piliers bleu et noter respectivement leur combinaison. A la fin de la séquence, les piliers s'éclairent d'une couleur (qui correspond à la couleur dont il faut entrer la combinaison). Reproduire ensuite la combinaison indiquée par le joueur.
 
+**Vidéo Explicative :**  
+[![Enigme 3](https://img.youtube.com/vi/IQScjgLkOuE/0.jpg)](https://www.youtube.com/embed/IQScjgLkOuE?start=242)
+
 ---
 
 #### Plateformes
@@ -158,6 +167,9 @@ Lorsque la bobine est activée, les piliers vont s'éclairer succéssivement en 
 ![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Puzzle4.png)
 
 1 joueur doit se trouver sur chacune des plateformes indiquées. Le joueur devant valider la quête est placé proche de la sphere et intéragit avec lorsque tous les autres joueurs sont bien positionnés. Effectuez une rotation pour les autres participants n'ayant pas validé la quête.
+
+**Vidéo Explicative :**  
+[![Enigme 4](https://img.youtube.com/vi/IQScjgLkOuE/0.jpg)](https://www.youtube.com/embed/IQScjgLkOuE?start=281)
 
 ---
 
@@ -176,6 +188,9 @@ Lorsque la bobine est activée, les piliers vont s'éclairer succéssivement en 
 Chaque combinaison entraine différents mouvements de plateforme.
 - Une fois le joueur arrivé en haut, il peut intéragir avec le cube afin de le faire apparaitre aux joueurs restés en bas.
 
+**Vidéo Explicative :**  
+[![Enigme cachée 1](https://img.youtube.com/vi/V9-PKSMp8tc/0.jpg)](https://www.youtube.com/embed/V9-PKSMp8tc?start=71)
+
 ---
 
 #### Tetris
@@ -191,6 +206,9 @@ En fonction de la forme affichée (visible en regardant au dessus du damier depu
 ![Enigme cachée 2.2](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-2.png)
 ![Enigme cachée 2.3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret2-3.png)
 
+**Vidéo Explicative :**  
+[![Enigme cachée 2](https://img.youtube.com/vi/V9-PKSMp8tc/0.jpg)](https://www.youtube.com/embed/V9-PKSMp8tc?start=216)
+
 ---
 
 #### Bon chemin
@@ -198,6 +216,9 @@ En fonction de la forme affichée (visible en regardant au dessus du damier depu
 Activer la bobine puis effectuez le chemin présenté ici :
 
 ![Enigme cachée 3](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Secret3.png)
+
+**Vidéo Explicative :**  
+[![Enigme cachée 3](https://img.youtube.com/vi/V9-PKSMp8tc/0.jpg)](https://www.youtube.com/embed/V9-PKSMp8tc?start=430)
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
 ## Boss Final
