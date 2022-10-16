@@ -119,7 +119,7 @@ Utilisez les poissons (Piscesis) pour le refroidir en les tuant à proximité de
 ### Serphenn
 ![Serphenn](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Serphenn.png)
 
-- Lorsqu'une notification indiquant que `Serphenn controle l'appareil pour absorber le noyau d'alimentation`, il faut que tous les piliers **SAUF 1** soient détruits (en général, nous laissons celui proche de la stèle ayant permis l'activation du boss).
+- Lorsqu'une notification indiquant que `Serphenn controle l'appareil pour absorber le noyau d'alimentation`, il faut que tous les piliers **SAUF 1** soient détruits (en général, nous laissons celui proche de la stèle ayant permis l'invocation du boss).
 
 ![Serphenn Noyau](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/SerphenNoyau.PNG)
 
