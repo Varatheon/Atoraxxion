@@ -101,7 +101,7 @@ Attendre qu'il invoque des monstres supplémentaires et ne surtout pas les tappe
 ### Putorakuim
 ![Putorakium](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Putorakium.png)
 
-Utilisez un fusil disponible aux PNJ pour 2 épines de Vaha pour les petits oisieaux volants. Pour le gros piaf, il a le même paterne que Puturum, faites simplement attention aux AoE.
+Utilisez un fusil disponible aux PNJ pour 2 épines de Vaha pour les petits oisieaux volants. Pour le gros piaf, il a le même pattern que Puturum, faites simplement attention aux AoE.
 
 ---
 
