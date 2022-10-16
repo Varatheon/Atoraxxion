@@ -376,16 +376,19 @@ Plusieurs fois pendant le combats, votre personnage sera 'aspiré' par une éner
 ---
 
 ### Lahtrons brillants
-**Difficulté : III ou IV**  
+**⚔️ Difficulté : III ou IV ⚔️**  
 Lorsque le boss arrive à environ **90%** de PV, la phase des poissons est déclanchée.  
-- 1 poisson apprait par cadrant ( = 6)
-- 5 poissons vont alors se mettre à briller : ce sont ceux qu'il faut détruire avant qu'ils attaignent le boss.
+- 1 Lahtron apprait par cadrant (6 en tout)
+- 5 Lahtrons vont alors se mettre à briller : ce sont ceux qu'il faut détruire avant qu'ils n'attaignent le boss.
 - Si 1 des poissons brillant touche le boss, il est possible de survivre à la prochaine attaque en cliquant sur 'V' au moment où le message d'echec apparait, sinon, vous devrez recommancer le combat.
+
+> **Note :**  
+> Pour plus de facilité, chaque joueur recule au fond de son cadrant (là où apparait le Lahtron). S'il brille, le joueur peut alors le combattre, sinon il se dirige vers le cadrant qui n'est pas occupé pour y combattre le Lahtron.
 
 ---
 
 ### Belloras et pierre de puissance
-**Difficulté : I**  
+**⚔️ Difficulté : I ⚔️**  
 Lorsque le boss arrive à environ **80%** de PV, la phase des calamars est déclanchée.  
 - 6 faisseaux de lumière sont tirés depuis des pyramides flotantes. 1 d'entre elle dégage une petite fumée blanche. Notez sa position.    
 
@@ -399,7 +402,7 @@ Lorsque le boss arrive à environ **80%** de PV, la phase des calamars est décl
 ---
 
 ### Couleurs
-**Difficulté : I**  
+**⚔️ Difficulté : I ⚔️**  
 Lorsque le boss arrive à environ **70%** de PV, la phase des couleurs est déclanchée (et est déclanchée plus tard autour de 30-40% PV).  
 - 4 couleurs sont possibles : Jaune, Bleu, Rouge et Blanc.
 - 1 Joueur énonce les couleurs qui arrivent vers le boss afin qu'un autre puisse en noté le nombre d'occurence. Pendant ce temps, les autres joueurs localisent les portes de couleurs localisées sur le mur au fond de chacun des cadrants.
@@ -410,22 +413,22 @@ Lorsque le boss arrive à environ **70%** de PV, la phase des couleurs est décl
 ---
 
 ### Stèles et symboles
-**Difficulté : I ou II**  
+**⚔️ Difficulté : I ou II ⚔️**  
 Lorsque le boss arrive à environ **50%** de PV, la phase des symboles est déclanchée.  
-Les 2 stèles protectrices vont présenter chacune un symbole ( ◭, △ ou 8), et chacun des cadrants en face des stèles (3 et 3) vont également afficher des symboles. Vous devez alors pour chaque **moitié de salle**, placez un joueur sur le symbole au sol correspondant à celui de la stèle.  
+Les 2 stèles protectrices vont présenter chacune un symbole ( ◭, △ ou 8), et chacun des cadrants en face des stèles (3 et 3) vont également afficher des symboles. Vous devez alors pour chaque **moitié de salle**, placez un joueur sur le symbole au sol correspondant à celui de la stèle.<br></br>
 **⚠️ Attention: si vous échouez lors de cette phase, vous devrez recommancer le combat ! ⚠️**
 
 ---
 
 ### Cartios
-**Difficulté : III**  
+**⚔️ Difficulté : III ⚔️**  
 Lorsque le boss arrive à environ **20%** de PV, la phase des scorpions est déclanchée (et peut revenir plus tard lors du combat).  
 3 scorpions vont appraitre dans la salle, l'objectif est de tous les battre (ils meurent en arrivant à 50% de PV). Attaquez les dans le dos pour plus d'efficacité !
 
 ---
 
 ### Rayons de lumière
-**Difficulté : II ou III**  
+**⚔️ Difficulté : II ou III ⚔️**  
 Lorsque le boss arrive à environ **20%** de PV ou moins.  
 Ici, le but est de détruire toute les sources de rayon de lumières (provenant de d'artefacts depuis les murs de la salles) en faisant attention à toutes les AoE du boss.
 
