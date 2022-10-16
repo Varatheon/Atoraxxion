@@ -250,8 +250,7 @@ Vous devez réaliser la bonne combinaison de cubes pour pousuivre. En attaquant 
 
 Lorsqu'un joueur activera la bobine, les cheminées s'activeront une à une. Il faut alors retenir la séquence des cheminées pour la reproduire à nouveau une fois la celle-ci terminée.
 
->**Vidéo Explicative :**  
->[![Enigme 4](https://img.youtube.com/vi/D-IFjy1BV9g/0.jpg)](https://www.youtube.com/watch?v=D-IFjy1BV9g&t=514)
+> <strong><a href="https://www.youtube.com/watch?v=D-IFjy1BV9g&t=514s" target="_blank">❗ Vidéo explicative ❗</a></strong>
 
 ---
 
