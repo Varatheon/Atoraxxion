@@ -92,6 +92,8 @@ Lorsque le scorpion commence à se charger, attaquer en priorité le dard plant�
 
 > <strong><a href="https://www.youtube.com/watch?v=D-IFjy1BV9g&t=84s" target="_blank">❗ Vidéo explicative ❗</a></strong>
 
+[Go to this page](http://somelink.com/?target=_blank)
+
 ---
 
 ### Laikina
