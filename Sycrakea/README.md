@@ -418,6 +418,9 @@ Lorsque le boss arrive à environ **50%** de PV, la phase des symboles est décl
 Les 2 stèles protectrices vont présenter chacune un symbole ( ◭, △ ou 8), et chacun des cadrants en face des stèles (3 et 3) vont également afficher des symboles. Vous devez alors pour chaque **moitié de salle**, placez un joueur sur le symbole au sol correspondant à celui de la stèle.<br></br>
 **⚠️ Attention: si vous échouez lors de cette phase, vous devrez recommancer le combat ! ⚠️**
 
+> **Note :**
+> Vous devez trouver 2 fois le bon symbole (par stèle) pour valider cette étape.
+
 ---
 
 ### Cartios
