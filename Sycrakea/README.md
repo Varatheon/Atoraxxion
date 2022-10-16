@@ -180,7 +180,24 @@ Le but ici est d'activé l'ensemble des tours. Lorsque vous intéragissez avec u
 #### Plateformes et lumières
 **Quête :** *to complete*  
 1. Les symboles (I, II, ¬, ㅁ, ou vide) des 4 cubes de chacunes des zones doivents être identiques. Pour se faire, les joueurs positionnés dans la zone 2 doivent monter sur les plateformes afin de les faire correspondres à celles de la zone 1.
-2. Il faut à présent allumer les 3 piliers de la zones 2. Les joueurs dans la zone 1 vont devoir se positionner sur les plateformes à leur disposition en suivant les indications des joueurs de la zones 2. Chacune des plateformes va avoir une action différente sur la lumière des piliers. A vous de trouver la bonne combinaison !  
+
+> *Exemple :*  
+>     La partie haute de l'image ci après représente la l'ordre et la combinaison à reproduire. Chaque cubes présente une plateforme qui permettra de modifier l'affichage des autres cubes situés plus bas. Dans notre exemple, la plateforme de gauche agit sur le cube (en bas) à droite. Si l'on part de la position de départ (vide), il faudra monter 2 fois sur cette plateforme pour obtenir le bon signe sur ce cube. Cette opération est à répéter pour chaque cube, en repérant la plateforme qui lui est associée.<br></br> 
+> ![Enigme 2 1ere partie](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Enigme2Tip.png)  
+> **Mémo**  
+> - Aucune intéraction = Vide  
+> - 1 intéraction = I 
+> - 2 intéractions = II 
+> - 3 intéractions = ¬  
+> - 4 intéractions = ㅁ
+
+2. Il faut à présent allumer les 3 piliers de la zones 2. Les joueurs dans la zone 1 vont devoir se positionner sur les plateformes à leur disposition en suivant les indications des joueurs de la zones 2. Chacune des plateformes va avoir une action différente sur la lumière des piliers. A vous de trouver la bonne combinaison !
+
+> *Exemple:*   
+> - Plateforme de gauche : allume 2 lumière
+> - Plateforme de droite : allume 2 lumières et en éteint 1 autre 
+> - Plateforme du milieu : allule 1 lumière<br></br>
+> **⚠️ Attention : ceci n'est qu'un exemple, la combinaison est aléatoire ⚠️**
 
 *1ère zone du puzzle :*  
 
