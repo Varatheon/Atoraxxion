@@ -454,7 +454,7 @@ Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer v
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 ## Connaisances
-**⚠️ Finalisez bien toutes les énigmes de [Vahmalkea](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#enigmes-1) avant de vous lancer dans les connaissances. En effet, vous aurez besoin du livre d'Atoraxxion pour obtenir les connaissances cachées !⚠️**  
+**⚠️ Finalisez bien toutes les énigmes de [Vahmalkea](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#enigmes-1) avant de vous lancer dans les connaissances. En effet, vous aurez besoin du [livre d'Atoraxion](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#connaisances) pour obtenir les connaissances cachées !⚠️**  
 
 [![Liste des connaisances de Vahmalkea](https://img.youtube.com/vi/LnEydSr4aqE/0.jpg)](https://www.youtube.com/watch?v=LnEydSr4aqE&ab_channel=NoodleCorp) 
 
