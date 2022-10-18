@@ -417,27 +417,34 @@ Lorsque le boss arrive à environ **80%** de PV, la phase des calamars est décl
 Lorsque le boss arrive à environ **70%** de PV, la phase des couleurs est déclanchée (et est déclanchée plus tard autour de 30-40% PV).  
 - 4 couleurs sont possibles : Jaune, Bleu, Rouge et Blanc.
 - 1 Joueur énonce les couleurs qui arrivent vers le boss afin qu'un autre puisse en noté le nombre d'occurence. Pendant ce temps, les autres joueurs localisent les portes de couleurs localisées sur le mur au fond de chacun des cadrants.
-- Une fois les couleurs terminées, le joueurs ayant compter le nombre d'occurence de chacune indique celle qui est apparue le **PLUS** de fois, et chaque joueur doit se déplacer en direction de la porte de la couleur correspondante afin d'obtenir une sphère protectirece. (lorsque vous avez obtenue la sphère, vous pouvez vous déplacer plus loin et laisser la place à d'autre joueur, la zone permettant de l'obtenir etant assez restrainte).  
+- Une fois les couleurs terminées, le joueurs ayant compter le nombre d'occurence de chacune indique celle qui est apparue le **PLUS** de fois, et chaque joueur doit se déplacer en direction de la porte de la couleur correspondante afin d'obtenir une sphère protectirece. (lorsque vous avez obtenue la sphère, vous pouvez vous déplacer plus loin et laisser la place à d'autre joueur, la zone permettant de l'obtenir étant assez restrainte).  
 
 ![Porte de Couleur](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/PorteCouleur.PNG)
+
+**⚠️ Attention: si vous n'arrivez pas à temps à la porte de la couleur demandée (sphère de couleur autour du personnage), vous serrez tué par l'AoE du boss ! ⚠️**
 
 ---
 
 ### Stèles et symboles
 **⚔️ Difficulté : I ou II ⚔️**  
 Lorsque le boss arrive à environ **50%** de PV, la phase des symboles est déclanchée.  
-Les 2 stèles protectrices vont présenter chacune un symbole ( ◭, △ ou 8), et chacun des cadrants en face des stèles (3 et 3) vont également afficher des symboles. Vous devez alors pour chaque **moitié de salle**, placez un joueur sur le symbole au sol correspondant à celui de la stèle.<br></br>
-**⚠️ Attention: si vous échouez lors de cette phase, vous devrez recommancer le combat ! ⚠️**
-
-> **Note :**
+Les 2 stèles protectrices vont présenter chacune un symbole ( ◭, △ ou 8), et chacun des cadrants en face des stèles (3 et 3) vont également afficher des symboles. Vous devez alors pour chaque **moitié de salle**, placez un joueur sur le symbole au sol correspondant à celui de la stèle.  
+> **Note :**  
 > Vous devez trouver 2 fois le bon symbole (par stèle) pour valider cette étape.
+
+**⚠️ Attention: si vous échouez lors de cette phase, vous devrez recommancer le combat ! ⚠️**
 
 ---
 
 ### Cartios
 **⚔️ Difficulté : III ⚔️**  
 Lorsque le boss arrive à environ **20%** de PV, la phase des Cartios est déclanchée (et peut revenir plus tard lors du combat).  
-3 Cartios vont appraitre dans la salle, l'objectif est de tous les battre (ils meurent en arrivant à 50% de PV). Attaquez les dans le dos pour plus d'efficacité !
+3 Cartios vont appraitre dans la salle, l'objectif est de tous les battre (ils meurent en arrivant à 50% de PV).  
+
+> **Note :**  
+> Attaquez les dans le dos pour plus d'efficacité !
+
+**⚠️ Attention: si vous échouez lors de cette phase, vous devrez recommancer le combat ! ⚠️**
 
 ---
 
@@ -447,6 +454,8 @@ Lorsque le boss arrive à environ **20%** de PV ou moins.
 Ici, le but est de détruire toute les sources de rayon de lumières (provenant de d'artefacts depuis les murs de la salles) en faisant attention à toutes les AoE du boss.
 
 ![Rayon lumineux](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/RayonLumineux.PNG)
+
+**⚠️ Attention: si vous échouez lors de cette phase, vous devrez recommancer le combat ! ⚠️**
 
 Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer votre butin !
 
