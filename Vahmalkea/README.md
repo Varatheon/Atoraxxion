@@ -271,6 +271,10 @@ Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer 
 | Ingénirie ancestrale I | Erudits | 27 | Intéraction |
 | Architecture ancestrale I | Erudits | 11 | Intéraction |
 
+|   | 1ère Quête de Connaissance | 2ème Quête de Connaissance | Saisons & Normaux | Elvia |
+|:---:|:---:|:---:|:---:|:---:|
+| **TOTAL** | 70 | 130 | 144 | 145 |
+
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
 
 Source : https://www.blackdesertfoundry.com/atoraxxion-dungeon-guide/
