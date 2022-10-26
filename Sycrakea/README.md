@@ -479,6 +479,10 @@ Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer v
 | Ingénirie ancestrale II | Erudits | 19 | Intéraction |
 | Architecture ancestrale II | Erudits | 10 | Intéraction |
 
+|   | 1ère Quête de Connaissance | 2ème Quête de Connaissance | Saisons & Normaux | Elvia |
+|:---:|:---:|:---:|:---:|:---:|
+| **TOTAL** | 70 | 130 | 148 | 149 |
+
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 
 Source : https://www.blackdesertfoundry.com/atoraxxion-dungeon-guide-sycrakea/
