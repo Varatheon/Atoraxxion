@@ -56,7 +56,8 @@ Cartios, Laikina, Bellora, Serphenn, Apocros
     > - Lahtron « cassé » montre son apparence dans la Tombe de Syca. Lorsque Lahtron « cassé » touche Stellagia qui se trouve dans la Tombe de Syca, le piège de la Trachée de Syca sera désactivé pour une certaine durée.
     > <br></br>
     > <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LahtronEnigme.gif" alt="Lahtron"/><img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LightDésactivées.gif" alt="Light"/>
-
+- **[17/11/2022](https://www.naeu.playblackdesert.com/fr-FR/News/Detail?groupContentNo=4265&countryType=fr-FR#Major)**
+    > L'ordre d'association des items pour former les clés permettant accéder aux différentes salles du donjon n'a plus d'importance
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 
