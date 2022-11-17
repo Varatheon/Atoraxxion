@@ -158,18 +158,18 @@ Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer v
 
 | Connaissances | Arborescence | Nombre de connaissance associées | Obtention |
 |:---:|:---:|:---:|:---:|
-| Archive de Yolu - Enfance | Personnage > Habitant d'Atoraxion > Architecte de Syca | ? | Finir le donjon |
-| Archive de Yolu - Adolescence | Personnage > Habitant d'Atoraxion > Architecte de Syca | ? | Finir le donjon |
-| Yolunakea | Ecosystème > Atoraxion | 12 | Tuer les monstres présents dans le donjon ou circuit de données |
-| Journal d'aventure de Yolunakea I | Journal d'aventure > Journal d'Atoraxion | ? | Intéraction et Elvia |
-| Journal d'aventure de Yolunakea II | Journal d'aventure > Journal d'Atoraxion | ? | Intéraction |
-| Bobine de Yolu | Journal d'aventure > Journal d'Atoraxion | ? | Résourdre toutes les énigmes |
-| Ingénirie ancestrale III | Erudits | ? | Intéraction |
-| Architecture ancestrale III | Erudits | ? | Intéraction |
+| Archive de Yolu - Enfance | Personnage > Habitant d'Atoraxion > Architecte de Syca | 11 | Finir le donjon |
+| Archive de Yolu - Adolescence | Personnage > Habitant d'Atoraxion > Architecte de Syca | 20 | Finir le donjon |
+| Yolunakea | Ecosystème > Atoraxion | 14 | Tuer les monstres présents dans le donjon ou circuit de données |
+| Journal d'aventure de Yolunakea I | Journal d'aventure > Journal d'Atoraxion | 40 | Intéraction et Elvia |
+| Journal d'aventure de Yolunakea II | Journal d'aventure > Journal d'Atoraxion | 40 | Intéraction |
+| Bobine de Yolu | Journal d'aventure > Journal d'Atoraxion | 3 | Résourdre toutes les énigmes |
+| Ingénirie ancestrale III | Erudits | 22 | Intéraction |
+| Architecture ancestrale III | Erudits | 14 | Intéraction |
 
 |   | 1ère Quête de Connaissance | 2ème Quête de Connaissance | Saisons & Normaux | Elvia |
 |:---:|:---:|:---:|:---:|:---:|
-| **TOTAL** | 70 | 130 | ? | ? |
+| **TOTAL** | 70 | 130 | 163 | 164 |
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#sommaire)
 
