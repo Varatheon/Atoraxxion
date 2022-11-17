@@ -64,17 +64,22 @@ Chacun des 3 Kelluos doivent être battus en même temps. Si l'un est battu, vou
 ---
 
 ### Lekra Brema
-![Lekra Brema](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/LekraBrema.png)
-
 > 🚧 WIP 🚧
 
+![Lekra Brema](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/LekraBrema.png)
+
+> **❗ Vidéo explicative ❗**<br></br>
+> [![Lekra Brema](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=Xbiz8RazLfo&t=25s) 
 
 ---
 
 ### Sebekaruk
+> 🚧 WIP 🚧
+
 ![Sebekaruk](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Sebekaruk.png)
 
-> 🚧 WIP 🚧
+> **❗ Vidéo explicative ❗**<br></br>
+> [![Sebekaruk](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=Xbiz8RazLfo&t=83s) 
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#sommaire)
 
@@ -87,32 +92,41 @@ Chacun des 3 Kelluos doivent être battus en même temps. Si l'un est battu, vou
 
 Notez les couleurs (de haut en bas) afin de connaitre l'ordre dans lequel les sphères devrons entrer en contact avec la tour (Rouge > Bleu > Vert > Jaune dans notre exemple). Pour ralentir les sphères, il vous suffit de marcher sur la plateforme correspondante, cela la retiendra pendant quelques secondes.
 
+> **❗ Vidéo explicative ❗**<br></br>
+> [![Enigme 1 solution](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=u7UoOimbeII&t=2s) 
+
 ---
 
 #### Pompes
 **Quête :** *to complete*  
+> 🚧 WIP 🚧
 
 ![Enigme 2](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Enigme2.png)
 
-> 🚧 WIP 🚧
+> **❗ Vidéo explicative ❗**<br></br>
+> [![Enigme 2 solution](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=sBea1P_8BVU) 
 
 ---
 
 #### Cubes numérotés
 **Quête :** *to complete*  
+> 🚧 WIP 🚧
 
 ![Enigme 3](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Enigme3.png)
 
-> 🚧 WIP 🚧
+> **❗ Vidéo explicative ❗**<br></br>
+> [![Enigme 3 solution](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=0_8pSEeNo3g) 
 
 ---
 
 #### Plateformes colorées
 **Quête :** *to complete*
+> 🚧 WIP 🚧
 
 ![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Enigme4.png)
 
-> 🚧 WIP 🚧
+> **❗ Vidéo explicative ❗**<br></br>
+> [![Enigme 4 solution](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=7F_J4qjFNDw&t=17s) 
 
 ---
 
@@ -124,6 +138,9 @@ Notez les couleurs (de haut en bas) afin de connaitre l'ordre dans lequel les sp
 
 ## Boss Final
 ![Final boss](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/FinalBoss.png)
+
+> **❗ Vidéo explicative ❗**<br></br>
+> [![Final boss](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=Xbiz8RazLfo&t=153s) 
 
 ### Prerequis
 
