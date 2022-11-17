@@ -13,16 +13,16 @@
 - [Sebekaruk](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#sebekaruk)
 ### [Enigmes](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#enigmes-1)
 - [Quêtes](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#qu%C3%AAtes)
-    - [Anneaux de lumière](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#activation-des-tours)
-    - [Pompes](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#plateformes-et-lumi%C3%A8res)
-    - [Cubes numérotés](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#mastermind)
-    - [Plateformes colorées](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#chemin%C3%A9es-ordonn%C3%A9es)
+    - [Anneaux de lumière](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#anneaux-de-lumi%C3%A8re)
+    - [Pompes](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#pompes)
+    - [Cubes numérotés](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#cubes-num%C3%A9rot%C3%A9s)
+    - [Plateformes colorées](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#plateformes-color%C3%A9es)
 - [Cachées](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#cach%C3%A9es)
 ### [Boss Final](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#boss-final-1)
-- [Prérequis](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#gestion-de-la-puissance-du-boss)
-- [Phase 1](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#r%C3%A9partition-des-joueurs)
-- [Phase 2](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#cubes-volants-et-prisons)
-- [Phase 3](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#attaque-de-zone-et-protection)
+- [Prérequis](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#pr%C3%A9requis)
+- [Phase 1](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#phase-1)
+- [Phase 2](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#phase-2)
+- [Phase 3](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#phase-3)
 ### [Connaissances](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#connaisances)
 
 ## Mises à jour
@@ -123,7 +123,7 @@
 ## Boss Final
 ![Final boss](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/FinalBoss.png)
 
-### Prérequis
+### Prerequis
 
 > WIP
 
