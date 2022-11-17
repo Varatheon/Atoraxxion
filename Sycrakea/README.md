@@ -58,7 +58,7 @@ Cartios, Laikina, Bellora, Serphenn, Apocros
     > <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LahtronEnigme.gif" alt="Lahtron"/><img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LightDésactivées.gif" alt="Light"/>
 
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
+[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 
 ## Recommandations
 - **Serveur saisonnier** : Equipement Tuvala DUO minimum
