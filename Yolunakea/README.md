@@ -27,7 +27,7 @@
 
 ## Mises à jour
 - **[17/11/2022](https://www.naeu.playblackdesert.com/fr-FR/News/Detail?groupContentNo=4265&countryType=fr-FR#Major)**
-    > - Ajout du troisième biome d'Atoraxion : Yolunakea
+    > Ajout du troisième biome d'Atoraxion : Yolunakea
 
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#sommaire)
