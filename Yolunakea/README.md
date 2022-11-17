@@ -181,7 +181,7 @@ Vous devez completer le minijeu 5 fois pour valider la quête.
 > **❗ Vidéo explicative ❗**<br></br>
 > [![Final boss](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=Xbiz8RazLfo&t=153s) 
 
-### Prerequis
+### Prérequis
 
 - Les objets `Matériel médical` sont utilisables pour réssuciter les membres du groupe.
 - 2 équipes doivent être formées pour l'ensemble du combat de boss.
