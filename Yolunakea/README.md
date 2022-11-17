@@ -81,7 +81,7 @@ Chacun des 3 Kelluos doivent être battus en même temps. Si l'un est battu, vou
 ## Enigmes
 ### Quêtes
 #### Anneaux de lumière
-**Quête :** *Salle des archive de Yolu*
+**Quête :** *Salle des archives de Yolu*
 
 ![Enigme 1](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Enigme1.png)
 
