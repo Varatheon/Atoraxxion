@@ -123,7 +123,7 @@
 ## Boss Final
 ![Final boss](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/FinalBoss.png)
 
-### Prerequis
+### Prérequis
 
 > WIP
 
