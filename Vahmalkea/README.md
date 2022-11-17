@@ -42,6 +42,8 @@ Situs, Monoceros, Lacerta, Kreomar, Putorium, Kratenn, Atenn
     > | Croc sec de Vaha | Obtention | Épine froide de Vaha | Quantité  |
     > |:-----:|:---------:|:-------:|:----------:|
     > | <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/CrocSec.png" alt="croc sec" width="21"/> | Alchimie simple | <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Epine.png" alt="Epine froide" width="21"/> | 5 |
+- **[17/11/2022](https://www.naeu.playblackdesert.com/fr-FR/News/Detail?groupContentNo=4265&countryType=fr-FR#Major)**
+    > L'ordre d'association des items pour former les clés permettant accéder aux différentes salles du donjon n'a plus d'importance
 
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
