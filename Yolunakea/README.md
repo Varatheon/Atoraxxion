@@ -119,18 +119,34 @@ Notez les couleurs (de haut en bas) afin de connaitre l'ordre dans lequel les sp
 **Quête :** *to complete*  
 > 🚧 WIP 🚧
 
-![Enigme 2](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Enigme2.png)
+![Enigme 2](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Enigme2.png)*
+
+Vous devez completer le minijeu 5 fois pour valider la quête.
+
+> **Note** :  
+> ⚠️ Chacun des membre du groupe doit effectuer la manipulation pour valider sa quête
 
 > **❗ Vidéo explicative ❗**<br></br>
-> [![Enigme 2 solution](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=sBea1P_8BVU) 
+> [![Enigme 2 solution](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)]() 
 
 ---
 
 #### Cubes numérotés
 **Quête :** *to complete*  
-> 🚧 WIP 🚧
 
 ![Enigme 3](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Enigme3.png)
+
+> **Prérequis** :  
+> Vous devez être transformé en utilisant un parchemin obtenu lors du combat avec Lekra Brema afin d'intéragir avec les blocs.
+
+- Lorque vous activez la bomine en cliquant sur `Vérifier le processus`, un message avec une suite de chiffre apparait à l'écran.
+> **Exemple** :  
+> Dans l'image ci-dessus, nous avons la combinaison 1 0 4 5. Nous devons alors positionner 1 cube sur la première tour, 0 sur la suivante et ainsi de suite.
+
+- Intéragissez avec le Stellagia pour sélectionner à partir de quelle tour les cubes vont se déplacer, puis avec la tour cible.
+
+> **Note** :  
+> Tous les cubes de la tour source seront déplacer vers la tour cible. Si vous avez besoin de réduire le nombre de cube, vous pouvez utiliser les plus petites tours.
 
 > **❗ Vidéo explicative ❗**<br></br>
 > [![Enigme 3 solution](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=0_8pSEeNo3g) 
@@ -139,9 +155,13 @@ Notez les couleurs (de haut en bas) afin de connaitre l'ordre dans lequel les sp
 
 #### Plateformes colorées
 **Quête :** *to complete*
-> 🚧 WIP 🚧
 
 ![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Enigme4.png)
+
+- 6 plateformes sont présentes au total : 
+  - 4 sont alumées de 4 couleurs distinctes : Bleu, Rouge, Jaune et Vert
+  - 2 sont éteintes
+- Sur ces plateformes se trouvent des orbes dont il faut faire correspondre la couleurs. Il suffit d'interagit avec une orbe pour la déplacer.
 
 > **❗ Vidéo explicative ❗**<br></br>
 > [![Enigme 4 solution](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=7F_J4qjFNDw&t=17s) 
