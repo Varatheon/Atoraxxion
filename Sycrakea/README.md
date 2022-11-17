@@ -394,7 +394,7 @@ Lorsque le boss arrive à environ **90%** de PV, la phase des poissons est décl
 - 5 Lahtrons vont alors se mettre à briller : ce sont ceux qu'il faut détruire avant qu'ils n'attaignent le boss.
 - Si 1 des poissons brillant touche le boss, il est possible de survivre à la prochaine attaque en cliquant sur 'V' au moment où le message d'echec apparait, sinon, vous devrez recommancer le combat.
 
-> **Note :**  
+> **Note** :  
 > Pour plus de facilité, chaque joueur recule au fond de son cadrant (là où apparait le Lahtron). S'il brille, le joueur peut alors le combattre, sinon il se dirige vers le cadrant qui n'est pas occupé pour y combattre le Lahtron.
 
 ---
@@ -430,7 +430,7 @@ Lorsque le boss arrive à environ **70%** de PV, la phase des couleurs est décl
 **⚔️ Difficulté : I ou II ⚔️**  
 Lorsque le boss arrive à environ **50%** de PV, la phase des symboles est déclanchée.  
 Les 2 stèles protectrices vont présenter chacune un symbole ( ◭, △ ou 8), et chacun des cadrants en face des stèles (3 et 3) vont également afficher des symboles. Vous devez alors pour chaque **moitié de salle**, placez un joueur sur le symbole au sol correspondant à celui de la stèle.  
-> **Note :**  
+> **Note** :  
 > Vous devez trouver 2 fois le bon symbole (par stèle) pour valider cette étape.
 
 **⚠️ Attention: si vous échouez lors de cette phase, vous devrez recommancer le combat ! ⚠️**
@@ -442,7 +442,7 @@ Les 2 stèles protectrices vont présenter chacune un symbole ( ◭, △ ou 8), 
 Lorsque le boss arrive à environ **20%** de PV, la phase des Cartios est déclanchée (et peut revenir plus tard lors du combat).  
 3 Cartios vont appraitre dans la salle, l'objectif est de tous les battre (ils meurent en arrivant à 50% de PV).  
 
-> **Note :**  
+> **Note** :  
 > Attaquez les dans le dos pour plus d'efficacité !
 
 **⚠️ Attention: si vous échouez lors de cette phase, vous devrez recommancer le combat ! ⚠️**
