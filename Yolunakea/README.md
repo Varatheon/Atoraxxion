@@ -159,8 +159,8 @@ Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer v
 
 | Connaissances | Arborescence | Nombre de connaissance associées | Obtention |
 |:---:|:---:|:---:|:---:|
-| Archive de Yolu - Enfance | Personnage > Habitant d'Atoraxion > Architecte de Syca | 11 | Finir le donjon |
-| Archive de Yolu - Adolescence | Personnage > Habitant d'Atoraxion > Architecte de Syca | 20 | Finir le donjon |
+| Archive de Yolu - Enfance | Personnage > Habitant d'Atoraxion > Architecte de Yolu | 11 | Finir le donjon |
+| Archive de Yolu - Adolescence | Personnage > Habitant d'Atoraxion > Architecte de Yolu | 20 | Finir le donjon |
 | Yolunakea | Ecosystème > Atoraxion | 14 | Tuer les monstres présents dans le donjon ou circuit de données |
 | Journal d'aventure de Yolunakea I | Journal d'aventure > Journal d'Atoraxion | 40 | Intéraction et Elvia |
 | Journal d'aventure de Yolunakea II | Journal d'aventure > Journal d'Atoraxion | 40 | Intéraction |
