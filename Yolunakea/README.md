@@ -68,6 +68,15 @@ Chacun des 3 Kelluos doivent être battus en même temps. Si l'un est battu, vou
 
 ![Lekra Brema](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/LekraBrema.png)
 
+Vous pouvez commencer par taper le boss en entrant dans la salle. Lorsque des cercles lumineux appraissent sur le mur dans la salle (représentant les 4 coins de la salle où se trouveront des plateformes). Le nombre de cercle allumés (par coin) désigne le nombre de joueur nécessaire afin de combattre les monstres se trouvant sur la plateforme correspondante.
+
+![Cercles lumineux](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/LekraBrema1.png)
+
+> **Exemple** :  
+> Si 2 cercles sont allumés dans le coin en haut à gauche, cela signifie que 2 joueurs devront se rendre sur la plateforme du coin en haut à gauche pour combattre les mobs qui s'y trouvent. 
+
+Une fois cela fait, il suffit de DPS le boss pour le terminer.
+
 > **❗ Vidéo explicative ❗**<br></br>
 > [![Lekra Brema](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=Xbiz8RazLfo&t=25s) 
 
@@ -77,6 +86,15 @@ Chacun des 3 Kelluos doivent être battus en même temps. Si l'un est battu, vou
 > 🚧 WIP 🚧
 
 ![Sebekaruk](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Sebekaruk.png)
+
+Pour ce boss, vous allez devoir utiliser les parchemins de transformation obtenu lors du combat avec Lekra Brema. 5 transformations seront disponibles (1 par membre du groupe) :
+- **Lacerta** : Place un débuff (Q) sur le boss afin d'augmenter les dégàts reçus.
+- **Situs** : Lorsque le message `Source d'alimentation de secours activée. Activation de la régénération de Sebekaruk` s'affiche à l'écran, des trours avec une aura verte vont apparaitre dans la zone. Il faut sauter dessus et intéragir avec la tour pour stopper la régénération du boss. Une fois désactivé, le message `Source d'alimentation de secours endommagée. Impossible de régénérer Sebekaruk.` informe que la régénération du boss ést terminée.
+- **Kratenn** : DPS
+- **Monoceros** : DPS
+- **Kreomar** : DPS
+
+![Tour de lumière](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Sebekaruk1.png)
 
 > **❗ Vidéo explicative ❗**<br></br>
 > [![Sebekaruk](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=Xbiz8RazLfo&t=83s) 
@@ -137,32 +155,102 @@ Notez les couleurs (de haut en bas) afin de connaitre l'ordre dans lequel les sp
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#sommaire)
 
 ## Boss Final
-![Final boss](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/FinalBoss.png)
+
+> 🚧 WIP 🚧  
 
 > **❗ Vidéo explicative ❗**<br></br>
 > [![Final boss](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=Xbiz8RazLfo&t=153s) 
 
 ### Prerequis
 
-> 🚧 WIP 🚧
+- Les objets `Matériel médical` sont utilisables pour réssuciter les membres du groupe.
+- 2 équipes doivent être formées pour l'ensemble du combat de boss.
+- S'assurer d'avoir les effets activer afin de percevoir l'ensemble des éléments.
 
 ---
 
 ### Phase 1
 
-> 🚧 WIP 🚧
+- Répartir les 2 équipes de chaque côté de la sphère.  
+
+![Phase 1-1](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase1-1.png)
+
+- Battre les monstres (Vandum) qui apparaissent avant qu'ils n'atteignent la sphère.    
+
+![Phase 1-2](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase1-2.png)
+
+- Apporter les sphères vertes obtenue à la statue la plus proche.   
+
+![Phase 1-3](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase1-3.png)
+
+- Un Kelluos va alors apparaitre non loin de la statue (à chaque coin). Celui ci va alors émettre une certaine couleur. Il faut alors DPS le mob tout en interceptant les sphères de la couleurs corrspondante. Si cela n'est pas fait a temps, une AoE est réalisée par ce dernier et peu tuer certains membres du groupe.
+
+![Phase 1-4](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase1-4.png)
+
+- Pendant que le monstre précédent est présent, il est possible que d'autre mob apparaissent au milieu de la zone (comme lors du début de la phase). Prenez le temps de les DPS puis retournez sur le Kelluos. 
+- Une fois le Kelluos battu, des Vandum vont apparaitres en masse aux mêmes endroits que précedemment.  
+- Répéter ensuite les phases précédentes pour battre les Kelluos qui vont de nouveau apparaitre dans chacun des coins.
+
+> Combat de mini boss  
+
+![Brekahim](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Brekahim.png)
+
+- Dégàts élevés
+- Eviter les zones jaunes au sol
+
+![Phase 1-5](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase1-5.png)
+
+- 2 piliers sont visibles pendant le combat. Au dessus de chacun d'entre eux se trouvent des orbes qui indiquent le nombre de joueur ayant reçu un buff. Il faut que les 2 piliers présentent tous les 2 5 orbes afin de valider la phase 1.
+
+> **Exemple** :  
+> Si 3 orbes sont présente sur 1 pilier, 2 joueurs doivent s'en approcher pour recevoir un buff.
+
+![Phase 1-6](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase1-6.png)
 
 ---
 
 ### Phase 2
+ 
+- Au démarrage de la phase 2, 2 boss seront présents (1 du côté gauche, l'autre du côté droit). Celui de gauche aura un bouclier qu'il faudra briser.
 
-> 🚧 WIP 🚧
+![Phase 2-1](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase2-1.png)
+
+- Les 2 boss doivent arriver **EN MEME TEMPS** à 50% de point de vie.
+  - Boss de gauche :
+    - il est possible d'esquiver les attaques en se positionnant entre les zones vertes (derrière le boss)
+    - le bouclier peut apparaitre à plusieurs reprise, et s'il n'est pas détruit assez rapidement, il peut régénérer le boss
+    - le boss peut être amené à disparaitre puis réaparaitre avec un cercle bleu autour de lui. Ce dernier ne fait pas beaucoup de dégàts mais vous receverez des CC.
+  - Boss de droite :
+    - il est possible d'esquiver les grosses AoE en se positionnant dans les espaces vides devant le boss (ne pas s'approcher trop près du boss lorsqu'il émet une forte lumière)
+    - il effectue 2 attaques en X l'une après l'autre
+
+- Une fois les boss à 50% de vie, 4 piliers vont apparaite sur la plateforme au milieu de la salle. Détruisez les 4.
+
+![Phase 2-2](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase2-2.png)
+
+- Après avoir détruit les piliers, divisez le groupe en 2 : 2 joueurs au Nord, 3 au Sud. 3 tours sont à détruire de chaque côté, et présentes des méthodes d'apparition distinctes :
+  - **Sud** : marcher sur les tours pour les faire apparaître
+  - **Nord** : Les monstres doivent être positionnés sur les tours (invisibles) en les déplaçant  
+
+![Phase 2-3](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase2-3.png)
+
+- Une fois les tours détruites (Sud) ou vertes (Nord), il est possible de DPS les 2 boss de nouveau. Pour maximiser les dégàts, il est préférable de les éloigner l'un de l'autre.
 
 ---
 
 ### Phase 3
+![Amarillos](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Amarillos.png)
 
-> 🚧 WIP 🚧
+- Phase de DPS jusqu'à 50% de vie.
+- Lorsque des plateforme d'eau apparaissent au sol, utilisez les pour être propulsé et ainsi éviter l'attaque suivante.
+
+![Phase 3-1](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase3-1.png)
+
+- Lorsque le boss arrive à 25% de vie, des tours vont apparaitre au Nord et au Sud. Il faudra alors de nouveau séparer le groupe en 2 ppur venir à bout de chacune des tour. La tour avec un rayon rouge est a détruire avant celle ayant un rayon orange. Si les 2 tours ne sont pas détruites à temps, une AoE va OS l'ensemble du groupe.
+
+![Phase 3-2](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase3-2.png)
+
+- Une fois les tours détruitesn retournez DPS le boss.
 
 Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer votre butin !
 
