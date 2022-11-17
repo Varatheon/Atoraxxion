@@ -39,7 +39,7 @@
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#sommaire)
 ## Organisation du donjon
-> WIP
+> 🚧 WIP 🚧
 
 | Zone | Item | Obtention |
 |:---:|:---:|:---:|
@@ -55,16 +55,18 @@
 
 ## Monstres
 ### Kelluos
-![Kelluos](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Kelluos.png)
+> 🚧 WIP 🚧
 
-> WIP
+![Kelluos](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Kelluos.png)  
+
+Chacun des 3 Kelluos doivent être battus en même temps. Si l'un est battu, vous aurez 15 secondes pour battre les 2 restants. Une fois débarasser des 3 Kelluos, vous pouvez vous diriger vers le pilier au milieu de la salle afin de continuer votre parcours.
 
 ---
 
 ### Lekra Brema
 ![Lekra Brema](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/LekraBrema.png)
 
-> WIP
+> 🚧 WIP 🚧
 
 
 ---
@@ -72,7 +74,7 @@
 ### Sebekaruk
 ![Sebekaruk](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Sebekaruk.png)
 
-> WIP
+> 🚧 WIP 🚧
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#sommaire)
 
@@ -83,7 +85,7 @@
 
 ![Enigme 1](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Enigme1.png)
 
-> WIP
+Noté les couleurs (de haut en bas) afin de connaitre l'ordre dans lequel les sphères devrons entrer en contact avec la tour (Rouge > Bleu > Vert > Jaune dans notre exemple). Pour ralentir les sphères, il vous suffit de marcher sur la plateforme correspondante, cela la retiendra pendant quelques secondes.
 
 ---
 
@@ -92,7 +94,7 @@
 
 ![Enigme 2](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Enigme2.png)
 
-> WIP
+> 🚧 WIP 🚧
 
 ---
 
@@ -101,7 +103,7 @@
 
 ![Enigme 3](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Enigme3.png)
 
-> WIP
+> 🚧 WIP 🚧
 
 ---
 
@@ -110,13 +112,13 @@
 
 ![Enigme 4](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Enigme4.png)
 
-> WIP
+> 🚧 WIP 🚧
 
 ---
 
 ### Cachées
 
-> WIP
+> 🚧 WIP 🚧
 
 [[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#sommaire)
 
@@ -125,25 +127,25 @@
 
 ### Prerequis
 
-> WIP
+> 🚧 WIP 🚧
 
 ---
 
 ### Phase 1
 
-> WIP
+> 🚧 WIP 🚧
 
 ---
 
 ### Phase 2
 
-> WIP
+> 🚧 WIP 🚧
 
 ---
 
 ### Phase 3
 
-> WIP
+> 🚧 WIP 🚧
 
 Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer votre butin !
 
@@ -153,8 +155,7 @@ Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer v
 ## Connaisances
 **⚠️ Finalisez bien toutes les énigmes de [Vahmalkea](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#enigmes-1) avant de vous lancer dans les connaissances. En effet, vous aurez besoin du [livre d'Atoraxion](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#connaisances) pour obtenir les connaissances cachées !⚠️**  
 
-> WIP
-
+> 🚧 WIP 🚧
 
 | Connaissances | Arborescence | Nombre de connaissance associées | Obtention |
 |:---:|:---:|:---:|:---:|
