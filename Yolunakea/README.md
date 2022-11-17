@@ -85,7 +85,7 @@ Chacun des 3 Kelluos doivent être battus en même temps. Si l'un est battu, vou
 
 ![Enigme 1](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Enigme1.png)
 
-Noté les couleurs (de haut en bas) afin de connaitre l'ordre dans lequel les sphères devrons entrer en contact avec la tour (Rouge > Bleu > Vert > Jaune dans notre exemple). Pour ralentir les sphères, il vous suffit de marcher sur la plateforme correspondante, cela la retiendra pendant quelques secondes.
+Notez les couleurs (de haut en bas) afin de connaitre l'ordre dans lequel les sphères devrons entrer en contact avec la tour (Rouge > Bleu > Vert > Jaune dans notre exemple). Pour ralentir les sphères, il vous suffit de marcher sur la plateforme correspondante, cela la retiendra pendant quelques secondes.
 
 ---
 
