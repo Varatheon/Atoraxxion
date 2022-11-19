@@ -59,7 +59,7 @@
 
 ![Kelluos](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Kelluos.png)  
 
-Chacun des 3 Kelluos doivent être battus en même temps. Si l'un est battu, vous aurez 15 secondes pour battre les 2 restants. Une fois débarasser des 3 Kelluos, vous pouvez vous diriger vers le pilier au milieu de la salle afin de continuer votre parcours.
+Chacun des 3 Kelluos doivent être battus en même temps. Si l'un est battu, vous aurez 15 secondes pour battre les 2 restants. Une fois débarassés des 3 Kelluos, vous pouvez vous diriger vers le pilier au milieu de la salle afin de continuer votre parcours.
 
 ---
 
