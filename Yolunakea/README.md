@@ -77,6 +77,12 @@ Vous pouvez commencer par taper le boss en entrant dans la salle. Lorsque des ce
 
 Une fois cela fait, il suffit de DPS le boss pour le terminer.
 
+Après avoir battu le boss, vous receverez une pierre vous permettant de récupérer une transformation utilisée lors du combat avec le boss suivant. Pour ce faire, intéragissez avec les cubes présents dans la salle de la manière suivante :
+- **Lacerta** : en haut à gauche
+- **Kreomar** : en haut à droite
+- **Situs** : en bas à gauche
+- **Monoceros** : en bas à droite
+
 > **❗ Vidéo explicative ❗**<br></br>
 > [![Lekra Brema](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=Xbiz8RazLfo&t=25s) 
 
@@ -89,10 +95,10 @@ Une fois cela fait, il suffit de DPS le boss pour le terminer.
 
 Pour ce boss, vous allez devoir utiliser les parchemins de transformation obtenu lors du combat avec Lekra Brema. 5 transformations seront disponibles (1 par membre du groupe) :
 - **Lacerta** : Place un débuff (Q) sur le boss afin d'augmenter les dégàts reçus.
-- **Situs** : Lorsque le message `Source d'alimentation de secours activée. Activation de la régénération de Sebekaruk` s'affiche à l'écran, des trours avec une aura verte vont apparaitre dans la zone. Il faut sauter dessus et interagir avec la tour pour stopper la régénération du boss. Une fois désactivé, le message `Source d'alimentation de secours endommagée. Impossible de régénérer Sebekaruk.` informe que la régénération du boss ést terminée.
-- **Kratenn** : DPS
-- **Monoceros** : DPS
-- **Kreomar** : DPS
+- **Situs** : Lorsque le message `Source d'alimentation de secours activée. Activation de la régénération de Sebekaruk` s'affiche à l'écran, il faut alors monter la falaise (Shift + Espace > Shift) et sauter sur l'interupteur pour stopper la régénération du boss. Une fois désactivé, le message `Source d'alimentation de secours endommagée. Impossible de régénérer Sebekaruk.` informe que la régénération du boss ést terminée.
+- **Kratenn** : DPS (W + Espace)
+- **Monoceros** : DPS les petits packs de mob avec l'attaque chargée
+- **Kreomar** : Taunt et regroupe les petis packs de mob (Q) pour les rendre plus facile à DPS
 
 ![Tour de lumière](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Sebekaruk1.png)
 
