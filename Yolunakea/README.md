@@ -94,9 +94,9 @@ Après avoir battu le boss, vous receverez une pierre vous permettant de récup�
 ![Sebekaruk](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Sebekaruk.png)
 
 Pour ce boss, vous allez devoir utiliser les parchemins de transformation obtenu lors du combat avec Lekra Brema. 5 transformations seront disponibles (1 par membre du groupe) :
-- **Lacerta** : Place un débuff (Q) sur le boss afin d'augmenter les dégàts reçus.
+- **Lacerta** : Place un débuff (A) sur le boss afin d'augmenter les dégàts reçus.
 - **Situs** : Lorsque le message `Source d'alimentation de secours activée. Activation de la régénération de Sebekaruk` s'affiche à l'écran, il faut alors monter la falaise (Shift + Espace > Shift) et sauter sur l'interupteur pour stopper la régénération du boss. Une fois désactivé, le message `Source d'alimentation de secours endommagée. Impossible de régénérer Sebekaruk.` informe que la régénération du boss ést terminée.
-- **Kratenn** : DPS (W + Espace)
+- **Kratenn** : DPS (A + Espace)
 - **Monoceros** : DPS les petits packs de mob avec l'attaque chargée
 - **Kreomar** : Taunt et regroupe les petis packs de mob (Q) pour les rendre plus facile à DPS
 
