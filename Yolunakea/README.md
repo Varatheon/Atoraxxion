@@ -233,10 +233,10 @@ Vous devez completer le mini-jeu pour valider la quête.
 
 ![Phase 1-5](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase1-5.png)
 
-- 2 piliers sont visibles pendant le combat. Au dessus de chacun d'entre eux se trouvent des orbes (entre 5 et 1). Il faut que les 2 piliers présentent tous les 2 5 orbes afin de valider la phase 1. Pour se faire, il faut ajouter autant de joueur qu'il y a d'orbes manquante.
+- 2 piliers sont visibles pendant le combat. Au dessus de chacun d'entre eux se trouvent des orbes (entre 5 et 1). Il faut que les 2 piliers présentent tous les 2 5 orbes afin de valider la phase 1. Pour se faire (une fois le Brekahim battu) placez vous dans l'orbe étant apparue à l'emplacement du boss puis déplacez vous sur les piliers : autant de joueur doivent s'y positionner qu'il y a d'orbes manquantes.
 
 > **Exemple** :  
-> Si 3 orbes sont présente sur 1 pilier, 2 joueurs doivent s'en approcher pour recevoir un buff.
+> Si 3 orbes sont présente sur 1 pilier, 2 joueurs doivent s'en approcher pour ajouter les orbes manquantes.
 
 ![Phase 1-6](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase1-6.png)
 
