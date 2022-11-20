@@ -190,7 +190,7 @@ Vous devez completer le mini-jeu pour valider la quête.
 - Les objets `Matériel médical` sont utilisables pour réssuciter les membres du groupe.
 - 2 équipes doivent être formées pour l'ensemble du combat de boss.
 - S'assurer d'avoir les effets activer afin de percevoir l'ensemble des éléments.
-- Orientation du donjon utilisé plus bas : 
+- Orientation du donjon utilisée par la suite : 
     - Spawn = **Nord**
     - Fond de la salle = **Sud**
 
@@ -210,7 +210,8 @@ Vous devez completer le mini-jeu pour valider la quête.
 
 ![Phase 1-3](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase1-3.png)
 
-- Un Kelluos va alors apparaitre dans chaque coin de la salle. Celui-ci va émettre une certaine couleur. Il faut alors le DPS tout en interceptant les sphères de la couleur corrspondante. Si cela n'est pas fait a temps, une AoE est réalisée par ce dernier et peut tuer certains membres du groupe.
+- Un Kelluos va alors apparaitre dans chaque coin de la salle. Celui-ci va émettre une certaine couleur. Il faut alors le DPS tout en interceptant les sphères de la couleur corrspondante. Si cela n'est pas fait a temps, une AoE est réalisée par ce dernier et peut tuer certains membres du groupe. Si le DPS n'est pas assez conséquent, le Kelluos va alors se relever et régénérer ses point de vie. Dans le cas contraire, cela permet de réduire le nombre de buff obtenus par les boss de la phase suivante (et réduit donc par conséquent leurs dégàts).
+- Battre les Vahinturams permet replacer les Kelluos en mode racine.
 
 > **Note** :  
 > Il est possible de mettre plusieurs joueurs sur un même Kelluos afin de l'éliminer plus rapidement. Celui présent de l'autre côté se déplacera et vous pourrez le combatre en même temps que les mobs de soin.
