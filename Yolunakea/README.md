@@ -257,7 +257,7 @@ Vous devez completer le mini-jeu pour valider la quête.
 - Une fois les boss en dessous 50% de vie, 4 tourelles vont apparaite sur la plateforme au milieu de la salle. Détruisez les 4.
 
 > **Note** :  
-> > Chaque joueur doit contribuer à la destruction d'une tourelle afin de pouvoir voir les brouillards derrière lesquels ce trouvent les tours
+> Chaque joueur doit contribuer à la destruction d'une tourelle afin de pouvoir voir les brouillards derrière lesquels ce trouvent les tours
 
 ![Phase 2-2](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase2-2.png)
 
