@@ -46,14 +46,15 @@ Situs, Monoceros, Lacerta, Kreomar, Putorium, Kratenn, Atenn
     > L'ordre d'association des items pour former les clés permettant accéder aux différentes salles du donjon n'a plus d'importance
 
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
+[🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
 
 ## Recommandations
 - **Serveur saisonnier** : Equipement Tuvala DUO minimum
 - **Serveur normal** : 250 AP Kutum | 300 DP (pas de pénalités de mort)
 - **Serveur Elvia** : 280 AP Kutum | 370 DP (pénalités de mort sur tout le donjon excepté pour le boss final)  
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
+[🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
+
 ## Organisation du donjon
 ![Vahmalkea map complète](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/VahmalkeaMap.png)
 
@@ -69,7 +70,7 @@ Situs, Monoceros, Lacerta, Kreomar, Putorium, Kratenn, Atenn
 | Berceau de Vaha | ![Dague](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Dague.png) | ![Fabrication dague](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/MakeDague.png) |
 
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
+[🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
 
 ## Monstres
 ### Monoceros
@@ -119,7 +120,8 @@ Lorsque Kratenn se charge (des éclairs et de la poussière apparaissent autour 
 
 Lors du combat, il est nécessaire d'avoir 1 joueur devant chacun des pilers de couleur (Rouge, Bleu et Jaune) et de les garder bas en PV. Pendant le combat, Atenn va indiquer la couleur du pilier à détruire afin de pouvoir le CC. L'opération est à répéter autant de fois qu'il le faut jusqu'à sa mort.  
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
+[🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
+
 ## Enigmes
 ### Quêtes
 #### Balance
@@ -222,7 +224,8 @@ Activer la bobine puis effectuez le chemin présenté ici :
 > **❗ Vidéo explicative ❗**<br></br>
 > [![Enigme secrète 3 solution](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=V9-PKSMp8tc&t=430s)
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
+[🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
+
 ## Boss Final
 ![Urkyos](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/Images/Urkyos.png)
 ### Phase 1
@@ -252,7 +255,7 @@ Il est maintenant temps de DPS le boss à fond. Placez vous dans un coin, bourri
 
 Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer votre butin !
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
+[🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
 
 ## Connaisances
 **⚠️ Finalisez bien toutes les énigmes avant de vous lancer dans les connaissances. En effet, vous aurez besoin du livre d'Atoraxion pour obtenir les connaissances cachées ! ⚠️**   
@@ -277,6 +280,6 @@ Une fois le boss passé, rendez vous dans la salle suivante afin de récupérer 
 |:---:|:---:|:---:|:---:|:---:|
 | **TOTAL** | 70 | 130 | 144 | 145 |
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
+[🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#sommaire)
 
 Source : https://www.blackdesertfoundry.com/atoraxxion-dungeon-guide/
