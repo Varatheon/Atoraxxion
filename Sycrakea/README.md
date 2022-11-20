@@ -59,18 +59,19 @@ Cartios, Laikina, Bellora, Serphenn, Apocros
 - **[17/11/2022](https://www.naeu.playblackdesert.com/fr-FR/News/Detail?groupContentNo=4265&countryType=fr-FR#Major)**
     > L'ordre d'association des items pour former les clés permettant accéder aux différentes salles du donjon n'a plus d'importance
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
+[🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 
 ## Recommandations
 - **Serveur saisonnier** : Equipement Tuvala DUO minimum
 - **Serveur normal** : 250 AP Kutum | 300 DP (pas de pénalités de mort)
 - **Serveur Elvia** : 280 AP Kutum | 370 DP (pénalités de mort sur tout le donjon excepté pour le boss final)  
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
+[🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
+
 ## Organisation du donjon
 ![Sycrakea map complète](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/SycaMap.png)
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
+[🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 
 ## Monstres
 ### Lahtron
@@ -147,7 +148,8 @@ Utilisez les poissons (Piscesis) pour le refroidir en les tuant à proximité de
 > **❗ Vidéo explicative ❗**<br></br>
 > [![Strat Apocros](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=mBW9raXLG7s&t=162s) 
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
+[🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
+
 ## Enigmes
 ### Quêtes
 #### Activation des tours
@@ -348,7 +350,7 @@ Des chiffres vont apparaitre de chaque côté du gros bloc. Chacun des joueurs s
 > - X + . + . + . = 8  
 > - X + . + . + . + . = 9  
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
+[🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 
 ## Boss Final
 ![Sentirutos Rancunier](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/Sentirutos.png)
@@ -462,7 +464,7 @@ Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer v
 
 ---
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
+[🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 ## Connaisances
 **⚠️ Finalisez bien toutes les énigmes de [Vahmalkea](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#enigmes-1) avant de vous lancer dans les connaissances. En effet, vous aurez besoin du [livre d'Atoraxion](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#connaisances) pour obtenir les connaissances cachées !⚠️**  
 
@@ -484,6 +486,6 @@ Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer v
 |:---:|:---:|:---:|:---:|:---:|
 | **TOTAL** | 70 | 130 | 148 | 149 |
 
-[[Retour au sommaire]](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
+[🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 
 Source : https://www.blackdesertfoundry.com/atoraxxion-dungeon-guide-sycrakea/
