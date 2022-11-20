@@ -33,8 +33,8 @@
 
 ## Recommandations
 - **Serveur saisonnier** : Equipement Tuvala DUO minimum
-- **Serveur normal** : 250 AP Kutum | 300 DP (pas de pénalités de mort)
-- **Serveur Elvia** : 280 AP Kutum | 370 DP (pénalités de mort sur tout le donjon excepté pour le boss final)  
+- **Serveur normal** : 250 AP Kutum | 370 DP (pas de pénalités de mort)
+- **Serveur Elvia** : 280 AP Kutum | 401 DP (pénalités de mort sur tout le donjon excepté pour le boss final)  
 
 [🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#sommaire)
 
