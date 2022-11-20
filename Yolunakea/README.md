@@ -27,7 +27,6 @@
 - **[17/11/2022](https://www.naeu.playblackdesert.com/fr-FR/News/Detail?groupContentNo=4265&countryType=fr-FR#Major)**
     > Ajout du troisième biome d'Atoraxion : Yolunakea
 
-
 [🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#sommaire)
 
 ## Recommandations
@@ -255,13 +254,16 @@ Vous devez completer le mini-jeu pour valider la quête.
     - il est possible d'esquiver les grosses AoE en se positionnant dans les espaces vides devant le boss (ne pas s'approcher trop près du boss lorsqu'il émet une forte lumière)
     - il effectue 2 attaques en X l'une après l'autre
 
-- Une fois les boss en dessous 50% de vie, 4 piliers vont apparaite sur la plateforme au milieu de la salle. Détruisez les 4.
+- Une fois les boss en dessous 50% de vie, 4 tourelles vont apparaite sur la plateforme au milieu de la salle. Détruisez les 4.
+
+> **Note** :  
+> > Chaque joueur doit contribuer à la destruction d'une tourelle afin de pouvoir voir les brouillards derrière lesquels ce trouvent les tours
 
 ![Phase 2-2](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase2-2.png)
 
-- Après avoir détruit les piliers, divisez le groupe en 2 : 2 joueurs au **Nord**, 3 au **Sud**. 3 tours sont à détruire de chaque côté, et présentes des méthodes d'apparition distinctes :
-  - **Sud** : marcher sur les tours pour les faire apparaître
-  - **Nord** : Les monstres doivent être positionnés sur les tours (invisibles) en les déplaçant  
+- Après avoir détruit les tourelles, divisez le groupe en 2 : 2 joueurs au **Nord**, 3 au **Sud**. 3 tours sont à détruire au **Sud** (tours jaunes) et 3 tours à activer au **Nord** :
+  - **Sud** : se déplacer au travers des brouillards afin de faire apparaitre les tours. Détruire chacune d'entre elle.
+  - **Nord** : se déplacer au travers des brouillards afin de faire apparaitre les tours. Déplacer ensuite les monstres dessus afin de les activer (lumière verte en leur centre).
 
 ![Phase 2-3](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase2-3.png)
 
