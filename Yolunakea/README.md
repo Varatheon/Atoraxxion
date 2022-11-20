@@ -18,7 +18,6 @@
     - [Cubes numérotés](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#cubes-num%C3%A9rot%C3%A9s)
     - [Plateformes colorées](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#plateformes-color%C3%A9es)
 ### [Boss Final](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#boss-final-1)
-- [Prérequis](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#pr%C3%A9requis)
 - [Phase 1](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#phase-1)
 - [Phase 2](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#phase-2)
 - [Phase 3](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#phase-3)
@@ -185,14 +184,13 @@ Vous devez completer le mini-jeu pour valider la quête.
 > **❗ Vidéo explicative ❗**<br></br>
 > [![Final boss](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=Xbiz8RazLfo&t=153s) 
 
-### Prérequis
-
-- Les objets `Matériel médical` sont utilisables pour réssuciter les membres du groupe.
-- 2 équipes doivent être formées pour l'ensemble du combat de boss.
-- S'assurer d'avoir les effets activer afin de percevoir l'ensemble des éléments.
-- Orientation du donjon utilisée par la suite : 
-    - Spawn = **Nord**
-    - Fond de la salle = **Sud**
+> **Note** :  
+> - Les objets `Matériel médical` sont utilisables pour réssuciter les membres du groupe.
+> - 2 équipes doivent être formées pour l'ensemble du combat de boss.
+> - S'assurer d'avoir les effets activer afin de percevoir l'ensemble des éléments.
+> - Orientation du donjon utilisée par la suite : 
+>    - Spawn = **Nord**
+>    - Fond de la salle = **Sud**
 
 ---
 
