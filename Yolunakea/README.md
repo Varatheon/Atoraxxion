@@ -241,7 +241,7 @@ Vous devez completer le mini-jeu pour valider la quête.
 
 ### Phase 2
  
-- Au démarrage de la phase 2, 2 boss seront présents (1 du côté au **Sud Ouest**, l'autre au **Sud Est**). Celui de gauche aura un bouclier qu'il faudra briser.
+- Au démarrage de la phase 2, 2 boss seront présents (1 du côté au **Sud Ouest**, l'autre au **Sud Est**). Celui à l'**Ouest** aura un bouclier qu'il faudra briser.
 
 ![Phase 2-1](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Phase2-1.png)
 
