@@ -219,7 +219,7 @@ Vous devez completer le mini-jeu pour valider la quête.
 - Une fois le Kelluos battu, des Vandum vont apparaitres en masse aux mêmes endroits que précedemment.  
 - Répéter ensuite les phases précédentes pour battre les Kelluos qui vont de nouveau apparaitre dans chacun des coins.
 
-> **Combat de mini boss**
+> <u>**Combat de mini boss**</u>
 
 ![Brekahim](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Brekahim.png)
 
