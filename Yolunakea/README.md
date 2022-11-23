@@ -53,7 +53,6 @@
 
 ## Monstres
 ### Kelluos
-> 🚧 WIP 🚧
 
 ![Kelluos](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Kelluos.png)  
 
@@ -62,7 +61,6 @@ Chacun des 3 Kelluos doivent être battus en même temps. Si l'un est battu, vou
 ---
 
 ### Lekra Brema
-> 🚧 WIP 🚧
 
 ![Lekra Brema](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/LekraBrema.png)
 
@@ -87,7 +85,6 @@ Après avoir battu le boss, vous receverez une pierre vous permettant de récup�
 ---
 
 ### Sebekaruk
-> 🚧 WIP 🚧
 
 ![Sebekaruk](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/Images/Sebekaruk.png)
 
@@ -177,8 +174,6 @@ Vous devez completer le mini-jeu pour valider la quête.
 [🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Yolunakea/README.md#sommaire)
 
 ## Boss Final
-
-> 🚧 WIP 🚧  
 
 > **❗ Vidéo explicative ❗**<br></br>
 > [![Final boss](https://github.com/Varatheon/Atoraxxion/blob/main/Images/youtubeLogo.gif)](https://www.youtube.com/watch?v=Xbiz8RazLfo&t=153s) 
