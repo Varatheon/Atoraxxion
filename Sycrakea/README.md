@@ -58,6 +58,11 @@ Cartios, Laikina, Bellora, Serphenn, Apocros
     > <img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LahtronEnigme.gif" alt="Lahtron"/><img src="https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/LightDésactivées.gif" alt="Light"/>
 - **[17/11/2022](https://www.naeu.playblackdesert.com/fr-FR/News/Detail?groupContentNo=4265&countryType=fr-FR#Major)**
     > L'ordre d'association des items pour former les clés permettant accéder aux différentes salles du donjon n'a plus d'importance
+- **[23/11/2022](https://www.naeu.playblackdesert.com/fr-FR/News/Detail?groupContentNo=4318&countryType=fr-FR)**
+    > - Il est désormais possible d'utiliser l'objet Matériel médical dans Atoraxion : Vahmalkea et Atoraxion : Sycrakea
+    >     - En revanche, la résurrection n'est toujours pas appliquée via la compétence ''Ange gardien'' du Magicien.
+    > - Ajout d'un dialogue permettant de vous rendre immédiatement à l'Ancienne salle de pierre en interagissant avec la Porte d'Erveta à Atoraxion : Jardin de Vaha/Syca/Yolu.
+    >     - Vous pouvez vous rendre instantanément à l'Ancienne salle de pierre via la Porte d'Erveta lorsque vous quittez le Paradis de Vaha/Syca/Yolu et que vous revenez au Jardin de Yolu.
 
 [🔼 Retour au sommaire 🔼](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/README.md#sommaire)
 
