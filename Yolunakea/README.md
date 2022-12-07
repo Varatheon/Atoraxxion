@@ -294,7 +294,7 @@ Une fois le boss battu, rendez vous dans la salle suivante afin de récupérer v
 ## Connaisances
 **⚠️ Finalisez bien toutes les énigmes de [Vahmalkea](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#enigmes-1) avant de vous lancer dans les connaissances. En effet, vous aurez besoin du [livre d'Atoraxion](https://github.com/Varatheon/Atoraxxion/blob/main/Vahmalkea/README.md#connaisances) pour obtenir les connaissances cachées !⚠️**  
 
-> 🚧 WIP 🚧
+[![Liste des connaisances de Yolunakea](https://img.youtube.com/vi/EIG7-sjAJ3Y/0.jpg)](https://www.youtube.com/watch?v=EIG7-sjAJ3Y&ab_channel=Geats1)
 
 | Connaissances | Arborescence | Nombre de connaissance associées | Obtention |
 |:---:|:---:|:---:|:---:|
