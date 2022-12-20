@@ -427,6 +427,10 @@ Lorsque le boss arrive à environ **70%** de PV, la phase des couleurs est décl
 - 1 Joueur énonce les couleurs qui arrivent vers le boss afin qu'un autre puisse en noté le nombre d'occurence. Pendant ce temps, les autres joueurs localisent les portes de couleurs localisées sur le mur au fond de chacun des cadrants.
 - Une fois les couleurs terminées, le joueurs ayant compter le nombre d'occurence de chacune indique celle qui est apparue le **PLUS** de fois, et chaque joueur doit se déplacer en direction de la porte de la couleur correspondante afin d'obtenir une sphère protectirece. (lorsque vous avez obtenue la sphère, vous pouvez vous déplacer plus loin et laisser la place à d'autre joueur, la zone permettant de l'obtenir étant assez restrainte).  
 
+> **Note** :  
+> Voici un outil développé par notre ami Isky permettant de compter facilement les couleurs :  
+> **[Compteur de couleur by Isky](https://varatheon.github.io/Atoraxxion/Outils/CountColor_v2.html)**
+
 ![Porte de Couleur](https://github.com/Varatheon/Atoraxxion/blob/main/Sycrakea/Images/PorteCouleur.PNG)
 
 **⚠️ Attention: si vous n'arrivez pas à temps à la porte de la couleur demandée (sphère de couleur autour du personnage), vous serrez tué par l'AoE du boss ! ⚠️**
