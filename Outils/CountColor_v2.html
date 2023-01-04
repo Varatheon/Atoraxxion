@@ -2,6 +2,18 @@
 	<head>
 		<meta meta name="viewport" content="width=device-width, user-scalable=no" />
 		<style>
+			.noselect {
+    				-webkit-touch-callout: none; /* iOS Safari */
+      				-webkit-user-select: none; /* Safari */
+       					-khtml-user-select: none; /* Konqueror HTML */
+         						-moz-user-select: none; /* Old versions of Firefox */
+          						-ms-user-select: none; /* Internet Explorer/Edge */
+              						user-select: none; /* Non-prefixed version, currently
+                                    						supported by Chrome, Edge, Opera and Firefox */
+			}
+			.disable-dbl-tap-zoom {
+  				touch-action: manipulation;
+			}
 			.wrapper {
 				display: grid;
 				grid-gap: 10px;
@@ -60,12 +72,13 @@
 		</style>
 	</head>
 	<body>
-		<div class="wrapper">
+		<div class="wrapper noselect">
 			<div id="case1" class="color blue">0</div>
 			<div id="case2" class="color red">0</div>
 			<div id="case3" class="color yellow">0</div>
 			<div id="case4" class="color white">0</div>
-			<div id="case5" class="result lightgray"></div>
+			<div id="case5" class="result lightgray disable-dbl-tap-zoom">
+			</div>
 		</div>
 		<script>
 			let resultSquare = document.querySelector('.result')
